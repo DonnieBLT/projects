@@ -31,4 +31,5 @@ jobs:
           git config --local user.name "GitHub Action"
           git add repo_status.json
           git commit -m "Update repository status" || echo "No changes to commit"
-          git push
+          git remote add origin_with_token "https://${{ secrets.GITHUB_TOKEN }}@github.com/DonnieBLT/projects.git"
+          git push origin_with_token HEAD:main
