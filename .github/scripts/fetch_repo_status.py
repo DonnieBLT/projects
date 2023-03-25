@@ -51,7 +51,7 @@ for project in projects:
 
             repo_statuses.append({
                 'name': project['name'],
-                'repo_name: repo_name,
+                'repo_name': repo_name,
                 'url': project['url'],
                 'created': project['created'],
                 'updated': project['updated'],
