@@ -22,11 +22,12 @@ jobs:
 
       - name: Fetch repository status
         run: python .github/scripts/fetch_repo_status.py
-
+        
       - name: Commit and push changes
-        uses: jsdaniell/action-git-push@v1.0.0
+        uses: endormi/actions-gh-pages@v3
         with:
-          token: ${{ secrets.ACCESS_TOKEN }}
+          personal_token: ${{ secrets.ACCESS_TOKEN }}
           email: "test@github-email-com.com"
           name: "GitHub Action"
-          message: "Update repository"
+          commit_message: "Update repository"
+          branch: main
