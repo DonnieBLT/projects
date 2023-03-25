@@ -79,4 +79,4 @@ for project in projects:
 print('writing repo_status.json')
 
 with open('repo_status.json', 'w') as outfile:
-json.dump(repo_statuses, outfile, indent=2)
+    json.dump(repo_statuses, outfile, indent=2)
