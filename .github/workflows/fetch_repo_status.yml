@@ -24,13 +24,11 @@ jobs:
         run: pip install requests
 
       - name: Fetch repository status
-        env:
-          GITHUB_TOKEN: ${{ secrets.ACCESS_TOKEN }}
         run: python .github/scripts/fetch_repo_status.py
         
       - name: Commit and push
         run: |
-          git config --local user.email "action@github.com"
+          git config --local user.email "test@github-email-com.com"
           git config --local user.name "GitHub Action"
           git add .
           git commit -m "Update repository" || echo "No changes to commit"
