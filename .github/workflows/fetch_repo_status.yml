@@ -22,19 +22,11 @@ jobs:
 
       - name: Fetch repository status
         run: python .github/scripts/fetch_repo_status.py
-        env:
-          GIT_AUTHOR_NAME: "GitHub Action"
-          GIT_AUTHOR_EMAIL: "test@github-email-com.com"
-          GIT_COMMITTER_NAME: "GitHub Action"
-          GIT_COMMITTER_EMAIL: "test@github-email-com.com"
 
-      - name: Commit changes
-        run: |
-          git add .
-          git commit -m "Update repository" || echo "No changes to commit"
-
-      - name: Push changes
-        uses: ad-m/github-push-action@master
+      - name: Commit and push changes
+        uses: jsdaniell/action-git-push@v1.0.0
         with:
-          github_token: ${{ secrets.ACCESS_TOKEN }}
-          branch: main
+          token: ${{ secrets.ACCESS_TOKEN }}
+          email: "test@github-email-com.com"
+          name: "GitHub Action"
+          message: "Update repository"
