@@ -12,7 +12,17 @@
     "region": "Unknown",
     "pitch": "An advanced open source tool to help information security professionals perform network mapping of attack surfaces and external asset discovery using open source information gathering and active reconnaissance techniques!",
     "meetup-group": "",
-    "github_status": "success"
+    "github_status": "Bad credentials",
+    "last_commit": null,
+    "date_released": null,
+    "release_version": null,
+    "committers": null,
+    "stars": null,
+    "top_language": null,
+    "license": null,
+    "forks": null,
+    "prs": null,
+    "issues": null
   },
   {
     "name": "Amass",
@@ -27,7 +37,17 @@
     "region": "Unknown",
     "pitch": "An advanced open source tool to help information security professionals perform network mapping of attack surfaces and external asset discovery using open source information gathering and active reconnaissance techniques!",
     "meetup-group": "",
-    "github_status": "success"
+    "github_status": "Bad credentials",
+    "last_commit": null,
+    "date_released": null,
+    "release_version": null,
+    "committers": null,
+    "stars": null,
+    "top_language": null,
+    "license": null,
+    "forks": null,
+    "prs": null,
+    "issues": null
   },
   {
     "name": "Application Security Verification Standard",
@@ -42,7 +62,17 @@
     "region": "Unknown",
     "pitch": "The OWASP Application Security Verification Standard (ASVS) Project is a framework of security requirements that focus on defining the security controls required when designing, developing and testing modern web applications and web services.",
     "meetup-group": "",
-    "github_status": "success"
+    "github_status": "Bad credentials",
+    "last_commit": null,
+    "date_released": null,
+    "release_version": null,
+    "committers": null,
+    "stars": null,
+    "top_language": null,
+    "license": null,
+    "forks": null,
+    "prs": null,
+    "issues": null
   },
   {
     "name": "Application Security Verification Standard",
@@ -57,7 +87,17 @@
     "region": "Unknown",
     "pitch": "The OWASP Application Security Verification Standard (ASVS) Project is a framework of security requirements that focus on defining the security controls required when designing, developing and testing modern web applications and web services.",
     "meetup-group": "",
-    "github_status": "success"
+    "github_status": "Bad credentials",
+    "last_commit": null,
+    "date_released": null,
+    "release_version": null,
+    "committers": null,
+    "stars": null,
+    "top_language": null,
+    "license": null,
+    "forks": null,
+    "prs": null,
+    "issues": null
   },
   {
     "name": "Cheat Sheets",
@@ -72,7 +112,17 @@
     "region": "Unknown",
     "pitch": "The OWASP Cheat Sheet Series project provides a set of concise good practice guides for application developers and defenders to follow.",
     "meetup-group": "",
-    "github_status": "success"
+    "github_status": "Bad credentials",
+    "last_commit": null,
+    "date_released": null,
+    "release_version": null,
+    "committers": null,
+    "stars": null,
+    "top_language": null,
+    "license": null,
+    "forks": null,
+    "prs": null,
+    "issues": null
   },
   {
     "name": "Cheat Sheets",
@@ -87,7 +137,17 @@
     "region": "Unknown",
     "pitch": "The OWASP Cheat Sheet Series project provides a set of concise good practice guides for application developers and defenders to follow.",
     "meetup-group": "",
-    "github_status": "success"
+    "github_status": "Bad credentials",
+    "last_commit": null,
+    "date_released": null,
+    "release_version": null,
+    "committers": null,
+    "stars": null,
+    "top_language": null,
+    "license": null,
+    "forks": null,
+    "prs": null,
+    "issues": null
   },
   {
     "name": "Csrfguard",
@@ -102,7 +162,17 @@
     "region": "Unknown",
     "pitch": "OWASP CSRFGuard is a library that implements a variant of the synchronizer token pattern to mitigate the risk of Cross-Site Request Forgery (CSRF) attacks.",
     "meetup-group": "",
-    "github_status": "success"
+    "github_status": "Bad credentials",
+    "last_commit": null,
+    "date_released": null,
+    "release_version": null,
+    "committers": null,
+    "stars": null,
+    "top_language": null,
+    "license": null,
+    "forks": null,
+    "prs": null,
+    "issues": null
   },
   {
     "name": "Defectdojo",
@@ -117,7 +187,17 @@
     "region": "Unknown",
     "pitch": "The leading open source application vulnerability management tool built for DevOps and continuous security integration.",
     "meetup-group": "",
-    "github_status": "success"
+    "github_status": "Bad credentials",
+    "last_commit": null,
+    "date_released": null,
+    "release_version": null,
+    "committers": null,
+    "stars": null,
+    "top_language": null,
+    "license": null,
+    "forks": null,
+    "prs": null,
+    "issues": null
   },
   {
     "name": "Defectdojo",
@@ -132,7 +212,17 @@
     "region": "Unknown",
     "pitch": "The leading open source application vulnerability management tool built for DevOps and continuous security integration.",
     "meetup-group": "",
-    "github_status": "success"
+    "github_status": "Bad credentials",
+    "last_commit": null,
+    "date_released": null,
+    "release_version": null,
+    "committers": null,
+    "stars": null,
+    "top_language": null,
+    "license": null,
+    "forks": null,
+    "prs": null,
+    "issues": null
   },
   {
     "name": "Dependency Check",
@@ -147,7 +237,17 @@
     "region": "Unknown",
     "pitch": "Dependency-Check is a Software Composition Analysis (SCA) tool suite that identifies project dependencies and checks if there are any known, publicly disclosed, vulnerabilities.",
     "meetup-group": "",
-    "github_status": "success"
+    "github_status": "Bad credentials",
+    "last_commit": null,
+    "date_released": null,
+    "release_version": null,
+    "committers": null,
+    "stars": null,
+    "top_language": null,
+    "license": null,
+    "forks": null,
+    "prs": null,
+    "issues": null
   },
   {
     "name": "Juice Shop",
@@ -162,7 +262,17 @@
     "region": "Unknown",
     "pitch": "Probably the most modern and sophisticated insecure web application for security trainings, awareness demos and CTFs. Also great voluntary guinea pig for your security tools and DevSecOps pipelines!",
     "meetup-group": "",
-    "github_status": "success"
+    "github_status": "Bad credentials",
+    "last_commit": null,
+    "date_released": null,
+    "release_version": null,
+    "committers": null,
+    "stars": null,
+    "top_language": null,
+    "license": null,
+    "forks": null,
+    "prs": null,
+    "issues": null
   },
   {
     "name": "Juice Shop",
@@ -177,7 +287,17 @@
     "region": "Unknown",
     "pitch": "Probably the most modern and sophisticated insecure web application for security trainings, awareness demos and CTFs. Also great voluntary guinea pig for your security tools and DevSecOps pipelines!",
     "meetup-group": "",
-    "github_status": "success"
+    "github_status": "Bad credentials",
+    "last_commit": null,
+    "date_released": null,
+    "release_version": null,
+    "committers": null,
+    "stars": null,
+    "top_language": null,
+    "license": null,
+    "forks": null,
+    "prs": null,
+    "issues": null
   },
   {
     "name": "Mobile App Security",
@@ -192,7 +312,17 @@
     "region": "Unknown",
     "pitch": "The OWASP Mobile Application Security (MAS) project consists of a series of documents that establish a security standard for mobile apps and a comprehensive testing guide that covers the processes, techniques, and tools used during a mobile application security assessment, as well as an exhaustive set of test cases that enables testers to deliver consistent and complete results.",
     "meetup-group": "",
-    "github_status": "success"
+    "github_status": "Bad credentials",
+    "last_commit": null,
+    "date_released": null,
+    "release_version": null,
+    "committers": null,
+    "stars": null,
+    "top_language": null,
+    "license": null,
+    "forks": null,
+    "prs": null,
+    "issues": null
   },
   {
     "name": "Mobile App Security",
@@ -207,7 +337,17 @@
     "region": "Unknown",
     "pitch": "The OWASP Mobile Application Security (MAS) project consists of a series of documents that establish a security standard for mobile apps and a comprehensive testing guide that covers the processes, techniques, and tools used during a mobile application security assessment, as well as an exhaustive set of test cases that enables testers to deliver consistent and complete results.",
     "meetup-group": "",
-    "github_status": "success"
+    "github_status": "Bad credentials",
+    "last_commit": null,
+    "date_released": null,
+    "release_version": null,
+    "committers": null,
+    "stars": null,
+    "top_language": null,
+    "license": null,
+    "forks": null,
+    "prs": null,
+    "issues": null
   },
   {
     "name": "Modsecurity Core Rule Set",
@@ -222,7 +362,17 @@
     "region": "Unknown",
     "pitch": "The OWASP ModSecurity Core Rule Set (CRS) is a set of generic attack detection rules for use with ModSecurity or compatible web application firewalls. The CRS aims to protect web applications from a wide range of attacks, including the OWASP Top Ten, with a minimum of false alerts.",
     "meetup-group": "",
-    "github_status": "success"
+    "github_status": "Bad credentials",
+    "last_commit": null,
+    "date_released": null,
+    "release_version": null,
+    "committers": null,
+    "stars": null,
+    "top_language": null,
+    "license": null,
+    "forks": null,
+    "prs": null,
+    "issues": null
   },
   {
     "name": "Modsecurity Core Rule Set",
@@ -237,7 +387,17 @@
     "region": "Unknown",
     "pitch": "The OWASP ModSecurity Core Rule Set (CRS) is a set of generic attack detection rules for use with ModSecurity or compatible web application firewalls. The CRS aims to protect web applications from a wide range of attacks, including the OWASP Top Ten, with a minimum of false alerts.",
     "meetup-group": "",
-    "github_status": "success"
+    "github_status": "Bad credentials",
+    "last_commit": null,
+    "date_released": null,
+    "release_version": null,
+    "committers": null,
+    "stars": null,
+    "top_language": null,
+    "license": null,
+    "forks": null,
+    "prs": null,
+    "issues": null
   },
   {
     "name": "Owtf",
@@ -252,7 +412,17 @@
     "region": "Unknown",
     "pitch": "Offensive Web Testing Framework (OWTF), is an OWASP+PTES focused try to unite great tools and make pen testing more efficient, written mostly in Python.",
     "meetup-group": "",
-    "github_status": "success"
+    "github_status": "Bad credentials",
+    "last_commit": null,
+    "date_released": null,
+    "release_version": null,
+    "committers": null,
+    "stars": null,
+    "top_language": null,
+    "license": null,
+    "forks": null,
+    "prs": null,
+    "issues": null
   },
   {
     "name": "Owtf",
@@ -267,7 +437,17 @@
     "region": "Unknown",
     "pitch": "Offensive Web Testing Framework (OWTF), is an OWASP+PTES focused try to unite great tools and make pen testing more efficient, written mostly in Python.",
     "meetup-group": "",
-    "github_status": "success"
+    "github_status": "Bad credentials",
+    "last_commit": null,
+    "date_released": null,
+    "release_version": null,
+    "committers": null,
+    "stars": null,
+    "top_language": null,
+    "license": null,
+    "forks": null,
+    "prs": null,
+    "issues": null
   },
   {
     "name": "Samm",
@@ -282,7 +462,17 @@
     "region": "Unknown",
     "pitch": "A Software Assurance Maturity Model (SAMM) that provides an effective and measurable way for all types of organizations to analyse and improve their software security posture.",
     "meetup-group": "",
-    "github_status": "success"
+    "github_status": "Bad credentials",
+    "last_commit": null,
+    "date_released": null,
+    "release_version": null,
+    "committers": null,
+    "stars": null,
+    "top_language": null,
+    "license": null,
+    "forks": null,
+    "prs": null,
+    "issues": null
   },
   {
     "name": "Samm",
@@ -297,7 +487,17 @@
     "region": "Unknown",
     "pitch": "A Software Assurance Maturity Model (SAMM) that provides an effective and measurable way for all types of organizations to analyse and improve their software security posture.",
     "meetup-group": "",
-    "github_status": "success"
+    "github_status": "Bad credentials",
+    "last_commit": null,
+    "date_released": null,
+    "release_version": null,
+    "committers": null,
+    "stars": null,
+    "top_language": null,
+    "license": null,
+    "forks": null,
+    "prs": null,
+    "issues": null
   },
   {
     "name": "Security Knowledge Framework",
@@ -312,7 +512,17 @@
     "region": "Unknown",
     "pitch": "The OWASP Security Knowledge Framework is an open source web application that explains secure coding principles in multiple programming languages. The goal of OWASP-SKF is to help you learn and integrate security by design in your software development and build applications that are secure by design.",
     "meetup-group": "",
-    "github_status": "success"
+    "github_status": "Bad credentials",
+    "last_commit": null,
+    "date_released": null,
+    "release_version": null,
+    "committers": null,
+    "stars": null,
+    "top_language": null,
+    "license": null,
+    "forks": null,
+    "prs": null,
+    "issues": null
   },
   {
     "name": "Security Knowledge Framework",
@@ -327,7 +537,17 @@
     "region": "Unknown",
     "pitch": "The OWASP Security Knowledge Framework is an open source web application that explains secure coding principles in multiple programming languages. The goal of OWASP-SKF is to help you learn and integrate security by design in your software development and build applications that are secure by design.",
     "meetup-group": "",
-    "github_status": "success"
+    "github_status": "Bad credentials",
+    "last_commit": null,
+    "date_released": null,
+    "release_version": null,
+    "committers": null,
+    "stars": null,
+    "top_language": null,
+    "license": null,
+    "forks": null,
+    "prs": null,
+    "issues": null
   },
   {
     "name": "Security Shepherd",
@@ -342,7 +562,17 @@
     "region": "Unknown",
     "pitch": "OWASP Security Shepherd is a web and mobile application security training platform. Security Shepherd has been designed to foster and improve security awareness among a varied skill-set demographic. The aim of this project is to take AppSec novices or experienced engineers and sharpen their penetration testing skillset to security expert status.",
     "meetup-group": "",
-    "github_status": "success"
+    "github_status": "Bad credentials",
+    "last_commit": null,
+    "date_released": null,
+    "release_version": null,
+    "committers": null,
+    "stars": null,
+    "top_language": null,
+    "license": null,
+    "forks": null,
+    "prs": null,
+    "issues": null
   },
   {
     "name": "Top Ten",
@@ -357,7 +587,17 @@
     "region": "Unknown",
     "pitch": "The OWASP Top 10 is the reference standard for the most critical web application security risks. Adopting the OWASP Top 10 is perhaps the most effective first step towards changing your software development culture focused on producing secure code.",
     "meetup-group": "",
-    "github_status": "success"
+    "github_status": "Bad credentials",
+    "last_commit": null,
+    "date_released": null,
+    "release_version": null,
+    "committers": null,
+    "stars": null,
+    "top_language": null,
+    "license": null,
+    "forks": null,
+    "prs": null,
+    "issues": null
   },
   {
     "name": "Web Security Testing Guide",
@@ -372,7 +612,17 @@
     "region": "Unknown",
     "pitch": "The Web Security Testing Guide (WSTG) Project produces the premier cybersecurity testing resource for web application developers and security professionals.",
     "meetup-group": "",
-    "github_status": "success"
+    "github_status": "Bad credentials",
+    "last_commit": null,
+    "date_released": null,
+    "release_version": null,
+    "committers": null,
+    "stars": null,
+    "top_language": null,
+    "license": null,
+    "forks": null,
+    "prs": null,
+    "issues": null
   },
   {
     "name": "Web Security Testing Guide",
@@ -387,7 +637,17 @@
     "region": "Unknown",
     "pitch": "The Web Security Testing Guide (WSTG) Project produces the premier cybersecurity testing resource for web application developers and security professionals.",
     "meetup-group": "",
-    "github_status": "success"
+    "github_status": "Bad credentials",
+    "last_commit": null,
+    "date_released": null,
+    "release_version": null,
+    "committers": null,
+    "stars": null,
+    "top_language": null,
+    "license": null,
+    "forks": null,
+    "prs": null,
+    "issues": null
   },
   {
     "name": "Zap",
@@ -402,7 +662,17 @@
     "region": "Unknown",
     "pitch": "The OWASP Zed Attack Proxy (ZAP) is one of the world\u2019s most popular free security tools and is actively maintained by a dedicated international team of volunteers. Great for pentesters, devs, QA, and CI/CD integration.",
     "meetup-group": "",
-    "github_status": "success"
+    "github_status": "Bad credentials",
+    "last_commit": null,
+    "date_released": null,
+    "release_version": null,
+    "committers": null,
+    "stars": null,
+    "top_language": null,
+    "license": null,
+    "forks": null,
+    "prs": null,
+    "issues": null
   },
   {
     "name": "Antisamy",
@@ -417,7 +687,17 @@
     "region": "Unknown",
     "pitch": "AntiSamy is a Java component that can sanitize HTML/CSS to eliminate potentially malicious JavaScript.",
     "meetup-group": "",
-    "github_status": "success"
+    "github_status": "Bad credentials",
+    "last_commit": null,
+    "date_released": null,
+    "release_version": null,
+    "committers": null,
+    "stars": null,
+    "top_language": null,
+    "license": null,
+    "forks": null,
+    "prs": null,
+    "issues": null
   },
   {
     "name": "Antisamy",
@@ -432,7 +712,17 @@
     "region": "Unknown",
     "pitch": "AntiSamy is a Java component that can sanitize HTML/CSS to eliminate potentially malicious JavaScript.",
     "meetup-group": "",
-    "github_status": "success"
+    "github_status": "Bad credentials",
+    "last_commit": null,
+    "date_released": null,
+    "release_version": null,
+    "committers": null,
+    "stars": null,
+    "top_language": null,
+    "license": null,
+    "forks": null,
+    "prs": null,
+    "issues": null
   },
   {
     "name": "Attack Surface Detector",
@@ -447,7 +737,17 @@
     "region": "Unknown",
     "pitch": "More info soon...",
     "meetup-group": "",
-    "github_status": "success"
+    "github_status": "Bad credentials",
+    "last_commit": null,
+    "date_released": null,
+    "release_version": null,
+    "committers": null,
+    "stars": null,
+    "top_language": null,
+    "license": null,
+    "forks": null,
+    "prs": null,
+    "issues": null
   },
   {
     "name": "Attack Surface Detector",
@@ -462,7 +762,17 @@
     "region": "Unknown",
     "pitch": "More info soon...",
     "meetup-group": "",
-    "github_status": "success"
+    "github_status": "Bad credentials",
+    "last_commit": null,
+    "date_released": null,
+    "release_version": null,
+    "committers": null,
+    "stars": null,
+    "top_language": null,
+    "license": null,
+    "forks": null,
+    "prs": null,
+    "issues": null
   },
   {
     "name": "Automated Threats To Web Applications",
@@ -477,7 +787,17 @@
     "region": "Unknown",
     "pitch": "More info soon...",
     "meetup-group": "",
-    "github_status": "success"
+    "github_status": "Bad credentials",
+    "last_commit": null,
+    "date_released": null,
+    "release_version": null,
+    "committers": null,
+    "stars": null,
+    "top_language": null,
+    "license": null,
+    "forks": null,
+    "prs": null,
+    "issues": null
   },
   {
     "name": "Automated Threats To Web Applications",
@@ -492,7 +812,17 @@
     "region": "Unknown",
     "pitch": "More info soon...",
     "meetup-group": "",
-    "github_status": "success"
+    "github_status": "Bad credentials",
+    "last_commit": null,
+    "date_released": null,
+    "release_version": null,
+    "committers": null,
+    "stars": null,
+    "top_language": null,
+    "license": null,
+    "forks": null,
+    "prs": null,
+    "issues": null
   },
   {
     "name": "Benchmark",
@@ -507,7 +837,17 @@
     "region": "Unknown",
     "pitch": "The OWASP Benchmark Project is a Java test suite designed to evaluate the accuracy, coverage, and speed of automated software vulnerability detection tools.",
     "meetup-group": "",
-    "github_status": "success"
+    "github_status": "Bad credentials",
+    "last_commit": null,
+    "date_released": null,
+    "release_version": null,
+    "committers": null,
+    "stars": null,
+    "top_language": null,
+    "license": null,
+    "forks": null,
+    "prs": null,
+    "issues": null
   },
   {
     "name": "Code Pulse",
@@ -522,7 +862,17 @@
     "region": "Unknown",
     "pitch": "More info soon...",
     "meetup-group": "",
-    "github_status": "success"
+    "github_status": "Bad credentials",
+    "last_commit": null,
+    "date_released": null,
+    "release_version": null,
+    "committers": null,
+    "stars": null,
+    "top_language": null,
+    "license": null,
+    "forks": null,
+    "prs": null,
+    "issues": null
   },
   {
     "name": "Code Review Guide",
@@ -537,7 +887,17 @@
     "region": "Unknown",
     "pitch": "More info soon...",
     "meetup-group": "",
-    "github_status": "success"
+    "github_status": "Bad credentials",
+    "last_commit": null,
+    "date_released": null,
+    "release_version": null,
+    "committers": null,
+    "stars": null,
+    "top_language": null,
+    "license": null,
+    "forks": null,
+    "prs": null,
+    "issues": null
   },
   {
     "name": "Coraza Web Application Firewall",
@@ -552,7 +912,17 @@
     "region": "Unknown",
     "pitch": "OWASP Coraza is a golang enterprise-grade WAF framework compatible with Modsecurity and OWASP Core Ruleset.",
     "meetup-group": "",
-    "github_status": "success"
+    "github_status": "Bad credentials",
+    "last_commit": null,
+    "date_released": null,
+    "release_version": null,
+    "committers": null,
+    "stars": null,
+    "top_language": null,
+    "license": null,
+    "forks": null,
+    "prs": null,
+    "issues": null
   },
   {
     "name": "Coraza Web Application Firewall",
@@ -567,7 +937,17 @@
     "region": "Unknown",
     "pitch": "OWASP Coraza is a golang enterprise-grade WAF framework compatible with Modsecurity and OWASP Core Ruleset.",
     "meetup-group": "",
-    "github_status": "success"
+    "github_status": "Bad credentials",
+    "last_commit": null,
+    "date_released": null,
+    "release_version": null,
+    "committers": null,
+    "stars": null,
+    "top_language": null,
+    "license": null,
+    "forks": null,
+    "prs": null,
+    "issues": null
   },
   {
     "name": "Devsecops Maturity Model",
@@ -582,7 +962,17 @@
     "region": "Unknown",
     "pitch": "More info soon...",
     "meetup-group": "",
-    "github_status": "success"
+    "github_status": "Bad credentials",
+    "last_commit": null,
+    "date_released": null,
+    "release_version": null,
+    "committers": null,
+    "stars": null,
+    "top_language": null,
+    "license": null,
+    "forks": null,
+    "prs": null,
+    "issues": null
   },
   {
     "name": "Enterprise Security Api",
@@ -597,7 +987,17 @@
     "region": "Unknown",
     "pitch": "More info soon...",
     "meetup-group": "",
-    "github_status": "success"
+    "github_status": "Bad credentials",
+    "last_commit": null,
+    "date_released": null,
+    "release_version": null,
+    "committers": null,
+    "stars": null,
+    "top_language": null,
+    "license": null,
+    "forks": null,
+    "prs": null,
+    "issues": null
   },
   {
     "name": "Find Security Bugs",
@@ -612,7 +1012,17 @@
     "region": "Unknown",
     "pitch": "Find Security Bugs is a SpotBugs plugin for security audits of Java web applications and Android applications.",
     "meetup-group": "",
-    "github_status": "success"
+    "github_status": "Bad credentials",
+    "last_commit": null,
+    "date_released": null,
+    "release_version": null,
+    "committers": null,
+    "stars": null,
+    "top_language": null,
+    "license": null,
+    "forks": null,
+    "prs": null,
+    "issues": null
   },
   {
     "name": "Find Security Bugs",
@@ -627,7 +1037,17 @@
     "region": "Unknown",
     "pitch": "Find Security Bugs is a SpotBugs plugin for security audits of Java web applications and Android applications.",
     "meetup-group": "",
-    "github_status": "success"
+    "github_status": "Bad credentials",
+    "last_commit": null,
+    "date_released": null,
+    "release_version": null,
+    "committers": null,
+    "stars": null,
+    "top_language": null,
+    "license": null,
+    "forks": null,
+    "prs": null,
+    "issues": null
   },
   {
     "name": "Integration Standards",
@@ -642,7 +1062,17 @@
     "region": "Unknown",
     "pitch": "Standards to integrate between standardisation projects to properly handle content linking between documents and data exchange between tools",
     "meetup-group": "",
-    "github_status": "success"
+    "github_status": "Bad credentials",
+    "last_commit": null,
+    "date_released": null,
+    "release_version": null,
+    "committers": null,
+    "stars": null,
+    "top_language": null,
+    "license": null,
+    "forks": null,
+    "prs": null,
+    "issues": null
   },
   {
     "name": "Internet Of Things",
@@ -657,7 +1087,17 @@
     "region": "Unknown",
     "pitch": "More info soon...",
     "meetup-group": "",
-    "github_status": "success"
+    "github_status": "Bad credentials",
+    "last_commit": null,
+    "date_released": null,
+    "release_version": null,
+    "committers": null,
+    "stars": null,
+    "top_language": null,
+    "license": null,
+    "forks": null,
+    "prs": null,
+    "issues": null
   },
   {
     "name": "Java Html Sanitizer",
@@ -672,7 +1112,17 @@
     "region": "Unknown",
     "pitch": "More info soon...",
     "meetup-group": "",
-    "github_status": "success"
+    "github_status": "Bad credentials",
+    "last_commit": null,
+    "date_released": null,
+    "release_version": null,
+    "committers": null,
+    "stars": null,
+    "top_language": null,
+    "license": null,
+    "forks": null,
+    "prs": null,
+    "issues": null
   },
   {
     "name": "Mobile Security",
@@ -687,7 +1137,17 @@
     "region": "Unknown",
     "pitch": "More info soon...",
     "meetup-group": "",
-    "github_status": "Not Found"
+    "github_status": "Bad credentials",
+    "last_commit": null,
+    "date_released": null,
+    "release_version": null,
+    "committers": null,
+    "stars": null,
+    "top_language": null,
+    "license": null,
+    "forks": null,
+    "prs": null,
+    "issues": null
   },
   {
     "name": "Mobile Security",
@@ -702,7 +1162,17 @@
     "region": "Unknown",
     "pitch": "More info soon...",
     "meetup-group": "",
-    "github_status": "success"
+    "github_status": "Bad credentials",
+    "last_commit": null,
+    "date_released": null,
+    "release_version": null,
+    "committers": null,
+    "stars": null,
+    "top_language": null,
+    "license": null,
+    "forks": null,
+    "prs": null,
+    "issues": null
   },
   {
     "name": "Mobile Top 10",
@@ -717,7 +1187,17 @@
     "region": "Unknown",
     "pitch": "More info soon...",
     "meetup-group": "",
-    "github_status": "success"
+    "github_status": "Bad credentials",
+    "last_commit": null,
+    "date_released": null,
+    "release_version": null,
+    "committers": null,
+    "stars": null,
+    "top_language": null,
+    "license": null,
+    "forks": null,
+    "prs": null,
+    "issues": null
   },
   {
     "name": "Mutillidae Ii",
@@ -732,7 +1212,17 @@
     "region": "Unknown",
     "pitch": "A free, open-source, deliberately vulnerable web application providing a target for web security training",
     "meetup-group": "",
-    "github_status": "success"
+    "github_status": "Bad credentials",
+    "last_commit": null,
+    "date_released": null,
+    "release_version": null,
+    "committers": null,
+    "stars": null,
+    "top_language": null,
+    "license": null,
+    "forks": null,
+    "prs": null,
+    "issues": null
   },
   {
     "name": "Proactive Controls",
@@ -747,7 +1237,17 @@
     "region": "Unknown",
     "pitch": "More info soon...",
     "meetup-group": "",
-    "github_status": "success"
+    "github_status": "Bad credentials",
+    "last_commit": null,
+    "date_released": null,
+    "release_version": null,
+    "committers": null,
+    "stars": null,
+    "top_language": null,
+    "license": null,
+    "forks": null,
+    "prs": null,
+    "issues": null
   },
   {
     "name": "Proactive Controls",
@@ -762,7 +1262,17 @@
     "region": "Unknown",
     "pitch": "More info soon...",
     "meetup-group": "",
-    "github_status": "success"
+    "github_status": "Bad credentials",
+    "last_commit": null,
+    "date_released": null,
+    "release_version": null,
+    "committers": null,
+    "stars": null,
+    "top_language": null,
+    "license": null,
+    "forks": null,
+    "prs": null,
+    "issues": null
   },
   {
     "name": "Pytm",
@@ -777,7 +1287,17 @@
     "region": "Unknown",
     "pitch": "More info soon...",
     "meetup-group": "",
-    "github_status": "success"
+    "github_status": "Bad credentials",
+    "last_commit": null,
+    "date_released": null,
+    "release_version": null,
+    "committers": null,
+    "stars": null,
+    "top_language": null,
+    "license": null,
+    "forks": null,
+    "prs": null,
+    "issues": null
   },
   {
     "name": "Samuraiwtf",
@@ -792,7 +1312,17 @@
     "region": "Unknown",
     "pitch": "More info soon...",
     "meetup-group": "",
-    "github_status": "success"
+    "github_status": "Bad credentials",
+    "last_commit": null,
+    "date_released": null,
+    "release_version": null,
+    "committers": null,
+    "stars": null,
+    "top_language": null,
+    "license": null,
+    "forks": null,
+    "prs": null,
+    "issues": null
   },
   {
     "name": "Secure Coding Dojo",
@@ -807,7 +1337,17 @@
     "region": "Unknown",
     "pitch": "More info soon...",
     "meetup-group": "",
-    "github_status": "success"
+    "github_status": "Bad credentials",
+    "last_commit": null,
+    "date_released": null,
+    "release_version": null,
+    "committers": null,
+    "stars": null,
+    "top_language": null,
+    "license": null,
+    "forks": null,
+    "prs": null,
+    "issues": null
   },
   {
     "name": "Secure Headers",
@@ -822,7 +1362,17 @@
     "region": "Unknown",
     "pitch": "More info soon...",
     "meetup-group": "",
-    "github_status": "success"
+    "github_status": "Bad credentials",
+    "last_commit": null,
+    "date_released": null,
+    "release_version": null,
+    "committers": null,
+    "stars": null,
+    "top_language": null,
+    "license": null,
+    "forks": null,
+    "prs": null,
+    "issues": null
   },
   {
     "name": "Securecodebox",
@@ -837,7 +1387,17 @@
     "region": "Unknown",
     "pitch": "Automate all your security and vulnerability scanners.",
     "meetup-group": "",
-    "github_status": "success"
+    "github_status": "Bad credentials",
+    "last_commit": null,
+    "date_released": null,
+    "release_version": null,
+    "committers": null,
+    "stars": null,
+    "top_language": null,
+    "license": null,
+    "forks": null,
+    "prs": null,
+    "issues": null
   },
   {
     "name": "Securecodebox",
@@ -852,7 +1412,17 @@
     "region": "Unknown",
     "pitch": "Automate all your security and vulnerability scanners.",
     "meetup-group": "",
-    "github_status": "success"
+    "github_status": "Bad credentials",
+    "last_commit": null,
+    "date_released": null,
+    "release_version": null,
+    "committers": null,
+    "stars": null,
+    "top_language": null,
+    "license": null,
+    "forks": null,
+    "prs": null,
+    "issues": null
   },
   {
     "name": "Securetea",
@@ -867,7 +1437,17 @@
     "region": "Unknown",
     "pitch": "More info soon...",
     "meetup-group": "",
-    "github_status": "success"
+    "github_status": "Bad credentials",
+    "last_commit": null,
+    "date_released": null,
+    "release_version": null,
+    "committers": null,
+    "stars": null,
+    "top_language": null,
+    "license": null,
+    "forks": null,
+    "prs": null,
+    "issues": null
   },
   {
     "name": "Securetea",
@@ -882,7 +1462,17 @@
     "region": "Unknown",
     "pitch": "More info soon...",
     "meetup-group": "",
-    "github_status": "API rate limit exceeded for 40.86.13.176. (But here's the good news: Authenticated requests get a higher rate limit. Check out the documentation for more details.)"
+    "github_status": "Bad credentials",
+    "last_commit": null,
+    "date_released": null,
+    "release_version": null,
+    "committers": null,
+    "stars": null,
+    "top_language": null,
+    "license": null,
+    "forks": null,
+    "prs": null,
+    "issues": null
   },
   {
     "name": "Security Pins",
@@ -897,7 +1487,17 @@
     "region": "Unknown",
     "pitch": "More info soon...",
     "meetup-group": "",
-    "github_status": "API rate limit exceeded for 40.86.13.176. (But here's the good news: Authenticated requests get a higher rate limit. Check out the documentation for more details.)"
+    "github_status": "Bad credentials",
+    "last_commit": null,
+    "date_released": null,
+    "release_version": null,
+    "committers": null,
+    "stars": null,
+    "top_language": null,
+    "license": null,
+    "forks": null,
+    "prs": null,
+    "issues": null
   },
   {
     "name": "Security Pins",
@@ -912,7 +1512,17 @@
     "region": "Unknown",
     "pitch": "More info soon...",
     "meetup-group": "",
-    "github_status": "API rate limit exceeded for 40.86.13.176. (But here's the good news: Authenticated requests get a higher rate limit. Check out the documentation for more details.)"
+    "github_status": "Bad credentials",
+    "last_commit": null,
+    "date_released": null,
+    "release_version": null,
+    "committers": null,
+    "stars": null,
+    "top_language": null,
+    "license": null,
+    "forks": null,
+    "prs": null,
+    "issues": null
   },
   {
     "name": "Snakes And Ladders",
@@ -927,7 +1537,17 @@
     "region": "Unknown",
     "pitch": "More info soon...",
     "meetup-group": "",
-    "github_status": "API rate limit exceeded for 40.86.13.176. (But here's the good news: Authenticated requests get a higher rate limit. Check out the documentation for more details.)"
+    "github_status": "Bad credentials",
+    "last_commit": null,
+    "date_released": null,
+    "release_version": null,
+    "committers": null,
+    "stars": null,
+    "top_language": null,
+    "license": null,
+    "forks": null,
+    "prs": null,
+    "issues": null
   },
   {
     "name": "Software Component Verification Standard",
@@ -942,7 +1562,17 @@
     "region": "Unknown",
     "pitch": "SCVS is a framework for identifying activities, controls, and best practices, which can help in identifying and reducing risk in a software supply chain.",
     "meetup-group": "",
-    "github_status": "API rate limit exceeded for 40.86.13.176. (But here's the good news: Authenticated requests get a higher rate limit. Check out the documentation for more details.)"
+    "github_status": "Bad credentials",
+    "last_commit": null,
+    "date_released": null,
+    "release_version": null,
+    "committers": null,
+    "stars": null,
+    "top_language": null,
+    "license": null,
+    "forks": null,
+    "prs": null,
+    "issues": null
   },
   {
     "name": "Software Component Verification Standard",
@@ -957,7 +1587,17 @@
     "region": "Unknown",
     "pitch": "SCVS is a framework for identifying activities, controls, and best practices, which can help in identifying and reducing risk in a software supply chain.",
     "meetup-group": "",
-    "github_status": "API rate limit exceeded for 40.86.13.176. (But here's the good news: Authenticated requests get a higher rate limit. Check out the documentation for more details.)"
+    "github_status": "Bad credentials",
+    "last_commit": null,
+    "date_released": null,
+    "release_version": null,
+    "committers": null,
+    "stars": null,
+    "top_language": null,
+    "license": null,
+    "forks": null,
+    "prs": null,
+    "issues": null
   },
   {
     "name": "Threat Dragon",
@@ -972,7 +1612,17 @@
     "region": "Unknown",
     "pitch": "OWASP Threat Dragon provides a threat modeling application for teams implementing the STRIDE approach, either as a desktop or as a web application. Great for both developers and defenders alike",
     "meetup-group": "",
-    "github_status": "API rate limit exceeded for 40.86.13.176. (But here's the good news: Authenticated requests get a higher rate limit. Check out the documentation for more details.)"
+    "github_status": "Bad credentials",
+    "last_commit": null,
+    "date_released": null,
+    "release_version": null,
+    "committers": null,
+    "stars": null,
+    "top_language": null,
+    "license": null,
+    "forks": null,
+    "prs": null,
+    "issues": null
   },
   {
     "name": "Top 10 Ci Cd Security Risks",
@@ -987,7 +1637,17 @@
     "region": "Unknown",
     "pitch": "OWASP Top 10 CI/CD Security Risks project helps defenders identify focus areas for securing their CI/CD ecosystem.",
     "meetup-group": "",
-    "github_status": "API rate limit exceeded for 40.86.13.176. (But here's the good news: Authenticated requests get a higher rate limit. Check out the documentation for more details.)"
+    "github_status": "Bad credentials",
+    "last_commit": null,
+    "date_released": null,
+    "release_version": null,
+    "committers": null,
+    "stars": null,
+    "top_language": null,
+    "license": null,
+    "forks": null,
+    "prs": null,
+    "issues": null
   },
   {
     "name": "Top 10 Low Code No Code Security Risks",
@@ -1002,7 +1662,17 @@
     "region": "Unknown",
     "pitch": "The primary goal of the \"OWASP Top 10 Low-Code/No-Code Security Risks\" document is to provide assistance and education for organizations looking to adopt and develop Low-Code/No-Code applications. The guide provides information about what are the most prominent security risks for such applications, the challenges involved, and how to overcome them.",
     "meetup-group": "",
-    "github_status": "API rate limit exceeded for 40.86.13.176. (But here's the good news: Authenticated requests get a higher rate limit. Check out the documentation for more details.)"
+    "github_status": "Bad credentials",
+    "last_commit": null,
+    "date_released": null,
+    "release_version": null,
+    "committers": null,
+    "stars": null,
+    "top_language": null,
+    "license": null,
+    "forks": null,
+    "prs": null,
+    "issues": null
   },
   {
     "name": "Top 10 Low Code No Code Security Risks",
@@ -1017,7 +1687,17 @@
     "region": "Unknown",
     "pitch": "The primary goal of the \"OWASP Top 10 Low-Code/No-Code Security Risks\" document is to provide assistance and education for organizations looking to adopt and develop Low-Code/No-Code applications. The guide provides information about what are the most prominent security risks for such applications, the challenges involved, and how to overcome them.",
     "meetup-group": "",
-    "github_status": "API rate limit exceeded for 40.86.13.176. (But here's the good news: Authenticated requests get a higher rate limit. Check out the documentation for more details.)"
+    "github_status": "Bad credentials",
+    "last_commit": null,
+    "date_released": null,
+    "release_version": null,
+    "committers": null,
+    "stars": null,
+    "top_language": null,
+    "license": null,
+    "forks": null,
+    "prs": null,
+    "issues": null
   },
   {
     "name": "Torbot",
@@ -1032,7 +1712,17 @@
     "region": "Unknown",
     "pitch": "Darkweb OSINT Tool",
     "meetup-group": "",
-    "github_status": "API rate limit exceeded for 40.86.13.176. (But here's the good news: Authenticated requests get a higher rate limit. Check out the documentation for more details.)"
+    "github_status": "Bad credentials",
+    "last_commit": null,
+    "date_released": null,
+    "release_version": null,
+    "committers": null,
+    "stars": null,
+    "top_language": null,
+    "license": null,
+    "forks": null,
+    "prs": null,
+    "issues": null
   },
   {
     "name": "Torbot",
@@ -1047,7 +1737,17 @@
     "region": "Unknown",
     "pitch": "Darkweb OSINT Tool",
     "meetup-group": "",
-    "github_status": "API rate limit exceeded for 40.86.13.176. (But here's the good news: Authenticated requests get a higher rate limit. Check out the documentation for more details.)"
+    "github_status": "Bad credentials",
+    "last_commit": null,
+    "date_released": null,
+    "release_version": null,
+    "committers": null,
+    "stars": null,
+    "top_language": null,
+    "license": null,
+    "forks": null,
+    "prs": null,
+    "issues": null
   },
   {
     "name": "Vulnerable Web Applications Directory",
@@ -1062,7 +1762,17 @@
     "region": "Unknown",
     "pitch": "The OWASP Vulnerable Web Applications Directory Project (VWAD) is a comprehensive and well maintained registry of all known vulnerable web applications currently available for legal security and vulnerability testing of various kinds.",
     "meetup-group": "",
-    "github_status": "API rate limit exceeded for 40.86.13.176. (But here's the good news: Authenticated requests get a higher rate limit. Check out the documentation for more details.)"
+    "github_status": "Bad credentials",
+    "last_commit": null,
+    "date_released": null,
+    "release_version": null,
+    "committers": null,
+    "stars": null,
+    "top_language": null,
+    "license": null,
+    "forks": null,
+    "prs": null,
+    "issues": null
   },
   {
     "name": "Vulnerable Web Applications Directory",
@@ -1077,7 +1787,17 @@
     "region": "Unknown",
     "pitch": "The OWASP Vulnerable Web Applications Directory Project (VWAD) is a comprehensive and well maintained registry of all known vulnerable web applications currently available for legal security and vulnerability testing of various kinds.",
     "meetup-group": "",
-    "github_status": "API rate limit exceeded for 40.86.13.176. (But here's the good news: Authenticated requests get a higher rate limit. Check out the documentation for more details.)"
+    "github_status": "Bad credentials",
+    "last_commit": null,
+    "date_released": null,
+    "release_version": null,
+    "committers": null,
+    "stars": null,
+    "top_language": null,
+    "license": null,
+    "forks": null,
+    "prs": null,
+    "issues": null
   },
   {
     "name": "Webgoat",
@@ -1092,7 +1812,17 @@
     "region": "Unknown",
     "pitch": "More info soon...",
     "meetup-group": "",
-    "github_status": "API rate limit exceeded for 40.86.13.176. (But here's the good news: Authenticated requests get a higher rate limit. Check out the documentation for more details.)"
+    "github_status": "Bad credentials",
+    "last_commit": null,
+    "date_released": null,
+    "release_version": null,
+    "committers": null,
+    "stars": null,
+    "top_language": null,
+    "license": null,
+    "forks": null,
+    "prs": null,
+    "issues": null
   },
   {
     "name": "Webgoat",
@@ -1107,7 +1837,17 @@
     "region": "Unknown",
     "pitch": "More info soon...",
     "meetup-group": "",
-    "github_status": "API rate limit exceeded for 40.86.13.176. (But here's the good news: Authenticated requests get a higher rate limit. Check out the documentation for more details.)"
+    "github_status": "Bad credentials",
+    "last_commit": null,
+    "date_released": null,
+    "release_version": null,
+    "committers": null,
+    "stars": null,
+    "top_language": null,
+    "license": null,
+    "forks": null,
+    "prs": null,
+    "issues": null
   },
   {
     "name": "Wrongsecrets",
@@ -1122,7 +1862,17 @@
     "region": "Unknown",
     "pitch": "Examples with how to not use secrets",
     "meetup-group": "it-security-stammtisch-frankfurt-owasp-u-w",
-    "github_status": "API rate limit exceeded for 40.86.13.176. (But here's the good news: Authenticated requests get a higher rate limit. Check out the documentation for more details.)"
+    "github_status": "Bad credentials",
+    "last_commit": null,
+    "date_released": null,
+    "release_version": null,
+    "committers": null,
+    "stars": null,
+    "top_language": null,
+    "license": null,
+    "forks": null,
+    "prs": null,
+    "issues": null
   },
   {
     "name": "Wrongsecrets",
@@ -1137,7 +1887,17 @@
     "region": "Unknown",
     "pitch": "Examples with how to not use secrets",
     "meetup-group": "it-security-stammtisch-frankfurt-owasp-u-w",
-    "github_status": "API rate limit exceeded for 40.86.13.176. (But here's the good news: Authenticated requests get a higher rate limit. Check out the documentation for more details.)"
+    "github_status": "Bad credentials",
+    "last_commit": null,
+    "date_released": null,
+    "release_version": null,
+    "committers": null,
+    "stars": null,
+    "top_language": null,
+    "license": null,
+    "forks": null,
+    "prs": null,
+    "issues": null
   },
   {
     "name": "Aegis4j",
@@ -1152,7 +1912,17 @@
     "region": "Unknown",
     "pitch": "A Java agent that disables platform features you don't use, before an attacker uses them against you.",
     "meetup-group": "",
-    "github_status": "API rate limit exceeded for 40.86.13.176. (But here's the good news: Authenticated requests get a higher rate limit. Check out the documentation for more details.)"
+    "github_status": "Bad credentials",
+    "last_commit": null,
+    "date_released": null,
+    "release_version": null,
+    "committers": null,
+    "stars": null,
+    "top_language": null,
+    "license": null,
+    "forks": null,
+    "prs": null,
+    "issues": null
   },
   {
     "name": "Aegis4j",
@@ -1167,7 +1937,17 @@
     "region": "Unknown",
     "pitch": "A Java agent that disables platform features you don't use, before an attacker uses them against you.",
     "meetup-group": "",
-    "github_status": "API rate limit exceeded for 40.86.13.176. (But here's the good news: Authenticated requests get a higher rate limit. Check out the documentation for more details.)"
+    "github_status": "Bad credentials",
+    "last_commit": null,
+    "date_released": null,
+    "release_version": null,
+    "committers": null,
+    "stars": null,
+    "top_language": null,
+    "license": null,
+    "forks": null,
+    "prs": null,
+    "issues": null
   },
   {
     "name": "Ai Security And Privacy Guide",
@@ -1182,7 +1962,17 @@
     "region": "Unknown",
     "pitch": "Guidance on designing, creating, testing, and procuring secure and privacy-preserving AI systems",
     "meetup-group": "",
-    "github_status": "API rate limit exceeded for 40.86.13.176. (But here's the good news: Authenticated requests get a higher rate limit. Check out the documentation for more details.)"
+    "github_status": "Bad credentials",
+    "last_commit": null,
+    "date_released": null,
+    "release_version": null,
+    "committers": null,
+    "stars": null,
+    "top_language": null,
+    "license": null,
+    "forks": null,
+    "prs": null,
+    "issues": null
   },
   {
     "name": "Ai Security And Privacy Guide",
@@ -1197,7 +1987,17 @@
     "region": "Unknown",
     "pitch": "Guidance on designing, creating, testing, and procuring secure and privacy-preserving AI systems",
     "meetup-group": "",
-    "github_status": "API rate limit exceeded for 40.86.13.176. (But here's the good news: Authenticated requests get a higher rate limit. Check out the documentation for more details.)"
+    "github_status": "Bad credentials",
+    "last_commit": null,
+    "date_released": null,
+    "release_version": null,
+    "committers": null,
+    "stars": null,
+    "top_language": null,
+    "license": null,
+    "forks": null,
+    "prs": null,
+    "issues": null
   },
   {
     "name": "Android Security Inspector Toolkit",
@@ -1212,7 +2012,17 @@
     "region": "Unknown",
     "pitch": "A very brief, one-line description of your project",
     "meetup-group": "",
-    "github_status": "API rate limit exceeded for 40.86.13.176. (But here's the good news: Authenticated requests get a higher rate limit. Check out the documentation for more details.)"
+    "github_status": "Bad credentials",
+    "last_commit": null,
+    "date_released": null,
+    "release_version": null,
+    "committers": null,
+    "stars": null,
+    "top_language": null,
+    "license": null,
+    "forks": null,
+    "prs": null,
+    "issues": null
   },
   {
     "name": "Android Security Inspector Toolkit",
@@ -1227,7 +2037,17 @@
     "region": "Unknown",
     "pitch": "A very brief, one-line description of your project",
     "meetup-group": "",
-    "github_status": "API rate limit exceeded for 40.86.13.176. (But here's the good news: Authenticated requests get a higher rate limit. Check out the documentation for more details.)"
+    "github_status": "Bad credentials",
+    "last_commit": null,
+    "date_released": null,
+    "release_version": null,
+    "committers": null,
+    "stars": null,
+    "top_language": null,
+    "license": null,
+    "forks": null,
+    "prs": null,
+    "issues": null
   },
   {
     "name": "Apicheck",
@@ -1242,7 +2062,17 @@
     "region": "Unknown",
     "pitch": "The DevSecOps toolset for HTTP APIs",
     "meetup-group": "",
-    "github_status": "API rate limit exceeded for 40.86.13.176. (But here's the good news: Authenticated requests get a higher rate limit. Check out the documentation for more details.)"
+    "github_status": "Bad credentials",
+    "last_commit": null,
+    "date_released": null,
+    "release_version": null,
+    "committers": null,
+    "stars": null,
+    "top_language": null,
+    "license": null,
+    "forks": null,
+    "prs": null,
+    "issues": null
   },
   {
     "name": "Apicheck",
@@ -1257,7 +2087,17 @@
     "region": "Unknown",
     "pitch": "The DevSecOps toolset for HTTP APIs",
     "meetup-group": "",
-    "github_status": "API rate limit exceeded for 40.86.13.176. (But here's the good news: Authenticated requests get a higher rate limit. Check out the documentation for more details.)"
+    "github_status": "Bad credentials",
+    "last_commit": null,
+    "date_released": null,
+    "release_version": null,
+    "committers": null,
+    "stars": null,
+    "top_language": null,
+    "license": null,
+    "forks": null,
+    "prs": null,
+    "issues": null
   },
   {
     "name": "Application Gateway",
@@ -1272,7 +2112,17 @@
     "region": "Unknown",
     "pitch": "OWASP Application Gateway is an HTTP proxy that handles Oauth2 authentication and session management",
     "meetup-group": "",
-    "github_status": "API rate limit exceeded for 40.86.13.176. (But here's the good news: Authenticated requests get a higher rate limit. Check out the documentation for more details.)"
+    "github_status": "Bad credentials",
+    "last_commit": null,
+    "date_released": null,
+    "release_version": null,
+    "committers": null,
+    "stars": null,
+    "top_language": null,
+    "license": null,
+    "forks": null,
+    "prs": null,
+    "issues": null
   },
   {
     "name": "Application Gateway",
@@ -1287,7 +2137,17 @@
     "region": "Unknown",
     "pitch": "OWASP Application Gateway is an HTTP proxy that handles Oauth2 authentication and session management",
     "meetup-group": "",
-    "github_status": "API rate limit exceeded for 40.86.13.176. (But here's the good news: Authenticated requests get a higher rate limit. Check out the documentation for more details.)"
+    "github_status": "Bad credentials",
+    "last_commit": null,
+    "date_released": null,
+    "release_version": null,
+    "committers": null,
+    "stars": null,
+    "top_language": null,
+    "license": null,
+    "forks": null,
+    "prs": null,
+    "issues": null
   },
   {
     "name": "Appsensor",
@@ -1302,7 +2162,17 @@
     "region": "Unknown",
     "pitch": "More info soon...",
     "meetup-group": "",
-    "github_status": "API rate limit exceeded for 40.86.13.176. (But here's the good news: Authenticated requests get a higher rate limit. Check out the documentation for more details.)"
+    "github_status": "Bad credentials",
+    "last_commit": null,
+    "date_released": null,
+    "release_version": null,
+    "committers": null,
+    "stars": null,
+    "top_language": null,
+    "license": null,
+    "forks": null,
+    "prs": null,
+    "issues": null
   },
   {
     "name": "Appsensor",
@@ -1317,7 +2187,17 @@
     "region": "Unknown",
     "pitch": "More info soon...",
     "meetup-group": "",
-    "github_status": "API rate limit exceeded for 40.86.13.176. (But here's the good news: Authenticated requests get a higher rate limit. Check out the documentation for more details.)"
+    "github_status": "Bad credentials",
+    "last_commit": null,
+    "date_released": null,
+    "release_version": null,
+    "committers": null,
+    "stars": null,
+    "top_language": null,
+    "license": null,
+    "forks": null,
+    "prs": null,
+    "issues": null
   },
   {
     "name": "Asvs Graph",
@@ -1332,7 +2212,17 @@
     "region": "Unknown",
     "pitch": "OWASP Application Security Verification Standard (ASVS) is a great knowledgebase. This greatly helps organizations by providing guidance as well as in generating Application Security Metrics. With OWASP ASVS-Graph, ASVS is converted to a knowledge-graph derived deep and unexplored relationships with the ASVS Data.",
     "meetup-group": "",
-    "github_status": "API rate limit exceeded for 40.86.13.176. (But here's the good news: Authenticated requests get a higher rate limit. Check out the documentation for more details.)"
+    "github_status": "Bad credentials",
+    "last_commit": null,
+    "date_released": null,
+    "release_version": null,
+    "committers": null,
+    "stars": null,
+    "top_language": null,
+    "license": null,
+    "forks": null,
+    "prs": null,
+    "issues": null
   },
   {
     "name": "Awscanner",
@@ -1347,7 +2237,17 @@
     "region": "Unknown",
     "pitch": "Finds internet-exposed resources in an AWS account.",
     "meetup-group": "",
-    "github_status": "API rate limit exceeded for 40.86.13.176. (But here's the good news: Authenticated requests get a higher rate limit. Check out the documentation for more details.)"
+    "github_status": "Bad credentials",
+    "last_commit": null,
+    "date_released": null,
+    "release_version": null,
+    "committers": null,
+    "stars": null,
+    "top_language": null,
+    "license": null,
+    "forks": null,
+    "prs": null,
+    "issues": null
   },
   {
     "name": "Barbarus",
@@ -1362,7 +2262,17 @@
     "region": "Unknown",
     "pitch": "OWASP Barbarus is a secure authentication layer for web applications using a smartphone client application (Android & iOS).",
     "meetup-group": "",
-    "github_status": "API rate limit exceeded for 40.86.13.176. (But here's the good news: Authenticated requests get a higher rate limit. Check out the documentation for more details.)"
+    "github_status": "Bad credentials",
+    "last_commit": null,
+    "date_released": null,
+    "release_version": null,
+    "committers": null,
+    "stars": null,
+    "top_language": null,
+    "license": null,
+    "forks": null,
+    "prs": null,
+    "issues": null
   },
   {
     "name": "Big Data",
@@ -1377,7 +2287,17 @@
     "region": "Unknown",
     "pitch": "The goal of this project is to provide security requirements for Big Data applications",
     "meetup-group": "",
-    "github_status": "API rate limit exceeded for 40.86.13.176. (But here's the good news: Authenticated requests get a higher rate limit. Check out the documentation for more details.)"
+    "github_status": "Bad credentials",
+    "last_commit": null,
+    "date_released": null,
+    "release_version": null,
+    "committers": null,
+    "stars": null,
+    "top_language": null,
+    "license": null,
+    "forks": null,
+    "prs": null,
+    "issues": null
   },
   {
     "name": "Bug Logging Tool",
@@ -1392,7 +2312,17 @@
     "region": "Unknown",
     "pitch": "More info soon...",
     "meetup-group": "",
-    "github_status": "API rate limit exceeded for 40.86.13.176. (But here's the good news: Authenticated requests get a higher rate limit. Check out the documentation for more details.)"
+    "github_status": "Bad credentials",
+    "last_commit": null,
+    "date_released": null,
+    "release_version": null,
+    "committers": null,
+    "stars": null,
+    "top_language": null,
+    "license": null,
+    "forks": null,
+    "prs": null,
+    "issues": null
   },
   {
     "name": "Cloud Native Application Security Top 10",
@@ -1407,7 +2337,17 @@
     "region": "Unknown",
     "pitch": "The primary goal of the OWASP Cloud-Native Application Security Top 10 document is to provide assistance and education for organizations looking to adopt Cloud-Native Applications securely. The guide provides information about what are the most prominent security risks for Cloud-Native applications, the challenges involved, and how to overcome them.",
     "meetup-group": "",
-    "github_status": "API rate limit exceeded for 40.86.13.176. (But here's the good news: Authenticated requests get a higher rate limit. Check out the documentation for more details.)"
+    "github_status": "Bad credentials",
+    "last_commit": null,
+    "date_released": null,
+    "release_version": null,
+    "committers": null,
+    "stars": null,
+    "top_language": null,
+    "license": null,
+    "forks": null,
+    "prs": null,
+    "issues": null
   },
   {
     "name": "Core Business Application Security",
@@ -1422,7 +2362,17 @@
     "region": "Unknown",
     "pitch": "A very brief, one-line description of your project",
     "meetup-group": "",
-    "github_status": "API rate limit exceeded for 40.86.13.176. (But here's the good news: Authenticated requests get a higher rate limit. Check out the documentation for more details.)"
+    "github_status": "Bad credentials",
+    "last_commit": null,
+    "date_released": null,
+    "release_version": null,
+    "committers": null,
+    "stars": null,
+    "top_language": null,
+    "license": null,
+    "forks": null,
+    "prs": null,
+    "issues": null
   },
   {
     "name": "Core Business Application Security",
@@ -1437,7 +2387,17 @@
     "region": "Unknown",
     "pitch": "A very brief, one-line description of your project",
     "meetup-group": "",
-    "github_status": "API rate limit exceeded for 40.86.13.176. (But here's the good news: Authenticated requests get a higher rate limit. Check out the documentation for more details.)"
+    "github_status": "Bad credentials",
+    "last_commit": null,
+    "date_released": null,
+    "release_version": null,
+    "committers": null,
+    "stars": null,
+    "top_language": null,
+    "license": null,
+    "forks": null,
+    "prs": null,
+    "issues": null
   },
   {
     "name": "Crapi",
@@ -1452,7 +2412,17 @@
     "region": "Unknown",
     "pitch": "crAPI will help you to understand the ten most critical API security risks. crAPI is vulnerable by design, but you'll be able to safely run it to educate/train yourself.",
     "meetup-group": "",
-    "github_status": "API rate limit exceeded for 40.86.13.176. (But here's the good news: Authenticated requests get a higher rate limit. Check out the documentation for more details.)"
+    "github_status": "Bad credentials",
+    "last_commit": null,
+    "date_released": null,
+    "release_version": null,
+    "committers": null,
+    "stars": null,
+    "top_language": null,
+    "license": null,
+    "forks": null,
+    "prs": null,
+    "issues": null
   },
   {
     "name": "Csrfprotector",
@@ -1467,7 +2437,17 @@
     "region": "Unknown",
     "pitch": "More info soon...",
     "meetup-group": "",
-    "github_status": "API rate limit exceeded for 40.86.13.176. (But here's the good news: Authenticated requests get a higher rate limit. Check out the documentation for more details.)"
+    "github_status": "Bad credentials",
+    "last_commit": null,
+    "date_released": null,
+    "release_version": null,
+    "committers": null,
+    "stars": null,
+    "top_language": null,
+    "license": null,
+    "forks": null,
+    "prs": null,
+    "issues": null
   },
   {
     "name": "Csrfprotector",
@@ -1482,7 +2462,17 @@
     "region": "Unknown",
     "pitch": "More info soon...",
     "meetup-group": "",
-    "github_status": "API rate limit exceeded for 40.86.13.176. (But here's the good news: Authenticated requests get a higher rate limit. Check out the documentation for more details.)"
+    "github_status": "Bad credentials",
+    "last_commit": null,
+    "date_released": null,
+    "release_version": null,
+    "committers": null,
+    "stars": null,
+    "top_language": null,
+    "license": null,
+    "forks": null,
+    "prs": null,
+    "issues": null
   },
   {
     "name": "Cwe Toolkit",
@@ -1497,7 +2487,17 @@
     "region": "Unknown",
     "pitch": "",
     "meetup-group": "",
-    "github_status": "API rate limit exceeded for 40.86.13.176. (But here's the good news: Authenticated requests get a higher rate limit. Check out the documentation for more details.)"
+    "github_status": "Bad credentials",
+    "last_commit": null,
+    "date_released": null,
+    "release_version": null,
+    "committers": null,
+    "stars": null,
+    "top_language": null,
+    "license": null,
+    "forks": null,
+    "prs": null,
+    "issues": null
   },
   {
     "name": "Cyber Scavenger Hunt",
@@ -1512,7 +2512,17 @@
     "region": "Unknown",
     "pitch": "A simple scavenger hunt to learn about pentesting a website or web application.",
     "meetup-group": "",
-    "github_status": "API rate limit exceeded for 40.86.13.176. (But here's the good news: Authenticated requests get a higher rate limit. Check out the documentation for more details.)"
+    "github_status": "Bad credentials",
+    "last_commit": null,
+    "date_released": null,
+    "release_version": null,
+    "committers": null,
+    "stars": null,
+    "top_language": null,
+    "license": null,
+    "forks": null,
+    "prs": null,
+    "issues": null
   },
   {
     "name": "D4n155",
@@ -1527,7 +2537,17 @@
     "region": "Unknown",
     "pitch": "More info soon...",
     "meetup-group": "",
-    "github_status": "API rate limit exceeded for 40.86.13.176. (But here's the good news: Authenticated requests get a higher rate limit. Check out the documentation for more details.)"
+    "github_status": "Bad credentials",
+    "last_commit": null,
+    "date_released": null,
+    "release_version": null,
+    "committers": null,
+    "stars": null,
+    "top_language": null,
+    "license": null,
+    "forks": null,
+    "prs": null,
+    "issues": null
   },
   {
     "name": "Damn Vulnerable Web Sockets",
@@ -1542,7 +2562,17 @@
     "region": "Unknown",
     "pitch": "A very brief, one-line description of your project",
     "meetup-group": "",
-    "github_status": "API rate limit exceeded for 40.86.13.176. (But here's the good news: Authenticated requests get a higher rate limit. Check out the documentation for more details.)"
+    "github_status": "Bad credentials",
+    "last_commit": null,
+    "date_released": null,
+    "release_version": null,
+    "committers": null,
+    "stars": null,
+    "top_language": null,
+    "license": null,
+    "forks": null,
+    "prs": null,
+    "issues": null
   },
   {
     "name": "Damn Vulnerable Web Sockets",
@@ -1557,7 +2587,17 @@
     "region": "Unknown",
     "pitch": "A very brief, one-line description of your project",
     "meetup-group": "",
-    "github_status": "API rate limit exceeded for 40.86.13.176. (But here's the good news: Authenticated requests get a higher rate limit. Check out the documentation for more details.)"
+    "github_status": "Bad credentials",
+    "last_commit": null,
+    "date_released": null,
+    "release_version": null,
+    "committers": null,
+    "stars": null,
+    "top_language": null,
+    "license": null,
+    "forks": null,
+    "prs": null,
+    "issues": null
   },
   {
     "name": "Desktop App Security Top 10",
@@ -1572,7 +2612,17 @@
     "region": "Unknown",
     "pitch": "Consists of vulnerabilities for all major desktop app platform, derived from publicaly known exploits, CVEs etc.",
     "meetup-group": "",
-    "github_status": "API rate limit exceeded for 40.86.13.176. (But here's the good news: Authenticated requests get a higher rate limit. Check out the documentation for more details.)"
+    "github_status": "Bad credentials",
+    "last_commit": null,
+    "date_released": null,
+    "release_version": null,
+    "committers": null,
+    "stars": null,
+    "top_language": null,
+    "license": null,
+    "forks": null,
+    "prs": null,
+    "issues": null
   },
   {
     "name": "Devsecops Guideline",
@@ -1587,7 +2637,17 @@
     "region": "Unknown",
     "pitch": "The OWASP DevSecOps Guideline can help us to embeding security as a part of pipeline.",
     "meetup-group": "",
-    "github_status": "API rate limit exceeded for 40.86.13.176. (But here's the good news: Authenticated requests get a higher rate limit. Check out the documentation for more details.)"
+    "github_status": "Bad credentials",
+    "last_commit": null,
+    "date_released": null,
+    "release_version": null,
+    "committers": null,
+    "stars": null,
+    "top_language": null,
+    "license": null,
+    "forks": null,
+    "prs": null,
+    "issues": null
   },
   {
     "name": "Devsecops Guideline",
@@ -1602,7 +2662,17 @@
     "region": "Unknown",
     "pitch": "The OWASP DevSecOps Guideline can help us to embeding security as a part of pipeline.",
     "meetup-group": "",
-    "github_status": "API rate limit exceeded for 40.86.13.176. (But here's the good news: Authenticated requests get a higher rate limit. Check out the documentation for more details.)"
+    "github_status": "Bad credentials",
+    "last_commit": null,
+    "date_released": null,
+    "release_version": null,
+    "committers": null,
+    "stars": null,
+    "top_language": null,
+    "license": null,
+    "forks": null,
+    "prs": null,
+    "issues": null
   },
   {
     "name": "Devsecops Top 10",
@@ -1617,7 +2687,17 @@
     "region": "Unknown",
     "pitch": "Top 10 categories for your DevSecOps Landscape",
     "meetup-group": "",
-    "github_status": "API rate limit exceeded for 40.86.13.176. (But here's the good news: Authenticated requests get a higher rate limit. Check out the documentation for more details.)"
+    "github_status": "Bad credentials",
+    "last_commit": null,
+    "date_released": null,
+    "release_version": null,
+    "committers": null,
+    "stars": null,
+    "top_language": null,
+    "license": null,
+    "forks": null,
+    "prs": null,
+    "issues": null
   },
   {
     "name": "Devsecops Verification Standard",
@@ -1632,7 +2712,17 @@
     "region": "Unknown",
     "pitch": "The DSOVS is a framework to identify gaps in implementing security within software development lifecyle",
     "meetup-group": "",
-    "github_status": "API rate limit exceeded for 40.86.13.176. (But here's the good news: Authenticated requests get a higher rate limit. Check out the documentation for more details.)"
+    "github_status": "Bad credentials",
+    "last_commit": null,
+    "date_released": null,
+    "release_version": null,
+    "committers": null,
+    "stars": null,
+    "top_language": null,
+    "license": null,
+    "forks": null,
+    "prs": null,
+    "issues": null
   },
   {
     "name": "Devsecops Verification Standard",
@@ -1647,7 +2737,17 @@
     "region": "Unknown",
     "pitch": "The DSOVS is a framework to identify gaps in implementing security within software development lifecyle",
     "meetup-group": "",
-    "github_status": "API rate limit exceeded for 40.86.13.176. (But here's the good news: Authenticated requests get a higher rate limit. Check out the documentation for more details.)"
+    "github_status": "Bad credentials",
+    "last_commit": null,
+    "date_released": null,
+    "release_version": null,
+    "committers": null,
+    "stars": null,
+    "top_language": null,
+    "license": null,
+    "forks": null,
+    "prs": null,
+    "issues": null
   },
   {
     "name": "Docker Top 10",
@@ -1662,7 +2762,17 @@
     "region": "Unknown",
     "pitch": "none yet",
     "meetup-group": "",
-    "github_status": "API rate limit exceeded for 40.86.13.176. (But here's the good news: Authenticated requests get a higher rate limit. Check out the documentation for more details.)"
+    "github_status": "Bad credentials",
+    "last_commit": null,
+    "date_released": null,
+    "release_version": null,
+    "committers": null,
+    "stars": null,
+    "top_language": null,
+    "license": null,
+    "forks": null,
+    "prs": null,
+    "issues": null
   },
   {
     "name": "Docker Top 10",
@@ -1677,7 +2787,17 @@
     "region": "Unknown",
     "pitch": "none yet",
     "meetup-group": "",
-    "github_status": "API rate limit exceeded for 40.86.13.176. (But here's the good news: Authenticated requests get a higher rate limit. Check out the documentation for more details.)"
+    "github_status": "Bad credentials",
+    "last_commit": null,
+    "date_released": null,
+    "release_version": null,
+    "committers": null,
+    "stars": null,
+    "top_language": null,
+    "license": null,
+    "forks": null,
+    "prs": null,
+    "issues": null
   },
   {
     "name": "Domain Protect",
@@ -1692,7 +2812,17 @@
     "region": "Unknown",
     "pitch": "Protect against subdomain takeover",
     "meetup-group": "",
-    "github_status": "API rate limit exceeded for 40.86.13.176. (But here's the good news: Authenticated requests get a higher rate limit. Check out the documentation for more details.)"
+    "github_status": "Bad credentials",
+    "last_commit": null,
+    "date_released": null,
+    "release_version": null,
+    "committers": null,
+    "stars": null,
+    "top_language": null,
+    "license": null,
+    "forks": null,
+    "prs": null,
+    "issues": null
   },
   {
     "name": "Domain Protect",
@@ -1707,7 +2837,17 @@
     "region": "Unknown",
     "pitch": "Protect against subdomain takeover",
     "meetup-group": "",
-    "github_status": "API rate limit exceeded for 40.86.13.176. (But here's the good news: Authenticated requests get a higher rate limit. Check out the documentation for more details.)"
+    "github_status": "Bad credentials",
+    "last_commit": null,
+    "date_released": null,
+    "release_version": null,
+    "committers": null,
+    "stars": null,
+    "top_language": null,
+    "license": null,
+    "forks": null,
+    "prs": null,
+    "issues": null
   },
   {
     "name": "G0rking",
@@ -1722,7 +2862,17 @@
     "region": "Unknown",
     "pitch": "A tool for quickly analyzing the common vulnerabilities in your domain with the help of Google Dorking.",
     "meetup-group": "",
-    "github_status": "API rate limit exceeded for 40.86.13.176. (But here's the good news: Authenticated requests get a higher rate limit. Check out the documentation for more details.)"
+    "github_status": "Bad credentials",
+    "last_commit": null,
+    "date_released": null,
+    "release_version": null,
+    "committers": null,
+    "stars": null,
+    "top_language": null,
+    "license": null,
+    "forks": null,
+    "prs": null,
+    "issues": null
   },
   {
     "name": "G0rking",
@@ -1737,7 +2887,17 @@
     "region": "Unknown",
     "pitch": "A tool for quickly analyzing the common vulnerabilities in your domain with the help of Google Dorking.",
     "meetup-group": "",
-    "github_status": "API rate limit exceeded for 40.86.13.176. (But here's the good news: Authenticated requests get a higher rate limit. Check out the documentation for more details.)"
+    "github_status": "Bad credentials",
+    "last_commit": null,
+    "date_released": null,
+    "release_version": null,
+    "committers": null,
+    "stars": null,
+    "top_language": null,
+    "license": null,
+    "forks": null,
+    "prs": null,
+    "issues": null
   },
   {
     "name": "Honeypot",
@@ -1752,7 +2912,17 @@
     "region": "Unknown",
     "pitch": "More info soon...",
     "meetup-group": "",
-    "github_status": "API rate limit exceeded for 40.86.13.176. (But here's the good news: Authenticated requests get a higher rate limit. Check out the documentation for more details.)"
+    "github_status": "Bad credentials",
+    "last_commit": null,
+    "date_released": null,
+    "release_version": null,
+    "committers": null,
+    "stars": null,
+    "top_language": null,
+    "license": null,
+    "forks": null,
+    "prs": null,
+    "issues": null
   },
   {
     "name": "Honeypot",
@@ -1767,7 +2937,17 @@
     "region": "Unknown",
     "pitch": "More info soon...",
     "meetup-group": "",
-    "github_status": "API rate limit exceeded for 40.86.13.176. (But here's the good news: Authenticated requests get a higher rate limit. Check out the documentation for more details.)"
+    "github_status": "Bad credentials",
+    "last_commit": null,
+    "date_released": null,
+    "release_version": null,
+    "committers": null,
+    "stars": null,
+    "top_language": null,
+    "license": null,
+    "forks": null,
+    "prs": null,
+    "issues": null
   },
   {
     "name": "Ide Vulscanner",
@@ -1782,7 +2962,17 @@
     "region": "Unknown",
     "pitch": "Checks code vulnerability during implementation phase",
     "meetup-group": "",
-    "github_status": "API rate limit exceeded for 40.86.13.176. (But here's the good news: Authenticated requests get a higher rate limit. Check out the documentation for more details.)"
+    "github_status": "Bad credentials",
+    "last_commit": null,
+    "date_released": null,
+    "release_version": null,
+    "committers": null,
+    "stars": null,
+    "top_language": null,
+    "license": null,
+    "forks": null,
+    "prs": null,
+    "issues": null
   },
   {
     "name": "Intelligent Intrusion Detection System",
@@ -1797,7 +2987,17 @@
     "region": "Unknown",
     "pitch": "More info soon...",
     "meetup-group": "",
-    "github_status": "API rate limit exceeded for 40.86.13.176. (But here's the good news: Authenticated requests get a higher rate limit. Check out the documentation for more details.)"
+    "github_status": "Bad credentials",
+    "last_commit": null,
+    "date_released": null,
+    "release_version": null,
+    "committers": null,
+    "stars": null,
+    "top_language": null,
+    "license": null,
+    "forks": null,
+    "prs": null,
+    "issues": null
   },
   {
     "name": "Iot Security Verification Standard",
@@ -1812,7 +3012,17 @@
     "region": "Unknown",
     "pitch": "More info soon...",
     "meetup-group": "",
-    "github_status": "API rate limit exceeded for 40.86.13.176. (But here's the good news: Authenticated requests get a higher rate limit. Check out the documentation for more details.)"
+    "github_status": "Bad credentials",
+    "last_commit": null,
+    "date_released": null,
+    "release_version": null,
+    "committers": null,
+    "stars": null,
+    "top_language": null,
+    "license": null,
+    "forks": null,
+    "prs": null,
+    "issues": null
   },
   {
     "name": "Kubernetes Scanner",
@@ -1827,7 +3037,17 @@
     "region": "Unknown",
     "pitch": "Kubernetes Security and Compliance Scanner.",
     "meetup-group": "",
-    "github_status": "API rate limit exceeded for 40.86.13.176. (But here's the good news: Authenticated requests get a higher rate limit. Check out the documentation for more details.)"
+    "github_status": "Bad credentials",
+    "last_commit": null,
+    "date_released": null,
+    "release_version": null,
+    "committers": null,
+    "stars": null,
+    "top_language": null,
+    "license": null,
+    "forks": null,
+    "prs": null,
+    "issues": null
   },
   {
     "name": "Kubernetes Top Ten",
@@ -1842,7 +3062,17 @@
     "region": "Unknown",
     "pitch": "Welcome to the OWASP Top Ten for Kubernetes",
     "meetup-group": "",
-    "github_status": "API rate limit exceeded for 40.86.13.176. (But here's the good news: Authenticated requests get a higher rate limit. Check out the documentation for more details.)"
+    "github_status": "Bad credentials",
+    "last_commit": null,
+    "date_released": null,
+    "release_version": null,
+    "committers": null,
+    "stars": null,
+    "top_language": null,
+    "license": null,
+    "forks": null,
+    "prs": null,
+    "issues": null
   },
   {
     "name": "Kubernetes Top Ten",
@@ -1857,7 +3087,17 @@
     "region": "Unknown",
     "pitch": "Welcome to the OWASP Top Ten for Kubernetes",
     "meetup-group": "",
-    "github_status": "API rate limit exceeded for 40.86.13.176. (But here's the good news: Authenticated requests get a higher rate limit. Check out the documentation for more details.)"
+    "github_status": "Bad credentials",
+    "last_commit": null,
+    "date_released": null,
+    "release_version": null,
+    "committers": null,
+    "stars": null,
+    "top_language": null,
+    "license": null,
+    "forks": null,
+    "prs": null,
+    "issues": null
   },
   {
     "name": "Maryam",
@@ -1872,7 +3112,17 @@
     "region": "Unknown",
     "pitch": "OWASP Maryam is a modular/optional open-source framework based on OSINT and data gathering. Maryam is written in the Python programming language and has been designed to provide a powerful environment to harvest data from open-sources and search engines and collect data quickly and thoroughly.",
     "meetup-group": "",
-    "github_status": "API rate limit exceeded for 40.86.13.176. (But here's the good news: Authenticated requests get a higher rate limit. Check out the documentation for more details.)"
+    "github_status": "Bad credentials",
+    "last_commit": null,
+    "date_released": null,
+    "release_version": null,
+    "committers": null,
+    "stars": null,
+    "top_language": null,
+    "license": null,
+    "forks": null,
+    "prs": null,
+    "issues": null
   },
   {
     "name": "Maryam",
@@ -1887,7 +3137,17 @@
     "region": "Unknown",
     "pitch": "OWASP Maryam is a modular/optional open-source framework based on OSINT and data gathering. Maryam is written in the Python programming language and has been designed to provide a powerful environment to harvest data from open-sources and search engines and collect data quickly and thoroughly.",
     "meetup-group": "",
-    "github_status": "API rate limit exceeded for 40.86.13.176. (But here's the good news: Authenticated requests get a higher rate limit. Check out the documentation for more details.)"
+    "github_status": "Bad credentials",
+    "last_commit": null,
+    "date_released": null,
+    "release_version": null,
+    "committers": null,
+    "stars": null,
+    "top_language": null,
+    "license": null,
+    "forks": null,
+    "prs": null,
+    "issues": null
   },
   {
     "name": "Mobile Audit",
@@ -1902,7 +3162,17 @@
     "region": "Unknown",
     "pitch": "DevSecOps Tool to perform SAST and Malware analysis in Android APKs",
     "meetup-group": "",
-    "github_status": "API rate limit exceeded for 40.86.13.176. (But here's the good news: Authenticated requests get a higher rate limit. Check out the documentation for more details.)"
+    "github_status": "Bad credentials",
+    "last_commit": null,
+    "date_released": null,
+    "release_version": null,
+    "committers": null,
+    "stars": null,
+    "top_language": null,
+    "license": null,
+    "forks": null,
+    "prs": null,
+    "issues": null
   },
   {
     "name": "Mobile Audit",
@@ -1917,7 +3187,17 @@
     "region": "Unknown",
     "pitch": "DevSecOps Tool to perform SAST and Malware analysis in Android APKs",
     "meetup-group": "",
-    "github_status": "API rate limit exceeded for 40.86.13.176. (But here's the good news: Authenticated requests get a higher rate limit. Check out the documentation for more details.)"
+    "github_status": "Bad credentials",
+    "last_commit": null,
+    "date_released": null,
+    "release_version": null,
+    "committers": null,
+    "stars": null,
+    "top_language": null,
+    "license": null,
+    "forks": null,
+    "prs": null,
+    "issues": null
   },
   {
     "name": "Nettacker",
@@ -1932,7 +3212,17 @@
     "region": "Unknown",
     "pitch": "OWASP Nettacker is an open source software in Python language which helps you to perform automated penetration testing and automated Information Gathering. This software can be run on Windows/Linux/OSX under Python.",
     "meetup-group": "",
-    "github_status": "API rate limit exceeded for 40.86.13.176. (But here's the good news: Authenticated requests get a higher rate limit. Check out the documentation for more details.)"
+    "github_status": "Bad credentials",
+    "last_commit": null,
+    "date_released": null,
+    "release_version": null,
+    "committers": null,
+    "stars": null,
+    "top_language": null,
+    "license": null,
+    "forks": null,
+    "prs": null,
+    "issues": null
   },
   {
     "name": "Nettacker",
@@ -1947,7 +3237,17 @@
     "region": "Unknown",
     "pitch": "OWASP Nettacker is an open source software in Python language which helps you to perform automated penetration testing and automated Information Gathering. This software can be run on Windows/Linux/OSX under Python.",
     "meetup-group": "",
-    "github_status": "API rate limit exceeded for 40.86.13.176. (But here's the good news: Authenticated requests get a higher rate limit. Check out the documentation for more details.)"
+    "github_status": "Bad credentials",
+    "last_commit": null,
+    "date_released": null,
+    "release_version": null,
+    "committers": null,
+    "stars": null,
+    "top_language": null,
+    "license": null,
+    "forks": null,
+    "prs": null,
+    "issues": null
   },
   {
     "name": "Nightingale",
@@ -1962,7 +3262,17 @@
     "region": "Unknown",
     "pitch": "More info soon...",
     "meetup-group": "",
-    "github_status": "API rate limit exceeded for 40.86.13.176. (But here's the good news: Authenticated requests get a higher rate limit. Check out the documentation for more details.)"
+    "github_status": "Bad credentials",
+    "last_commit": null,
+    "date_released": null,
+    "release_version": null,
+    "committers": null,
+    "stars": null,
+    "top_language": null,
+    "license": null,
+    "forks": null,
+    "prs": null,
+    "issues": null
   },
   {
     "name": "Node.js Goat",
@@ -1977,7 +3287,17 @@
     "region": "Unknown",
     "pitch": "More info soon...",
     "meetup-group": "",
-    "github_status": "API rate limit exceeded for 40.86.13.176. (But here's the good news: Authenticated requests get a higher rate limit. Check out the documentation for more details.)"
+    "github_status": "Bad credentials",
+    "last_commit": null,
+    "date_released": null,
+    "release_version": null,
+    "committers": null,
+    "stars": null,
+    "top_language": null,
+    "license": null,
+    "forks": null,
+    "prs": null,
+    "issues": null
   },
   {
     "name": "O Saft",
@@ -1992,7 +3312,17 @@
     "region": "Unknown",
     "pitch": "O-Saft is an easy to use tool to show informations about SSL certificate and tests the SSL connection according given list of ciphers and various SSL configurations.",
     "meetup-group": "",
-    "github_status": "API rate limit exceeded for 40.86.13.176. (But here's the good news: Authenticated requests get a higher rate limit. Check out the documentation for more details.)"
+    "github_status": "Bad credentials",
+    "last_commit": null,
+    "date_released": null,
+    "release_version": null,
+    "committers": null,
+    "stars": null,
+    "top_language": null,
+    "license": null,
+    "forks": null,
+    "prs": null,
+    "issues": null
   },
   {
     "name": "Ontology Driven Threat Modeling Framework",
@@ -2007,7 +3337,17 @@
     "region": "Unknown",
     "pitch": "OWASP Ontology-driven Threat Modelling (OdTM) framework is a set of means for implementation of an ontological approach into automatic threat modelling of computer systems.",
     "meetup-group": "",
-    "github_status": "API rate limit exceeded for 40.86.13.176. (But here's the good news: Authenticated requests get a higher rate limit. Check out the documentation for more details.)"
+    "github_status": "Bad credentials",
+    "last_commit": null,
+    "date_released": null,
+    "release_version": null,
+    "committers": null,
+    "stars": null,
+    "top_language": null,
+    "license": null,
+    "forks": null,
+    "prs": null,
+    "issues": null
   },
   {
     "name": "Ontology Driven Threat Modeling Framework",
@@ -2022,7 +3362,17 @@
     "region": "Unknown",
     "pitch": "OWASP Ontology-driven Threat Modelling (OdTM) framework is a set of means for implementation of an ontological approach into automatic threat modelling of computer systems.",
     "meetup-group": "",
-    "github_status": "API rate limit exceeded for 40.86.13.176. (But here's the good news: Authenticated requests get a higher rate limit. Check out the documentation for more details.)"
+    "github_status": "Bad credentials",
+    "last_commit": null,
+    "date_released": null,
+    "release_version": null,
+    "committers": null,
+    "stars": null,
+    "top_language": null,
+    "license": null,
+    "forks": null,
+    "prs": null,
+    "issues": null
   },
   {
     "name": "Patton",
@@ -2037,7 +3387,17 @@
     "region": "Unknown",
     "pitch": "The vulnerability knowledge database",
     "meetup-group": "",
-    "github_status": "API rate limit exceeded for 40.86.13.176. (But here's the good news: Authenticated requests get a higher rate limit. Check out the documentation for more details.)"
+    "github_status": "Bad credentials",
+    "last_commit": null,
+    "date_released": null,
+    "release_version": null,
+    "committers": null,
+    "stars": null,
+    "top_language": null,
+    "license": null,
+    "forks": null,
+    "prs": null,
+    "issues": null
   },
   {
     "name": "Patton",
@@ -2052,7 +3412,17 @@
     "region": "Unknown",
     "pitch": "The vulnerability knowledge database",
     "meetup-group": "",
-    "github_status": "API rate limit exceeded for 40.86.13.176. (But here's the good news: Authenticated requests get a higher rate limit. Check out the documentation for more details.)"
+    "github_status": "Bad credentials",
+    "last_commit": null,
+    "date_released": null,
+    "release_version": null,
+    "committers": null,
+    "stars": null,
+    "top_language": null,
+    "license": null,
+    "forks": null,
+    "prs": null,
+    "issues": null
   },
   {
     "name": "Penetration Testing Kit",
@@ -2067,7 +3437,17 @@
     "region": "Unknown",
     "pitch": "PTK is a cross-browser extension that helps application security practitioners to get an insight into the app and do runtime scanning for SQL, XSS, OS Command injections, and more.",
     "meetup-group": "",
-    "github_status": "API rate limit exceeded for 40.86.13.176. (But here's the good news: Authenticated requests get a higher rate limit. Check out the documentation for more details.)"
+    "github_status": "Bad credentials",
+    "last_commit": null,
+    "date_released": null,
+    "release_version": null,
+    "committers": null,
+    "stars": null,
+    "top_language": null,
+    "license": null,
+    "forks": null,
+    "prs": null,
+    "issues": null
   },
   {
     "name": "Port And Service Information",
@@ -2082,7 +3462,17 @@
     "region": "Unknown",
     "pitch": "Nmap Script to extend the functionality of scanning by providing more information about ports,services,exploits and fuzzing.",
     "meetup-group": "",
-    "github_status": "API rate limit exceeded for 40.86.13.176. (But here's the good news: Authenticated requests get a higher rate limit. Check out the documentation for more details.)"
+    "github_status": "Bad credentials",
+    "last_commit": null,
+    "date_released": null,
+    "release_version": null,
+    "committers": null,
+    "stars": null,
+    "top_language": null,
+    "license": null,
+    "forks": null,
+    "prs": null,
+    "issues": null
   },
   {
     "name": "Pygoat",
@@ -2097,7 +3487,17 @@
     "region": "Unknown",
     "pitch": "A very brief, one-line description of your project",
     "meetup-group": "",
-    "github_status": "API rate limit exceeded for 40.86.13.176. (But here's the good news: Authenticated requests get a higher rate limit. Check out the documentation for more details.)"
+    "github_status": "Bad credentials",
+    "last_commit": null,
+    "date_released": null,
+    "release_version": null,
+    "committers": null,
+    "stars": null,
+    "top_language": null,
+    "license": null,
+    "forks": null,
+    "prs": null,
+    "issues": null
   },
   {
     "name": "Raider",
@@ -2112,7 +3512,17 @@
     "region": "Unknown",
     "pitch": "A novel framework for manipulating the HTTP processes of persistent sessions",
     "meetup-group": "",
-    "github_status": "API rate limit exceeded for 40.86.13.176. (But here's the good news: Authenticated requests get a higher rate limit. Check out the documentation for more details.)"
+    "github_status": "Bad credentials",
+    "last_commit": null,
+    "date_released": null,
+    "release_version": null,
+    "committers": null,
+    "stars": null,
+    "top_language": null,
+    "license": null,
+    "forks": null,
+    "prs": null,
+    "issues": null
   },
   {
     "name": "Risk Assessment Framework",
@@ -2127,7 +3537,17 @@
     "region": "Unknown",
     "pitch": "More info soon...",
     "meetup-group": "",
-    "github_status": "API rate limit exceeded for 40.86.13.176. (But here's the good news: Authenticated requests get a higher rate limit. Check out the documentation for more details.)"
+    "github_status": "Bad credentials",
+    "last_commit": null,
+    "date_released": null,
+    "release_version": null,
+    "committers": null,
+    "stars": null,
+    "top_language": null,
+    "license": null,
+    "forks": null,
+    "prs": null,
+    "issues": null
   },
   {
     "name": "Safetypes",
@@ -2142,7 +3562,17 @@
     "region": "Unknown",
     "pitch": "A very brief, one-line description of your project",
     "meetup-group": "",
-    "github_status": "API rate limit exceeded for 40.86.13.176. (But here's the good news: Authenticated requests get a higher rate limit. Check out the documentation for more details.)"
+    "github_status": "Bad credentials",
+    "last_commit": null,
+    "date_released": null,
+    "release_version": null,
+    "committers": null,
+    "stars": null,
+    "top_language": null,
+    "license": null,
+    "forks": null,
+    "prs": null,
+    "issues": null
   },
   {
     "name": "Scrappy",
@@ -2157,7 +3587,17 @@
     "region": "Unknown",
     "pitch": "A very brief, one-line description of your project",
     "meetup-group": "",
-    "github_status": "API rate limit exceeded for 40.86.13.176. (But here's the good news: Authenticated requests get a higher rate limit. Check out the documentation for more details.)"
+    "github_status": "Bad credentials",
+    "last_commit": null,
+    "date_released": null,
+    "release_version": null,
+    "committers": null,
+    "stars": null,
+    "top_language": null,
+    "license": null,
+    "forks": null,
+    "prs": null,
+    "issues": null
   },
   {
     "name": "Sectudo",
@@ -2172,7 +3612,17 @@
     "region": "Unknown",
     "pitch": "Sectudo is a Mobile app that aims at imparting simplified Mobile Application Security Learning.",
     "meetup-group": "",
-    "github_status": "API rate limit exceeded for 40.86.13.176. (But here's the good news: Authenticated requests get a higher rate limit. Check out the documentation for more details.)"
+    "github_status": "Bad credentials",
+    "last_commit": null,
+    "date_released": null,
+    "release_version": null,
+    "committers": null,
+    "stars": null,
+    "top_language": null,
+    "license": null,
+    "forks": null,
+    "prs": null,
+    "issues": null
   },
   {
     "name": "Sectudo",
@@ -2187,7 +3637,17 @@
     "region": "Unknown",
     "pitch": "Sectudo is a Mobile app that aims at imparting simplified Mobile Application Security Learning.",
     "meetup-group": "",
-    "github_status": "API rate limit exceeded for 40.86.13.176. (But here's the good news: Authenticated requests get a higher rate limit. Check out the documentation for more details.)"
+    "github_status": "Bad credentials",
+    "last_commit": null,
+    "date_released": null,
+    "release_version": null,
+    "committers": null,
+    "stars": null,
+    "top_language": null,
+    "license": null,
+    "forks": null,
+    "prs": null,
+    "issues": null
   },
   {
     "name": "Securebank",
@@ -2202,7 +3662,17 @@
     "region": "Unknown",
     "pitch": "SecureBank the most secure fintech banking system",
     "meetup-group": "",
-    "github_status": "API rate limit exceeded for 40.86.13.176. (But here's the good news: Authenticated requests get a higher rate limit. Check out the documentation for more details.)"
+    "github_status": "Bad credentials",
+    "last_commit": null,
+    "date_released": null,
+    "release_version": null,
+    "committers": null,
+    "stars": null,
+    "top_language": null,
+    "license": null,
+    "forks": null,
+    "prs": null,
+    "issues": null
   },
   {
     "name": "Securebank",
@@ -2217,7 +3687,17 @@
     "region": "Unknown",
     "pitch": "SecureBank the most secure fintech banking system",
     "meetup-group": "",
-    "github_status": "API rate limit exceeded for 40.86.13.176. (But here's the good news: Authenticated requests get a higher rate limit. Check out the documentation for more details.)"
+    "github_status": "Bad credentials",
+    "last_commit": null,
+    "date_released": null,
+    "release_version": null,
+    "committers": null,
+    "stars": null,
+    "top_language": null,
+    "license": null,
+    "forks": null,
+    "prs": null,
+    "issues": null
   },
   {
     "name": "Security Culture",
@@ -2232,7 +3712,17 @@
     "region": "Unknown",
     "pitch": "A guide for establishing a security culture when building an application security program",
     "meetup-group": "",
-    "github_status": "API rate limit exceeded for 40.86.13.176. (But here's the good news: Authenticated requests get a higher rate limit. Check out the documentation for more details.)"
+    "github_status": "Bad credentials",
+    "last_commit": null,
+    "date_released": null,
+    "release_version": null,
+    "committers": null,
+    "stars": null,
+    "top_language": null,
+    "license": null,
+    "forks": null,
+    "prs": null,
+    "issues": null
   },
   {
     "name": "Security Culture",
@@ -2247,7 +3737,17 @@
     "region": "Unknown",
     "pitch": "A guide for establishing a security culture when building an application security program",
     "meetup-group": "",
-    "github_status": "API rate limit exceeded for 40.86.13.176. (But here's the good news: Authenticated requests get a higher rate limit. Check out the documentation for more details.)"
+    "github_status": "Bad credentials",
+    "last_commit": null,
+    "date_released": null,
+    "release_version": null,
+    "committers": null,
+    "stars": null,
+    "top_language": null,
+    "license": null,
+    "forks": null,
+    "prs": null,
+    "issues": null
   },
   {
     "name": "Security Qualitative Metrics",
@@ -2262,7 +3762,17 @@
     "region": "Unknown",
     "pitch": "The OWASP Security Qualitative Metrics is the most detailed list of metrics which evaluate security level of web projects. It shows the level of coverage of OWASP ASVS.",
     "meetup-group": "",
-    "github_status": "API rate limit exceeded for 40.86.13.176. (But here's the good news: Authenticated requests get a higher rate limit. Check out the documentation for more details.)"
+    "github_status": "Bad credentials",
+    "last_commit": null,
+    "date_released": null,
+    "release_version": null,
+    "committers": null,
+    "stars": null,
+    "top_language": null,
+    "license": null,
+    "forks": null,
+    "prs": null,
+    "issues": null
   },
   {
     "name": "Security Qualitative Metrics",
@@ -2277,7 +3787,17 @@
     "region": "Unknown",
     "pitch": "The OWASP Security Qualitative Metrics is the most detailed list of metrics which evaluate security level of web projects. It shows the level of coverage of OWASP ASVS.",
     "meetup-group": "",
-    "github_status": "API rate limit exceeded for 40.86.13.176. (But here's the good news: Authenticated requests get a higher rate limit. Check out the documentation for more details.)"
+    "github_status": "Bad credentials",
+    "last_commit": null,
+    "date_released": null,
+    "release_version": null,
+    "committers": null,
+    "stars": null,
+    "top_language": null,
+    "license": null,
+    "forks": null,
+    "prs": null,
+    "issues": null
   },
   {
     "name": "Securityrat",
@@ -2292,7 +3812,17 @@
     "region": "Unknown",
     "pitch": "OWASP SecurityRAT is a tool used by development teams, helping them master security requirements during development.",
     "meetup-group": "",
-    "github_status": "API rate limit exceeded for 40.86.13.176. (But here's the good news: Authenticated requests get a higher rate limit. Check out the documentation for more details.)"
+    "github_status": "Bad credentials",
+    "last_commit": null,
+    "date_released": null,
+    "release_version": null,
+    "committers": null,
+    "stars": null,
+    "top_language": null,
+    "license": null,
+    "forks": null,
+    "prs": null,
+    "issues": null
   },
   {
     "name": "Securityrat",
@@ -2307,7 +3837,17 @@
     "region": "Unknown",
     "pitch": "OWASP SecurityRAT is a tool used by development teams, helping them master security requirements during development.",
     "meetup-group": "",
-    "github_status": "API rate limit exceeded for 40.86.13.176. (But here's the good news: Authenticated requests get a higher rate limit. Check out the documentation for more details.)"
+    "github_status": "Bad credentials",
+    "last_commit": null,
+    "date_released": null,
+    "release_version": null,
+    "committers": null,
+    "stars": null,
+    "top_language": null,
+    "license": null,
+    "forks": null,
+    "prs": null,
+    "issues": null
   },
   {
     "name": "Serverless Top 10",
@@ -2322,7 +3862,17 @@
     "region": "Unknown",
     "pitch": "More info soon...",
     "meetup-group": "",
-    "github_status": "API rate limit exceeded for 40.86.13.176. (But here's the good news: Authenticated requests get a higher rate limit. Check out the documentation for more details.)"
+    "github_status": "Bad credentials",
+    "last_commit": null,
+    "date_released": null,
+    "release_version": null,
+    "committers": null,
+    "stars": null,
+    "top_language": null,
+    "license": null,
+    "forks": null,
+    "prs": null,
+    "issues": null
   },
   {
     "name": "Sidekek",
@@ -2337,7 +3887,17 @@
     "region": "Unknown",
     "pitch": "Simple tool to protect cryptographic master keys (key encryption keys, KEKs) in a way that is resistant to some of the most common remote file exfiltration attacks.",
     "meetup-group": "",
-    "github_status": "API rate limit exceeded for 40.86.13.176. (But here's the good news: Authenticated requests get a higher rate limit. Check out the documentation for more details.)"
+    "github_status": "Bad credentials",
+    "last_commit": null,
+    "date_released": null,
+    "release_version": null,
+    "committers": null,
+    "stars": null,
+    "top_language": null,
+    "license": null,
+    "forks": null,
+    "prs": null,
+    "issues": null
   },
   {
     "name": "Sidekek",
@@ -2352,7 +3912,17 @@
     "region": "Unknown",
     "pitch": "Simple tool to protect cryptographic master keys (key encryption keys, KEKs) in a way that is resistant to some of the most common remote file exfiltration attacks.",
     "meetup-group": "",
-    "github_status": "API rate limit exceeded for 40.86.13.176. (But here's the good news: Authenticated requests get a higher rate limit. Check out the documentation for more details.)"
+    "github_status": "Bad credentials",
+    "last_commit": null,
+    "date_released": null,
+    "release_version": null,
+    "committers": null,
+    "stars": null,
+    "top_language": null,
+    "license": null,
+    "forks": null,
+    "prs": null,
+    "issues": null
   },
   {
     "name": "Snow",
@@ -2367,7 +3937,17 @@
     "region": "Unknown",
     "pitch": "Improve privacy of applications by defending shoulder surfing",
     "meetup-group": "",
-    "github_status": "API rate limit exceeded for 40.86.13.176. (But here's the good news: Authenticated requests get a higher rate limit. Check out the documentation for more details.)"
+    "github_status": "Bad credentials",
+    "last_commit": null,
+    "date_released": null,
+    "release_version": null,
+    "committers": null,
+    "stars": null,
+    "top_language": null,
+    "license": null,
+    "forks": null,
+    "prs": null,
+    "issues": null
   },
   {
     "name": "Software Security 5d Framework",
@@ -2382,7 +3962,17 @@
     "region": "Unknown",
     "pitch": "More info soon...",
     "meetup-group": "",
-    "github_status": "API rate limit exceeded for 40.86.13.176. (But here's the good news: Authenticated requests get a higher rate limit. Check out the documentation for more details.)"
+    "github_status": "Bad credentials",
+    "last_commit": null,
+    "date_released": null,
+    "release_version": null,
+    "committers": null,
+    "stars": null,
+    "top_language": null,
+    "license": null,
+    "forks": null,
+    "prs": null,
+    "issues": null
   },
   {
     "name": "Spotlight Series",
@@ -2397,7 +3987,17 @@
     "region": "Unknown",
     "pitch": "A very brief, one-line description of your project",
     "meetup-group": "",
-    "github_status": "API rate limit exceeded for 40.86.13.176. (But here's the good news: Authenticated requests get a higher rate limit. Check out the documentation for more details.)"
+    "github_status": "Bad credentials",
+    "last_commit": null,
+    "date_released": null,
+    "release_version": null,
+    "committers": null,
+    "stars": null,
+    "top_language": null,
+    "license": null,
+    "forks": null,
+    "prs": null,
+    "issues": null
   },
   {
     "name": "Sso",
@@ -2412,7 +4012,17 @@
     "region": "Unknown",
     "pitch": "Centralize your decentral logins with the safest and most privacy-oriented Single Sign-On experience. Keep the data where it belongs - in your hands!",
     "meetup-group": "",
-    "github_status": "API rate limit exceeded for 40.86.13.176. (But here's the good news: Authenticated requests get a higher rate limit. Check out the documentation for more details.)"
+    "github_status": "Bad credentials",
+    "last_commit": null,
+    "date_released": null,
+    "release_version": null,
+    "committers": null,
+    "stars": null,
+    "top_language": null,
+    "license": null,
+    "forks": null,
+    "prs": null,
+    "issues": null
   },
   {
     "name": "Sso",
@@ -2427,7 +4037,17 @@
     "region": "Unknown",
     "pitch": "Centralize your decentral logins with the safest and most privacy-oriented Single Sign-On experience. Keep the data where it belongs - in your hands!",
     "meetup-group": "",
-    "github_status": "API rate limit exceeded for 40.86.13.176. (But here's the good news: Authenticated requests get a higher rate limit. Check out the documentation for more details.)"
+    "github_status": "Bad credentials",
+    "last_commit": null,
+    "date_released": null,
+    "release_version": null,
+    "committers": null,
+    "stars": null,
+    "top_language": null,
+    "license": null,
+    "forks": null,
+    "prs": null,
+    "issues": null
   },
   {
     "name": "State Of Appsec Survey",
@@ -2442,7 +4062,17 @@
     "region": "Unknown",
     "pitch": "Project providing resources and templates for OWASP Chapters and other organizations to conduct their own surveys",
     "meetup-group": "",
-    "github_status": "API rate limit exceeded for 40.86.13.176. (But here's the good news: Authenticated requests get a higher rate limit. Check out the documentation for more details.)"
+    "github_status": "Bad credentials",
+    "last_commit": null,
+    "date_released": null,
+    "release_version": null,
+    "committers": null,
+    "stars": null,
+    "top_language": null,
+    "license": null,
+    "forks": null,
+    "prs": null,
+    "issues": null
   },
   {
     "name": "Testability Patterns For Web Applications",
@@ -2457,7 +4087,17 @@
     "region": "Unknown",
     "pitch": "TestabiliTy Pattern-driven Web Application Security and Privacy Testing",
     "meetup-group": "",
-    "github_status": "API rate limit exceeded for 40.86.13.176. (But here's the good news: Authenticated requests get a higher rate limit. Check out the documentation for more details.)"
+    "github_status": "Bad credentials",
+    "last_commit": null,
+    "date_released": null,
+    "release_version": null,
+    "committers": null,
+    "stars": null,
+    "top_language": null,
+    "license": null,
+    "forks": null,
+    "prs": null,
+    "issues": null
   },
   {
     "name": "Testability Patterns For Web Applications",
@@ -2472,7 +4112,17 @@
     "region": "Unknown",
     "pitch": "TestabiliTy Pattern-driven Web Application Security and Privacy Testing",
     "meetup-group": "",
-    "github_status": "API rate limit exceeded for 40.86.13.176. (But here's the good news: Authenticated requests get a higher rate limit. Check out the documentation for more details.)"
+    "github_status": "Bad credentials",
+    "last_commit": null,
+    "date_released": null,
+    "release_version": null,
+    "committers": null,
+    "stars": null,
+    "top_language": null,
+    "license": null,
+    "forks": null,
+    "prs": null,
+    "issues": null
   },
   {
     "name": "Threat And Safeguard Matrix",
@@ -2487,7 +4137,17 @@
     "region": "Unknown",
     "pitch": "More info soon...",
     "meetup-group": "",
-    "github_status": "API rate limit exceeded for 40.86.13.176. (But here's the good news: Authenticated requests get a higher rate limit. Check out the documentation for more details.)"
+    "github_status": "Bad credentials",
+    "last_commit": null,
+    "date_released": null,
+    "release_version": null,
+    "committers": null,
+    "stars": null,
+    "top_language": null,
+    "license": null,
+    "forks": null,
+    "prs": null,
+    "issues": null
   },
   {
     "name": "Threat Model",
@@ -2502,7 +4162,17 @@
     "region": "Unknown",
     "pitch": "Central repository of threat modeling information, techniques, and methodologies",
     "meetup-group": "",
-    "github_status": "API rate limit exceeded for 40.86.13.176. (But here's the good news: Authenticated requests get a higher rate limit. Check out the documentation for more details.)"
+    "github_status": "Bad credentials",
+    "last_commit": null,
+    "date_released": null,
+    "release_version": null,
+    "committers": null,
+    "stars": null,
+    "top_language": null,
+    "license": null,
+    "forks": null,
+    "prs": null,
+    "issues": null
   },
   {
     "name": "Threat Model Cookbook",
@@ -2517,7 +4187,17 @@
     "region": "Unknown",
     "pitch": "More info soon...",
     "meetup-group": "",
-    "github_status": "API rate limit exceeded for 40.86.13.176. (But here's the good news: Authenticated requests get a higher rate limit. Check out the documentation for more details.)"
+    "github_status": "Bad credentials",
+    "last_commit": null,
+    "date_released": null,
+    "release_version": null,
+    "committers": null,
+    "stars": null,
+    "top_language": null,
+    "license": null,
+    "forks": null,
+    "prs": null,
+    "issues": null
   },
   {
     "name": "Threat Model Cookbook",
@@ -2532,7 +4212,17 @@
     "region": "Unknown",
     "pitch": "More info soon...",
     "meetup-group": "",
-    "github_status": "API rate limit exceeded for 40.86.13.176. (But here's the good news: Authenticated requests get a higher rate limit. Check out the documentation for more details.)"
+    "github_status": "Bad credentials",
+    "last_commit": null,
+    "date_released": null,
+    "release_version": null,
+    "committers": null,
+    "stars": null,
+    "top_language": null,
+    "license": null,
+    "forks": null,
+    "prs": null,
+    "issues": null
   },
   {
     "name": "Threat Modeling Playbook",
@@ -2547,7 +4237,17 @@
     "region": "Unknown",
     "pitch": "Improve your product and software security with the OWASP Threat Modeling Playbook (OTMP)",
     "meetup-group": "",
-    "github_status": "API rate limit exceeded for 40.86.13.176. (But here's the good news: Authenticated requests get a higher rate limit. Check out the documentation for more details.)"
+    "github_status": "Bad credentials",
+    "last_commit": null,
+    "date_released": null,
+    "release_version": null,
+    "committers": null,
+    "stars": null,
+    "top_language": null,
+    "license": null,
+    "forks": null,
+    "prs": null,
+    "issues": null
   },
   {
     "name": "Timegap Theory",
@@ -2562,7 +4262,17 @@
     "region": "Unknown",
     "pitch": "An auto-scoring capture-the-flag game focusing on TOCTOU vulnerabilities",
     "meetup-group": "",
-    "github_status": "API rate limit exceeded for 40.86.13.176. (But here's the good news: Authenticated requests get a higher rate limit. Check out the documentation for more details.)"
+    "github_status": "Bad credentials",
+    "last_commit": null,
+    "date_released": null,
+    "release_version": null,
+    "committers": null,
+    "stars": null,
+    "top_language": null,
+    "license": null,
+    "forks": null,
+    "prs": null,
+    "issues": null
   },
   {
     "name": "Vulnerability Management Center",
@@ -2577,7 +4287,17 @@
     "region": "Unknown",
     "pitch": "a Scalable, Open Source and Free Vulnerability Management Platform",
     "meetup-group": "",
-    "github_status": "API rate limit exceeded for 40.86.13.176. (But here's the good news: Authenticated requests get a higher rate limit. Check out the documentation for more details.)"
+    "github_status": "Bad credentials",
+    "last_commit": null,
+    "date_released": null,
+    "release_version": null,
+    "committers": null,
+    "stars": null,
+    "top_language": null,
+    "license": null,
+    "forks": null,
+    "prs": null,
+    "issues": null
   },
   {
     "name": "Vulnerability Management Center",
@@ -2592,7 +4312,17 @@
     "region": "Unknown",
     "pitch": "a Scalable, Open Source and Free Vulnerability Management Platform",
     "meetup-group": "",
-    "github_status": "API rate limit exceeded for 40.86.13.176. (But here's the good news: Authenticated requests get a higher rate limit. Check out the documentation for more details.)"
+    "github_status": "Bad credentials",
+    "last_commit": null,
+    "date_released": null,
+    "release_version": null,
+    "committers": null,
+    "stars": null,
+    "top_language": null,
+    "license": null,
+    "forks": null,
+    "prs": null,
+    "issues": null
   },
   {
     "name": "Vulnerability Management Guide",
@@ -2607,7 +4337,17 @@
     "region": "Unknown",
     "pitch": "More info soon...",
     "meetup-group": "",
-    "github_status": "API rate limit exceeded for 40.86.13.176. (But here's the good news: Authenticated requests get a higher rate limit. Check out the documentation for more details.)"
+    "github_status": "Bad credentials",
+    "last_commit": null,
+    "date_released": null,
+    "release_version": null,
+    "committers": null,
+    "stars": null,
+    "top_language": null,
+    "license": null,
+    "forks": null,
+    "prs": null,
+    "issues": null
   },
   {
     "name": "Vulnerability Management Guide",
@@ -2622,7 +4362,17 @@
     "region": "Unknown",
     "pitch": "More info soon...",
     "meetup-group": "",
-    "github_status": "API rate limit exceeded for 40.86.13.176. (But here's the good news: Authenticated requests get a higher rate limit. Check out the documentation for more details.)"
+    "github_status": "Bad credentials",
+    "last_commit": null,
+    "date_released": null,
+    "release_version": null,
+    "committers": null,
+    "stars": null,
+    "top_language": null,
+    "license": null,
+    "forks": null,
+    "prs": null,
+    "issues": null
   },
   {
     "name": "Vulnerable Flask App",
@@ -2637,7 +4387,17 @@
     "region": "Unknown",
     "pitch": "A very brief, one-line description of your project",
     "meetup-group": "",
-    "github_status": "API rate limit exceeded for 40.86.13.176. (But here's the good news: Authenticated requests get a higher rate limit. Check out the documentation for more details.)"
+    "github_status": "Bad credentials",
+    "last_commit": null,
+    "date_released": null,
+    "release_version": null,
+    "committers": null,
+    "stars": null,
+    "top_language": null,
+    "license": null,
+    "forks": null,
+    "prs": null,
+    "issues": null
   },
   {
     "name": "Vulnerableapp",
@@ -2652,7 +4412,17 @@
     "region": "Unknown",
     "pitch": "VulnerableApp is a delibrately Vulnerable Web Application for Vulnerability Scanning Tool developers, its consumers and students.",
     "meetup-group": "",
-    "github_status": "API rate limit exceeded for 40.86.13.176. (But here's the good news: Authenticated requests get a higher rate limit. Check out the documentation for more details.)"
+    "github_status": "Bad credentials",
+    "last_commit": null,
+    "date_released": null,
+    "release_version": null,
+    "committers": null,
+    "stars": null,
+    "top_language": null,
+    "license": null,
+    "forks": null,
+    "prs": null,
+    "issues": null
   },
   {
     "name": "Vulnerableapp",
@@ -2667,7 +4437,17 @@
     "region": "Unknown",
     "pitch": "VulnerableApp is a delibrately Vulnerable Web Application for Vulnerability Scanning Tool developers, its consumers and students.",
     "meetup-group": "",
-    "github_status": "API rate limit exceeded for 40.86.13.176. (But here's the good news: Authenticated requests get a higher rate limit. Check out the documentation for more details.)"
+    "github_status": "Bad credentials",
+    "last_commit": null,
+    "date_released": null,
+    "release_version": null,
+    "committers": null,
+    "stars": null,
+    "top_language": null,
+    "license": null,
+    "forks": null,
+    "prs": null,
+    "issues": null
   },
   {
     "name": "Vulnerableapp Facade",
@@ -2682,7 +4462,17 @@
     "region": "Unknown",
     "pitch": "As Vulnerabilities are highly dependent on technologies and covering all the technology under on Vulnerable Application is impossible hence VulnerableApp-facade is built to solve this problem by building a distributed farm of Vulnerable Applications such that they can be built agnostic to tech stacks.",
     "meetup-group": "",
-    "github_status": "API rate limit exceeded for 40.86.13.176. (But here's the good news: Authenticated requests get a higher rate limit. Check out the documentation for more details.)"
+    "github_status": "Bad credentials",
+    "last_commit": null,
+    "date_released": null,
+    "release_version": null,
+    "committers": null,
+    "stars": null,
+    "top_language": null,
+    "license": null,
+    "forks": null,
+    "prs": null,
+    "issues": null
   },
   {
     "name": "Vulnerableapp Facade",
@@ -2697,7 +4487,17 @@
     "region": "Unknown",
     "pitch": "As Vulnerabilities are highly dependent on technologies and covering all the technology under on Vulnerable Application is impossible hence VulnerableApp-facade is built to solve this problem by building a distributed farm of Vulnerable Applications such that they can be built agnostic to tech stacks.",
     "meetup-group": "",
-    "github_status": "API rate limit exceeded for 40.86.13.176. (But here's the good news: Authenticated requests get a higher rate limit. Check out the documentation for more details.)"
+    "github_status": "Bad credentials",
+    "last_commit": null,
+    "date_released": null,
+    "release_version": null,
+    "committers": null,
+    "stars": null,
+    "top_language": null,
+    "license": null,
+    "forks": null,
+    "prs": null,
+    "issues": null
   },
   {
     "name": "Web Mapper",
@@ -2712,7 +4512,17 @@
     "region": "Unknown",
     "pitch": "More info soon...",
     "meetup-group": "",
-    "github_status": "API rate limit exceeded for 40.86.13.176. (But here's the good news: Authenticated requests get a higher rate limit. Check out the documentation for more details.)"
+    "github_status": "Bad credentials",
+    "last_commit": null,
+    "date_released": null,
+    "release_version": null,
+    "committers": null,
+    "stars": null,
+    "top_language": null,
+    "license": null,
+    "forks": null,
+    "prs": null,
+    "issues": null
   },
   {
     "name": "Web Testing Environment",
@@ -2727,7 +4537,17 @@
     "region": "Unknown",
     "pitch": "OWASP WTE is a collection of Application Security Tools provided as Debian files or a VM.",
     "meetup-group": "",
-    "github_status": "API rate limit exceeded for 40.86.13.176. (But here's the good news: Authenticated requests get a higher rate limit. Check out the documentation for more details.)"
+    "github_status": "Bad credentials",
+    "last_commit": null,
+    "date_released": null,
+    "release_version": null,
+    "committers": null,
+    "stars": null,
+    "top_language": null,
+    "license": null,
+    "forks": null,
+    "prs": null,
+    "issues": null
   },
   {
     "name": "Winfim.net",
@@ -2742,7 +4562,17 @@
     "region": "Unknown",
     "pitch": "File Integrity Monitoring For Windows",
     "meetup-group": "",
-    "github_status": "API rate limit exceeded for 40.86.13.176. (But here's the good news: Authenticated requests get a higher rate limit. Check out the documentation for more details.)"
+    "github_status": "Bad credentials",
+    "last_commit": null,
+    "date_released": null,
+    "release_version": null,
+    "committers": null,
+    "stars": null,
+    "top_language": null,
+    "license": null,
+    "forks": null,
+    "prs": null,
+    "issues": null
   },
   {
     "name": "Winfim.net",
@@ -2757,7 +4587,17 @@
     "region": "Unknown",
     "pitch": "File Integrity Monitoring For Windows",
     "meetup-group": "",
-    "github_status": "API rate limit exceeded for 40.86.13.176. (But here's the good news: Authenticated requests get a higher rate limit. Check out the documentation for more details.)"
+    "github_status": "Bad credentials",
+    "last_commit": null,
+    "date_released": null,
+    "release_version": null,
+    "committers": null,
+    "stars": null,
+    "top_language": null,
+    "license": null,
+    "forks": null,
+    "prs": null,
+    "issues": null
   },
   {
     "name": "Google Assistant",
@@ -2772,7 +4612,17 @@
     "region": "Unknown",
     "pitch": "More info soon...",
     "meetup-group": "",
-    "github_status": "API rate limit exceeded for 40.86.13.176. (But here's the good news: Authenticated requests get a higher rate limit. Check out the documentation for more details.)"
+    "github_status": "Bad credentials",
+    "last_commit": null,
+    "date_released": null,
+    "release_version": null,
+    "committers": null,
+    "stars": null,
+    "top_language": null,
+    "license": null,
+    "forks": null,
+    "prs": null,
+    "issues": null
   },
   {
     "name": "Embedded Application Security",
@@ -2787,7 +4637,17 @@
     "region": "Unknown",
     "pitch": "The Embedded Application Security Project produces a document that will provide a detailed technical pathway for manufacturers to build secure devices for an increasingly insecure world.",
     "meetup-group": "",
-    "github_status": "API rate limit exceeded for 40.86.13.176. (But here's the good news: Authenticated requests get a higher rate limit. Check out the documentation for more details.)"
+    "github_status": "Bad credentials",
+    "last_commit": null,
+    "date_released": null,
+    "release_version": null,
+    "committers": null,
+    "stars": null,
+    "top_language": null,
+    "license": null,
+    "forks": null,
+    "prs": null,
+    "issues": null
   },
   {
     "name": "Embedded Application Security",
@@ -2802,7 +4662,17 @@
     "region": "Unknown",
     "pitch": "The Embedded Application Security Project produces a document that will provide a detailed technical pathway for manufacturers to build secure devices for an increasingly insecure world.",
     "meetup-group": "",
-    "github_status": "API rate limit exceeded for 40.86.13.176. (But here's the good news: Authenticated requests get a higher rate limit. Check out the documentation for more details.)"
+    "github_status": "Bad credentials",
+    "last_commit": null,
+    "date_released": null,
+    "release_version": null,
+    "committers": null,
+    "stars": null,
+    "top_language": null,
+    "license": null,
+    "forks": null,
+    "prs": null,
+    "issues": null
   },
   {
     "name": "Ignita",
@@ -2817,7 +4687,17 @@
     "region": "Unknown",
     "pitch": "standalone analyser to detect vulnerabilities where the OWASP iGNITA Scanner",
     "meetup-group": "",
-    "github_status": "API rate limit exceeded for 40.86.13.176. (But here's the good news: Authenticated requests get a higher rate limit. Check out the documentation for more details.)"
+    "github_status": "Bad credentials",
+    "last_commit": null,
+    "date_released": null,
+    "release_version": null,
+    "committers": null,
+    "stars": null,
+    "top_language": null,
+    "license": null,
+    "forks": null,
+    "prs": null,
+    "issues": null
   },
   {
     "name": "Java Encoder",
@@ -2832,7 +4712,17 @@
     "region": "Unknown",
     "pitch": "More info soon...",
     "meetup-group": "",
-    "github_status": "API rate limit exceeded for 40.86.13.176. (But here's the good news: Authenticated requests get a higher rate limit. Check out the documentation for more details.)"
+    "github_status": "Bad credentials",
+    "last_commit": null,
+    "date_released": null,
+    "release_version": null,
+    "committers": null,
+    "stars": null,
+    "top_language": null,
+    "license": null,
+    "forks": null,
+    "prs": null,
+    "issues": null
   },
   {
     "name": "Java Encoder",
@@ -2847,7 +4737,17 @@
     "region": "Unknown",
     "pitch": "More info soon...",
     "meetup-group": "",
-    "github_status": "API rate limit exceeded for 40.86.13.176. (But here's the good news: Authenticated requests get a higher rate limit. Check out the documentation for more details.)"
+    "github_status": "Bad credentials",
+    "last_commit": null,
+    "date_released": null,
+    "release_version": null,
+    "committers": null,
+    "stars": null,
+    "top_language": null,
+    "license": null,
+    "forks": null,
+    "prs": null,
+    "issues": null
   },
   {
     "name": "Jupiter",
@@ -2862,7 +4762,17 @@
     "region": "Unknown",
     "pitch": "More info soon...",
     "meetup-group": "",
-    "github_status": "API rate limit exceeded for 40.86.13.176. (But here's the good news: Authenticated requests get a higher rate limit. Check out the documentation for more details.)"
+    "github_status": "Bad credentials",
+    "last_commit": null,
+    "date_released": null,
+    "release_version": null,
+    "committers": null,
+    "stars": null,
+    "top_language": null,
+    "license": null,
+    "forks": null,
+    "prs": null,
+    "issues": null
   },
   {
     "name": "Seraphimdroid",
@@ -2877,7 +4787,17 @@
     "region": "Unknown",
     "pitch": "More info soon...",
     "meetup-group": "",
-    "github_status": "API rate limit exceeded for 40.86.13.176. (But here's the good news: Authenticated requests get a higher rate limit. Check out the documentation for more details.)"
+    "github_status": "Bad credentials",
+    "last_commit": null,
+    "date_released": null,
+    "release_version": null,
+    "committers": null,
+    "stars": null,
+    "top_language": null,
+    "license": null,
+    "forks": null,
+    "prs": null,
+    "issues": null
   },
   {
     "name": "Zezengorri Code",
@@ -2892,7 +4812,17 @@
     "region": "Unknown",
     "pitch": "More info soon...",
     "meetup-group": "",
-    "github_status": "API rate limit exceeded for 40.86.13.176. (But here's the good news: Authenticated requests get a higher rate limit. Check out the documentation for more details.)"
+    "github_status": "Bad credentials",
+    "last_commit": null,
+    "date_released": null,
+    "release_version": null,
+    "committers": null,
+    "stars": null,
+    "top_language": null,
+    "license": null,
+    "forks": null,
+    "prs": null,
+    "issues": null
   },
   {
     "name": "Application Security Curriculum",
@@ -2907,7 +4837,17 @@
     "region": "Needs Website Update",
     "pitch": "More info soon...",
     "meetup-group": "",
-    "github_status": "API rate limit exceeded for 40.86.13.176. (But here's the good news: Authenticated requests get a higher rate limit. Check out the documentation for more details.)"
+    "github_status": "Bad credentials",
+    "last_commit": null,
+    "date_released": null,
+    "release_version": null,
+    "committers": null,
+    "stars": null,
+    "top_language": null,
+    "license": null,
+    "forks": null,
+    "prs": null,
+    "issues": null
   },
   {
     "name": "Cloud Security",
@@ -2922,7 +4862,17 @@
     "region": "Needs Website Update",
     "pitch": "More info soon...",
     "meetup-group": "",
-    "github_status": "API rate limit exceeded for 40.86.13.176. (But here's the good news: Authenticated requests get a higher rate limit. Check out the documentation for more details.)"
+    "github_status": "Bad credentials",
+    "last_commit": null,
+    "date_released": null,
+    "release_version": null,
+    "committers": null,
+    "stars": null,
+    "top_language": null,
+    "license": null,
+    "forks": null,
+    "prs": null,
+    "issues": null
   },
   {
     "name": "Mimosa",
@@ -2937,7 +4887,17 @@
     "region": "Needs Website Update",
     "pitch": "A very brief, one-line description of your project",
     "meetup-group": "",
-    "github_status": "API rate limit exceeded for 40.86.13.176. (But here's the good news: Authenticated requests get a higher rate limit. Check out the documentation for more details.)"
+    "github_status": "Bad credentials",
+    "last_commit": null,
+    "date_released": null,
+    "release_version": null,
+    "committers": null,
+    "stars": null,
+    "top_language": null,
+    "license": null,
+    "forks": null,
+    "prs": null,
+    "issues": null
   },
   {
     "name": "Mimosa",
@@ -2952,7 +4912,17 @@
     "region": "Needs Website Update",
     "pitch": "A very brief, one-line description of your project",
     "meetup-group": "",
-    "github_status": "API rate limit exceeded for 40.86.13.176. (But here's the good news: Authenticated requests get a higher rate limit. Check out the documentation for more details.)"
+    "github_status": "Bad credentials",
+    "last_commit": null,
+    "date_released": null,
+    "release_version": null,
+    "committers": null,
+    "stars": null,
+    "top_language": null,
+    "license": null,
+    "forks": null,
+    "prs": null,
+    "issues": null
   },
   {
     "name": "Sedated",
@@ -2967,6 +4937,16 @@
     "region": "Needs Website Update",
     "pitch": "The SEDATED\u00ae Project (Sensitive Enterprise Data Analyzer To Eliminate Disclosure) focuses on preventing sensitive data such as user credentials and tokens from being pushed to Git.",
     "meetup-group": "",
-    "github_status": "API rate limit exceeded for 40.86.13.176. (But here's the good news: Authenticated requests get a higher rate limit. Check out the documentation for more details.)"
+    "github_status": "Bad credentials",
+    "last_commit": null,
+    "date_released": null,
+    "release_version": null,
+    "committers": null,
+    "stars": null,
+    "top_language": null,
+    "license": null,
+    "forks": null,
+    "prs": null,
+    "issues": null
   }
 ]
