@@ -28,11 +28,13 @@ jobs:
           GIT_COMMITTER_NAME: "GitHub Action"
           GIT_COMMITTER_EMAIL: "test@github-email-com.com"
 
-      - name: Commit and push
-        uses: stefanzweifel/git-auto-commit-action@v4
+      - name: Commit changes
+        run: |
+          git add .
+          git commit -m "Update repository" || echo "No changes to commit"
+
+      - name: Push changes
+        uses: ad-m/github-push-action@master
         with:
-          commit_message: "Update repository"
-          commit_user_name: "GitHub Action"
-          commit_user_email: "test@github-email-com.com"
+          github_token: ${{ secrets.ACCESS_TOKEN }}
           branch: main
-          push_options: '--force' # Add this line if you want to force push; otherwise, remove it
