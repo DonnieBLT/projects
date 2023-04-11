@@ -9,11 +9,25 @@ OUTPUT_FILE = "www_project_repos.json"
 SLACK_WEBHOOK_URL = os.environ["SLACK_WEBHOOK_URL"]
 
 def get_repos():
-    url = f"{GITHUB_API_URL}/orgs/{ORG_NAME}/repos"
+    all_repos = []
+    page = 1
+    max_pages = 20  # Set to 20 to fetch 2000 repositories (100 per page * 20 pages)
+
     headers = {"Authorization": f"token {os.environ['GITHUB_TOKEN']}"}
-    response = requests.get(url, headers=headers)
-    response.raise_for_status()
-    return response.json()
+
+    while page <= max_pages:
+        url = f"{GITHUB_API_URL}/orgs/{ORG_NAME}/repos?per_page=100&page={page}"
+        response = requests.get(url, headers=headers)
+        response.raise_for_status()
+
+        repos = response.json()
+        if not repos:
+            break
+
+        all_repos.extend(repos)
+        page += 1
+
+    return all_repos
 
 def filter_and_format_repos(repos):
     filtered_repos = []
