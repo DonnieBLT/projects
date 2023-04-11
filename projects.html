@@ -63,7 +63,7 @@
                 const pushedColor = getColor(minDate, maxDate, pushedDate);
 
                 return {
-                    "project_name": `<a href="https://owasp.org/www-project-${project.name}" target="_blank">${project.name}</a>`,
+                    "project_name": `<a href="https://owasp.org/${project.name}" target="_blank">${project.name}</a>`,
                     "created_at": {
                         "display": new Date(project.created_at).toLocaleString(),
                         "timestamp": createdDate
