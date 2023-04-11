@@ -33,7 +33,6 @@ def filter_and_format_repos(repos):
     filtered_repos = []
 
     for repo in repos:
-        print(repo)
         if repo["name"].startswith(REPO_PREFIX):
             filtered_repos.append(repo)
 
