@@ -19,6 +19,7 @@ def filter_and_format_repos(repos):
     filtered_repos = []
 
     for repo in repos:
+        print(repo)
         if repo["name"].startswith(REPO_PREFIX):
             filtered_repos.append(repo)
 
@@ -34,6 +35,7 @@ def send_slack_alert(new_repos):
     response.raise_for_status()
 
 def main():
+    print('parsing repos')
     repos = get_repos()
     www_project_repos = filter_and_format_repos(repos)
 
