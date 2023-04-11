@@ -27,8 +27,7 @@ jobs:
       env:
         SLACK_WEBHOOK_URL: ${{ secrets.SLACK_WEBHOOK_URL }}
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-      run: |
-        python main.py
+      run: python .github/scripts/main.py
 
 #     - name: Upload JSON file
 #       uses: actions/upload-artifact@v2
