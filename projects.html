@@ -21,6 +21,9 @@
                 <th>Created</th>
                 <th>Updated</th>
                 <th>Pushed</th>
+                <th>Stars</th>
+                <th>Forks</th>
+                <th>Issues</th>
             </tr>
         </thead>
     </table>
@@ -28,45 +31,79 @@
     <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
     <script src="https://cdn.datatables.net/1.10.25/js/jquery.dataTables.min.js"></script>
     <script>
+        function formatDate(dateStr) {
+            const date = new Date(dateStr);
+            return (date.getMonth() + 1).toString().padStart(2, '0') + '/' +
+                date.getDate().toString().padStart(2, '0') + '/' +
+                date.getFullYear() + ' ' +
+                date.getHours().toString().padStart(2, '0') + ':' +
+                date.getMinutes().toString().padStart(2, '0') + ':' +
+                date.getSeconds().toString().padStart(2, '0');
+        }
+
+        function getColor(minDate, maxDate, date) {
+            const range = maxDate - minDate;
+            const position = date - minDate;
+            const percentage = position / range;
+            const red = Math.round(255 * percentage);
+            const blue = Math.round(255 * (1 - percentage));
+            return `rgb(${red}, 0, ${blue})`;
+        }
+
         function generateProjectData(projects) {
+            const minDate = new Date(Math.min(...projects.map(project => new Date(project.created_at))));
+            const maxDate = new Date(Math.max(...projects.map(project => new Date(project.updated_at))));
             const projectsData = projects.map(project => {
                 const projectName = project.name.replace("www-project-", "");
+                const createdDate = new Date(project.created_at);
+                const updatedDate = new Date(project.updated_at);
+                const pushedDate = new Date(project.pushed_at);
 
                 return {
-                    "project_name": `<a href="https://owasp.org/${projectName}" target="_blank">${project.name}</a>`,
-                    "created_at": project.created_at,
-                    "updated_at": project.updated_at,
-                    "pushed_at": project.pushed_at,
-                };
+                    "project_name": `<a href="https://owasp.org/${project.name}" target="_blank">${projectName}</a>`,
+                    "created_at": { display: formatDate(project.created_at), timestamp: createdDate },
+                    "updated_at": { display: formatDate(project.updated_at), timestamp: updatedDate },
+                    "pushed_at": { display: formatDate(project.pushed_at), timestamp: pushedDate },
+                    "stargazers_count": project.stargazers_count,
+                    "forks_count": project.forks_count,
+                    "open_issues_count": project.open_issues_count,
+                    "created_color": getColor(minDate, maxDate, createdDate),
+                "updated_color": getColor(minDate, maxDate, updatedDate),
+                "pushed_color": getColor(minDate, maxDate, pushedDate)
+            };
+        });
+        return projectsData;
+    }
+
+    async function loadRepoStatus() {
+        const response = await fetch('www_project_repos.json');
+        const projects = await response.json();
+        return projects;
+    }
+
+
+    (async function () {
+        const projects = await loadRepoStatus();
+        const projectsData = generateProjectData(projects);
+
+        $(document).ready(function () {
+            $('#projects').DataTable({
+                "data": projectsData,
+                "pageLength": 100,
+                "columns": [
+                    { "data": "project_name" },
+                    { "data": "created_at.display", "createdCell": (td, cellData, rowData) => { $(td).css('background-color', rowData.created_color); } },
+                    { "data": "updated_at.display", "createdCell": (td, cellData, rowData) => { $(td).css('background-color', rowData.updated_color); } },
+                    { "data": "pushed_at.display", "createdCell": (td, cellData, rowData) => { $(td).css('background-color', rowData.pushed_color); } },
+                    { "data": "stargazers_count" },
+                    { "data": "forks_count" },
+                    { "data": "open_issues_count" },
+                ],
+                "order": [[0, "asc"]]
             });
-            return projectsData;
-        }
-
-        async function loadRepoStatus() {
-            const response = await fetch('www_project_repos.json');
-            const projects = await response.json();
-            return projects;
-        }
-
-        (async function () {
-            const projects = await loadRepoStatus();
-            const projectsData = generateProjectData(projects);
-
-            $(document).ready(function () {
-                $('#projects').DataTable({
-                    "data": projectsData,
-                    "pageLength": 100,
-                    "columns": [
-                        { "data": "project_name" },
-                        { "data": "created_at" },
-                        { "data": "updated_at" },
-                        { "data": "pushed_at" },
-                    ],
-                    "order": [[0, "asc"]]
-                });
-            });
-        })();
-    </script>
+        });
+    })();
+</script>
 </body>
 </html>
 
