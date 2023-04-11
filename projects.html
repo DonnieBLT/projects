@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Project Matrix</title>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="https://cdn.datatables.net/1.10.25/css/jquery.dataTables.min.css">
+    <style>
+        th {
+            position: sticky;
+            top: 0;
+            background-color: #f1f1f1;
+        }
+    </style>
+</head>
+<body>
+    <table id="projects" class="display">
+        <thead>
+            <tr>
+                <th>Project Name</th>
+                <th>Created</th>
+                <th>Updated</th>
+                <th>Pushed</th>
+            </tr>
+        </thead>
+    </table>
+
+    <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+    <script src="https://cdn.datatables.net/1.10.25/js/jquery.dataTables.min.js"></script>
+    <script>
+        function generateProjectData(projects) {
+            const projectsData = projects.map(project => {
+                const projectName = project.name.replace("www-project-", "");
+
+                return {
+                    "project_name": `<a href="https://owasp.org/${projectName}" target="_blank">${project.name}</a>`,
+                    "created_at": project.created_at,
+                    "updated_at": project.updated_at,
+                    "pushed_at": project.pushed_at,
+                };
+            });
+            return projectsData;
+        }
+
+        async function loadRepoStatus() {
+            const response = await fetch('www_project_repos.json');
+            const projects = await response.json();
+            return projects;
+        }
+
+        (async function () {
+            const projects = await loadRepoStatus();
+            const projectsData = generateProjectData(projects);
+
+            $(document).ready(function () {
+                $('#projects').DataTable({
+                    "data": projectsData,
+                    "pageLength": 100,
+                    "columns": [
+                        { "data": "project_name" },
+                        { "data": "created_at" },
+                        { "data": "updated_at" },
+                        { "data": "pushed_at" },
+                    ],
+                    "order": [[0, "asc"]]
+                });
+            });
+        })();
+    </script>
+</body>
+</html>
+
