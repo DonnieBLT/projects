@@ -8,6 +8,7 @@ def extract_github_links(url):
     soup = BeautifulSoup(response.text, 'html.parser')
     links = soup.find_all('a', href=True)
     github_links = [link['href'] for link in links if 'github.com' in link['href']]
+    print("github_links", github_links)
     return github_links
 
 with open('www_project_repos.json', 'r') as f:
@@ -16,6 +17,7 @@ with open('www_project_repos.json', 'r') as f:
 project_links = []
 
 for project in data:
+    print("project name", project['name'])
     project_name = project['name']
     github_url = project['html_url'].replace('github.com', 'github.com/OWASP')
     repo_links = extract_github_links(github_url)
