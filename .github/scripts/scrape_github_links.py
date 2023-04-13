@@ -10,7 +10,7 @@ def extract_github_links(url):
     
     github_links = set()
     for link in links:
-        match = re.match(r'https://github\.com/[^/]+/[^/]+', link['href'])
+        match = re.match(r'https://github\.com/[^/]+/[^/#]+', link['href'].lower())
         if match:
             github_links.add(match.group(0))
     
