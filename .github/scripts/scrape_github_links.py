@@ -20,6 +20,8 @@ project_links = []
 for project in data:
     print("project name", project['name'])
     project_name = project['name']
+    github_url = project['html_url'].replace('github.com/OWASP/', 'owasp.org/')
+
     repo_links = extract_github_links(project['html_url'])
     project_links.append({
         'project_name': project_name,
