@@ -4,20 +4,8 @@
     "repo_links": [
       "https://github.com/zaproxy/zaproxy",
       "https://github.com/zaproxy/zap-hud",
-      "https://github.com/zaproxy/zap-extensions",
-      "https://github.com/zaproxy/community-scripts"
-    ]
-  },
-  {
-    "project_name": "www-projectchapter-example",
-    "repo_links": [
-      "https://github.com/owasp/www-projectchapter-example"
-    ]
-  },
-  {
-    "project_name": "www-project-security-integration-system",
-    "repo_links": [
-      "https://github.com/owasp/www-project-security-integration-system"
+      "https://github.com/zaproxy/community-scripts",
+      "https://github.com/zaproxy/zap-extensions"
     ]
   },
   {
@@ -29,56 +17,28 @@
   {
     "project_name": "www-project-devsecops-maturity-model",
     "repo_links": [
-      "https://github.com/owasp/www-project-devsecops-maturity-model",
       "https://github.com/wurstbrot/devsecops-maturitymodel"
     ]
   },
   {
     "project_name": "www-project-pytm",
     "repo_links": [
-      "https://github.com/izar/pytm",
-      "https://github.com/owasp/www-project-pytm"
+      "https://github.com/izar/pytm"
     ]
   },
   {
     "project_name": "www-project-patton",
     "repo_links": [
-      "https://github.com/bbva/patton",
-      "https://github.com/owasp/www-project-patton"
-    ]
-  },
-  {
-    "project_name": "www-project-little-web-application-firewall",
-    "repo_links": [
-      "https://github.com/owasp/www-project-little-web-application-firewall"
-    ]
-  },
-  {
-    "project_name": "www-project-damn-vulnerable-crypto-wallet",
-    "repo_links": [
-      "https://github.com/owasp/www-project-damn-vulnerable-crypto-wallet"
-    ]
-  },
-  {
-    "project_name": "www-project-security-busters",
-    "repo_links": [
-      "https://github.com/owasp/www-project-security-busters"
-    ]
-  },
-  {
-    "project_name": "www-project-best-practices-in-vulnerability-disclosure-and-bug-bounty-programs",
-    "repo_links": [
-      "https://github.com/owasp/www-project-best-practices-in-vulnerability-disclosure-and-bug-bounty-programs"
+      "https://github.com/bbva/patton"
     ]
   },
   {
     "project_name": "www-project-attack-surface-detector",
     "repo_links": [
       "https://github.com/secdec/attack-surface-detector-cli",
-      "https://github.com/secdec/attack-surface-detector-zap",
       "https://github.com/secdec/attack-surface-detector-burp",
-      "https://github.com/zaproxy/zap-extensions",
-      "https://github.com/owasp/www-project-attack-surface-detector"
+      "https://github.com/secdec/attack-surface-detector-zap",
+      "https://github.com/zaproxy/zap-extensions"
     ]
   },
   {
@@ -88,41 +48,15 @@
     ]
   },
   {
-    "project_name": "www-project-threatspec",
-    "repo_links": [
-      "https://github.com/owasp/www-project-threatspec"
-    ]
-  },
-  {
     "project_name": "www-project-vulnerability-management-guide",
     "repo_links": [
-      "https://github.com/owasp/www-project-vulnerability-management-guide",
       "https://github.com/lizfrenz/owasp-vuln-mngmnt"
     ]
   },
   {
     "project_name": "www-project-docker-top-10",
     "repo_links": [
-      "https://github.com/owasp/docker-security",
-      "https://github.com/owasp/www-project-docker-top-10"
-    ]
-  },
-  {
-    "project_name": "www-project-information-security-metrics-bank",
-    "repo_links": [
-      "https://github.com/owasp/www-project-information-security-metrics-bank"
-    ]
-  },
-  {
-    "project_name": "www-project-software-security-5d-framework",
-    "repo_links": [
-      "https://github.com/owasp/www-project-software-security-5d-framework"
-    ]
-  },
-  {
-    "project_name": "www-project-container-security-verification-standard",
-    "repo_links": [
-      "https://github.com/owasp/www-project-container-security-verification-standard"
+      "https://github.com/owasp/docker-security"
     ]
   },
   {
@@ -138,18 +72,6 @@
     ]
   },
   {
-    "project_name": "www-project-cloud-native-application-security-top-10",
-    "repo_links": [
-      "https://github.com/owasp/www-project-cloud-native-application-security-top-10"
-    ]
-  },
-  {
-    "project_name": "www-project-lock-it",
-    "repo_links": [
-      "https://github.com/owasp/www-project-lock-it"
-    ]
-  },
-  {
     "project_name": "www-project-threat-model-cookbook",
     "repo_links": [
       "https://github.com/owasp/pytm",
@@ -157,49 +79,33 @@
     ]
   },
   {
-    "project_name": "www-project-iot-analytics-4industry4",
-    "repo_links": [
-      "https://github.com/owasp/www-project-iot-analytics-4industry4"
-    ]
-  },
-  {
     "project_name": "www-project-application-security-curriculum",
     "repo_links": [
-      "https://github.com/owasp/application-security-curriculum",
-      "https://github.com/owasp/www-project-application-security-curriculum"
-    ]
-  },
-  {
-    "project_name": "www-project-software-composition-security",
-    "repo_links": [
-      "https://github.com/owasp/www-project-software-composition-security"
+      "https://github.com/owasp/application-security-curriculum"
     ]
   },
   {
     "project_name": "www-project-d4n155",
     "repo_links": [
-      "https://github.com/owasp/www-project-d4n155",
-      "https://github.com/owasp/d4n155",
-      "https://github.com/jul10l1r4/d4n155_bot"
+      "https://github.com/jul10l1r4/d4n155_bot",
+      "https://github.com/owasp/d4n155"
     ]
   },
   {
     "project_name": "www-project-secure-coding-dojo",
     "repo_links": [
-      "https://github.com/owasp/securecodingdojo",
-      "https://github.com/owasp/www-project-secure-coding-dojo",
-      "https://github.com/trendmicro/securecodingdojo"
+      "https://github.com/trendmicro/securecodingdojo",
+      "https://github.com/owasp/securecodingdojo"
     ]
   },
   {
     "project_name": "www-project-jupiter",
     "repo_links": [
-      "https://github.com/xpert98/jupiter-collector-plugin",
-      "https://github.com/xpert98/jupiter-docker",
-      "https://github.com/xpert98/jupiter-curated-inventory-service",
       "https://github.com/xpert98/jupiter-inventory-management-console",
-      "https://github.com/owasp/www-project-jupiter",
-      "https://github.com/xpert98/jupiter-collector-service"
+      "https://github.com/xpert98/jupiter-curated-inventory-service",
+      "https://github.com/xpert98/jupiter-collector-service",
+      "https://github.com/xpert98/jupiter-collector-plugin",
+      "https://github.com/xpert98/jupiter-docker"
     ]
   },
   {
@@ -215,117 +121,45 @@
     ]
   },
   {
-    "project_name": "www-project-revelo",
-    "repo_links": [
-      "https://github.com/owasp/www-project-revelo"
-    ]
-  },
-  {
     "project_name": "www-project-sedated",
     "repo_links": [
-      "https://github.com/owasp/www-project-sedated",
       "https://github.com/owasp/sedated"
-    ]
-  },
-  {
-    "project_name": "www-project-top-10-card-game",
-    "repo_links": [
-      "https://github.com/owasp/www-project-top-10-card-game"
-    ]
-  },
-  {
-    "project_name": "www-project-vulnerable-web-application",
-    "repo_links": [
-      "https://github.com/owasp/www-project-vulnerable-web-application"
-    ]
-  },
-  {
-    "project_name": "www-project-wpbullet",
-    "repo_links": [
-      "https://github.com/owasp/www-project-wpbullet"
-    ]
-  },
-  {
-    "project_name": "www-project-voice-automated-application-security",
-    "repo_links": [
-      "https://github.com/owasp/www-project-voice-automated-application-security"
-    ]
-  },
-  {
-    "project_name": "www-project-cloud-security-mentor",
-    "repo_links": [
-      "https://github.com/owasp/www-project-cloud-security-mentor"
     ]
   },
   {
     "project_name": "www-project-risk-assessment-framework",
     "repo_links": [
-      "https://github.com/owasp/www-project-risk-assessment-framework",
       "https://github.com/owasp/riskassessmentframework"
-    ]
-  },
-  {
-    "project_name": "www-project-machine-learning-security-top-10",
-    "repo_links": [
-      "https://github.com/owasp/www-project-machine-learning-security-top-10",
-      "https://github.com/owasp/www-project-machine-learning-security-top-10?q=is%3aopen+is%3aissue+label%3abug"
-    ]
-  },
-  {
-    "project_name": "www-project-glue-tool",
-    "repo_links": [
-      "https://github.com/owasp/www-project-glue-tool"
     ]
   },
   {
     "project_name": "www-project-cloud-security",
     "repo_links": [
-      "https://github.com/owasp-cloud-security/owasp-cloud-security",
-      "https://github.com/owasp/www-project-cloud-security"
-    ]
-  },
-  {
-    "project_name": "www-project-online-academy",
-    "repo_links": [
-      "https://github.com/owasp/www-project-online-academy"
-    ]
-  },
-  {
-    "project_name": "www-project-qrljacker",
-    "repo_links": [
-      "https://github.com/owasp/www-project-qrljacker"
+      "https://github.com/owasp-cloud-security/owasp-cloud-security"
     ]
   },
   {
     "project_name": "www-project-samuraiwtf",
     "repo_links": [
-      "https://github.com/owasp/www-project-samuraiwtf",
       "https://github.com/samuraiwtf/samuraiwtf"
-    ]
-  },
-  {
-    "project_name": "www-project-php",
-    "repo_links": [
-      "https://github.com/owasp/www-project-php"
     ]
   },
   {
     "project_name": "www-project-enterprise-security-api",
     "repo_links": [
-      "https://github.com/google/tink",
+      "https://github.com/esapi/esapi-java-legacy",
       "https://github.com/esapi/owasp-esapi-js",
-      "https://github.com/damonmiller/esapi4cf",
-      "https://github.com/esapi/node-esapi",
       "https://github.com/google/keyczar",
-      "https://github.com/esapi/esapi-java",
       "https://github.com/esapi-java-legacy/esapi-java-legacy",
-      "https://github.com/esapi/esapi-java-legacy"
+      "https://github.com/google/tink",
+      "https://github.com/esapi/esapi-java",
+      "https://github.com/esapi/node-esapi",
+      "https://github.com/damonmiller/esapi4cf"
     ]
   },
   {
     "project_name": "www-project-api-security",
     "repo_links": [
-      "https://github.com/owasp/www-project-api-security",
       "https://github.com/owasp/cheatsheetseries",
       "https://github.com/owasp/api-security"
     ]
@@ -333,43 +167,27 @@
   {
     "project_name": "www-project-nettacker",
     "repo_links": [
-      "https://github.com/owasp/nettacker",
-      "https://github.com/owasp/www-project-nettacker"
+      "https://github.com/owasp/nettacker"
     ]
   },
   {
     "project_name": "www-project-zezengorri-code",
     "repo_links": [
-      "https://github.com/owasp/www-project-zezengorri-code",
       "https://github.com/vascoarreaza/owaspzezengorri"
-    ]
-  },
-  {
-    "project_name": "www-project-learning-gateway",
-    "repo_links": [
-      "https://github.com/owasp/www-project-learning-gateway"
-    ]
-  },
-  {
-    "project_name": "www-project-seclists",
-    "repo_links": [
-      "https://github.com/owasp/www-project-seclists"
     ]
   },
   {
     "project_name": "www-project-security-pins",
     "repo_links": [
       "https://github.com/wurstbrot/security-pins-pdf",
-      "https://github.com/owasp/www-project-security-pins",
       "https://github.com/wurstbrot/security-pins"
     ]
   },
   {
     "project_name": "www-project-serverless-top-10",
     "repo_links": [
-      "https://github.com/owasp/serverless-top-10-project",
-      "https://github.com/owasp/www-project-serverless-top-10",
-      "https://github.com/owasp/dvsa"
+      "https://github.com/owasp/dvsa",
+      "https://github.com/owasp/serverless-top-10-project"
     ]
   },
   {
@@ -381,14 +199,12 @@
   {
     "project_name": "www-project-security-shepherd",
     "repo_links": [
-      "https://github.com/owasp/www-project-security-shepherd",
       "https://github.com/owasp/securityshepherd"
     ]
   },
   {
     "project_name": "www-project-owtf",
     "repo_links": [
-      "https://github.com/owasp/www-project-owtf",
       "https://github.com/owtf/owtf",
       "https://github.com/owtf/owtf-docker"
     ]
@@ -396,27 +212,18 @@
   {
     "project_name": "www-project-application-security-verification-standard",
     "repo_links": [
-      "https://github.com/owasp/asvs",
-      "https://github.com/owasp/www-project-application-security-verification-standard"
+      "https://github.com/owasp/asvs"
     ]
   },
   {
     "project_name": "www-project-top-ten",
     "repo_links": [
-      "https://github.com/owasp/www-project-top-ten",
       "https://github.com/owasp/top10"
-    ]
-  },
-  {
-    "project_name": "www-project-code-review-guide",
-    "repo_links": [
-      "https://github.com/owasp/www-project-code-review-guide"
     ]
   },
   {
     "project_name": "www-project-webgoat",
     "repo_links": [
-      "https://github.com/owasp/www-project-webgoat",
       "https://github.com/webgoat/webgoat"
     ]
   },
@@ -429,14 +236,12 @@
   {
     "project_name": "www-project-csrfguard",
     "repo_links": [
-      "https://github.com/owasp/www-project-csrfguard",
       "https://github.com/aramrami/owasp-csrfguard"
     ]
   },
   {
     "project_name": "www-project-modsecurity-core-rule-set",
     "repo_links": [
-      "https://github.com/owasp/www-project-modsecurity-core-rule-set",
       "https://github.com/owasp/owasp-swag",
       "https://github.com/coreruleset/coreruleset"
     ]
@@ -445,7 +250,6 @@
     "project_name": "www-project-samm",
     "repo_links": [
       "https://github.com/owaspsamm/core",
-      "https://github.com/owasp/www-project-samm",
       "https://github.com/owasp/samm"
     ]
   },
@@ -456,48 +260,22 @@
     ]
   },
   {
-    "project_name": "www-project-proactive-controls",
-    "repo_links": [
-      "https://github.com/owasp/www-project-proactive-controls"
-    ]
-  },
-  {
     "project_name": "www-project-hackademic-challenges",
     "repo_links": [
       "https://github.com/owasp/owasp.github.io"
     ]
   },
   {
-    "project_name": "www-project-ende",
-    "repo_links": [
-      "https://github.com/owasp/www-project-ende"
-    ]
-  },
-  {
-    "project_name": "www-project-o2-platform",
-    "repo_links": [
-      "https://github.com/owasp/www-project-o2-platform"
-    ]
-  },
-  {
     "project_name": "www-project-security-knowledge-framework",
     "repo_links": [
-      "https://github.com/owasp/www-project-security-knowledge-framework",
       "https://github.com/blabla1337/skf-flask"
-    ]
-  },
-  {
-    "project_name": "www-project-top-10-privacy-risks",
-    "repo_links": [
-      "https://github.com/owasp/www-project-top-10-privacy-risks"
     ]
   },
   {
     "project_name": "www-project-secure-coding-practices-quick-reference-guide",
     "repo_links": [
       "https://github.com/checkmarx/go-scp",
-      "https://github.com/owasp/secure-coding-practices-quick-reference-guide",
-      "https://github.com/owasp/www-project-secure-coding-practices-quick-reference-guide"
+      "https://github.com/owasp/secure-coding-practices-quick-reference-guide"
     ]
   },
   {
@@ -509,15 +287,13 @@
   {
     "project_name": "www-project-java-encoder",
     "repo_links": [
-      "https://github.com/owasp/www-project-java-encoder",
       "https://github.com/owasp/owasp-java-encoder"
     ]
   },
   {
     "project_name": "www-project-igoat-tool",
     "repo_links": [
-      "https://github.com/owasp/igoat-swift",
-      "https://github.com/owasp/www-project-igoat-tool"
+      "https://github.com/owasp/igoat-swift"
     ]
   },
   {
@@ -529,83 +305,48 @@
   {
     "project_name": "www-project-web-testing-environment",
     "repo_links": [
-      "https://github.com/mtesauro/owasp-wte",
-      "https://github.com/owasp/www-project-web-testing-environment"
+      "https://github.com/mtesauro/owasp-wte"
     ]
   },
   {
     "project_name": "www-project-appsensor",
     "repo_links": [
-      "https://github.com/jtmelton/appsensor",
-      "https://github.com/owasp/www-project-appsensor"
-    ]
-  },
-  {
-    "project_name": "www-project-json-sanitizer",
-    "repo_links": [
-      "https://github.com/owasp/www-project-json-sanitizer"
+      "https://github.com/jtmelton/appsensor"
     ]
   },
   {
     "project_name": "www-project-java-html-sanitizer",
     "repo_links": [
-      "https://github.com/owasp/java-html-sanitizer",
-      "https://github.com/owasp/www-project-java-html-sanitizer"
-    ]
-  },
-  {
-    "project_name": "www-project-university-challenge",
-    "repo_links": [
-      "https://github.com/owasp/www-project-university-challenge"
-    ]
-  },
-  {
-    "project_name": "www-project-wafec",
-    "repo_links": [
-      "https://github.com/owasp/www-project-wafec"
-    ]
-  },
-  {
-    "project_name": "www-project-hacking-lab",
-    "repo_links": [
-      "https://github.com/owasp/www-project-hacking-lab"
+      "https://github.com/owasp/java-html-sanitizer"
     ]
   },
   {
     "project_name": "www-project-bug-logging-tool",
     "repo_links": [
-      "https://github.com/owasp/www-project-bug-logging-tool",
-      "https://github.com/owasp/blt-bacon",
+      "https://github.com/owasp/blt-action",
       "https://github.com/owasp/blt-flutter",
       "https://github.com/owasp/blt",
-      "https://github.com/owasp/blt-action",
+      "https://github.com/owasp/blt-bacon",
       "https://github.com/owasp/blt-extension"
     ]
   },
   {
     "project_name": "www-project-cornucopia",
     "repo_links": [
-      "https://github.com/owasp/www-project-cornucopia",
       "https://github.com/owasp/cornucopia"
-    ]
-  },
-  {
-    "project_name": "www-project-top-10-fuer-entwickler",
-    "repo_links": [
-      "https://github.com/owasp/www-project-top-10-fuer-entwickler"
     ]
   },
   {
     "project_name": "www-project-juice-shop",
     "repo_links": [
-      "https://github.com/iteratec/multi-juicer",
-      "https://github.com/bkimminich/juice-shop",
-      "https://github.com/juice-shop/juice-shop",
-      "https://github.com/moloch--/rootthebox",
-      "https://github.com/facebook/fbctf",
+      "https://github.com/juice-shop/juice-shop-ctf",
       "https://github.com/wurstbrot/shake-logger",
+      "https://github.com/juice-shop/juice-shop",
+      "https://github.com/bkimminich/juice-shop",
+      "https://github.com/facebook/fbctf",
       "https://github.com/ctfd/ctfd",
-      "https://github.com/juice-shop/juice-shop-ctf"
+      "https://github.com/moloch--/rootthebox",
+      "https://github.com/iteratec/multi-juicer"
     ]
   },
   {
@@ -621,433 +362,249 @@
     ]
   },
   {
-    "project_name": "www-project-webgoat-php",
-    "repo_links": [
-      "https://github.com/owasp/www-project-webgoat-php"
-    ]
-  },
-  {
     "project_name": "www-project-vulnerable-web-applications-directory",
     "repo_links": [
-      "https://github.com/juice-shop/juice-shop",
-      "https://github.com/rewanthtammana/damn-vulnerable-bank",
-      "https://github.com/koenbuyens/vulnerable-oauth-2.0-applications",
-      "https://github.com/adeyosemanputra/pygoat",
-      "https://github.com/vegabird/xvna",
-      "https://github.com/audi-1/sqli-labs",
-      "https://github.com/cschneider4711/marathon",
-      "https://github.com/sqlmapproject/testenv",
-      "https://github.com/cr0hn/vulnerable-node",
-      "https://github.com/kaakaww/vuln_node_express",
-      "https://github.com/sectooladdict/wavsep",
-      "https://github.com/snyk-labs/nodejs-goof",
-      "https://github.com/isp1r0/dvna",
-      "https://github.com/owasp/securityshepherd",
-      "https://github.com/jerryhoff/webgoat.net",
-      "https://github.com/adamdoupe/wackopicko",
-      "https://github.com/owasp/owaspwebgoatphp",
-      "https://github.com/spiderlabs/sqlol",
-      "https://github.com/sakti/twitterlike",
-      "https://github.com/christophetd/log4shell-vulnerable-app",
-      "https://github.com/owasp/dvsa",
-      "https://github.com/arthurakay/cyberscavengerhunt",
-      "https://github.com/marmicode/websheep",
-      "https://github.com/mddanish/vulnerable-otp-application",
-      "https://github.com/commjoen/wrongsecrets",
-      "https://github.com/chuckfw/owaspbwa",
-      "https://github.com/psiinon/bodgeit",
-      "https://github.com/mattvaldes/vulnerable-api",
-      "https://github.com/owasp/owasp-vwad",
-      "https://github.com/thedeadrobots/pixi",
-      "https://github.com/ctxis/vulnerablexsltconsoleapplication",
-      "https://github.com/convisolabs/cvwa",
-      "https://github.com/iknowjason/hammer",
-      "https://github.com/webgoat/webgoat",
-      "https://github.com/cider-security-research/cicd-goat",
-      "https://github.com/lucideus-repo/unsafe_bank",
-      "https://github.com/cspf-founder/javavulnerablelab",
-      "https://github.com/google/firing-range",
-      "https://github.com/k-tamura/easybuggy",
-      "https://github.com/dhatanian/ticketmagpie",
-      "https://github.com/digininja/dvwa",
-      "https://github.com/rhinosecuritylabs/cloudgoat",
-      "https://github.com/fridaygoldsmith/bwa_cyclone_transfers",
-      "https://github.com/lunam00n/file-upload-lab",
-      "https://github.com/hackthis/hackthis.co.uk",
-      "https://github.com/rapid7/hackazon",
-      "https://github.com/snoopysecurity/dvws-node",
-      "https://github.com/spiderlabs/cryptomg",
-      "https://github.com/owasp/nodegoat",
-      "https://github.com/playframework/play-webgoat",
-      "https://github.com/njmulsqb/dvea",
-      "https://github.com/globocom/secdevlabs",
-      "https://github.com/yavuzlar/vulnlab",
-      "https://github.com/we45/dvfaas-damn-vulnerable-functions-as-a-service",
-      "https://github.com/s4n7h0/xvwa",
-      "https://github.com/incredibleindishell/ssrf_vulnerable_lab",
-      "https://github.com/tahmed11/owasp_zap_api_scripts",
-      "https://github.com/satishpatnayak/androgoat",
-      "https://github.com/owasp/railsgoat",
-      "https://github.com/sjord/jwtdemo",
-      "https://github.com/appsecco/dvna",
-      "https://github.com/jbarone/xxelab",
-      "https://github.com/digininja/authlab",
-      "https://github.com/erev0s/vampi",
-      "https://github.com/webpwnized/mutillidae",
-      "https://github.com/owasp/mstg-hacking-playground",
-      "https://github.com/roottusk/vapi",
-      "https://github.com/silentsignal/damn-vulnerable-stateful-web-app",
-      "https://github.com/hackademic/hackademic",
-      "https://github.com/rapid7/metasploitable3",
-      "https://github.com/yogisec/vulnerablesamlapp",
-      "https://github.com/owasp/crapi",
-      "https://github.com/digininja/nosqlilab",
-      "https://github.com/red-and-black/djangogoat",
       "https://github.com/detectify/varnish-h2-request-smuggling",
-      "https://github.com/snoopysecurity/dvws",
-      "https://github.com/sasanlabs/vulnerableapp",
-      "https://github.com/checkmarx/goatlin",
-      "https://github.com/owasp/owasp-mstg",
-      "https://github.com/snsttr/diwa",
-      "https://github.com/datadog/security-labs-pocs",
-      "https://github.com/scalesec/vulnado",
-      "https://github.com/interference-security/dvws",
-      "https://github.com/sasanlabs/vulnerableapp-facade",
+      "https://github.com/owasp/owaspwebgoatphp",
+      "https://github.com/ctxis/vulnerablexsltconsoleapplication",
       "https://github.com/spiderlabs/mcir",
-      "https://github.com/insp3ctre/race-the-web",
-      "https://github.com/devslop/pixi",
+      "https://github.com/rewanthtammana/damn-vulnerable-bank",
+      "https://github.com/silentsignal/damn-vulnerable-stateful-web-app",
+      "https://github.com/lunam00n/file-upload-lab",
+      "https://github.com/kaakaww/vuln_node_express",
+      "https://github.com/roottusk/vapi",
+      "https://github.com/juice-shop/juice-shop",
+      "https://github.com/snyk-labs/nodejs-goof",
+      "https://github.com/adeyosemanputra/pygoat",
+      "https://github.com/spiderlabs/sqlol",
+      "https://github.com/sjord/jwtdemo",
+      "https://github.com/rapid7/metasploitable3",
+      "https://github.com/cider-security-research/cicd-goat",
       "https://github.com/dolevf/damn-vulnerable-graphql-application",
-      "https://github.com/owasp/serverless-goat",
-      "https://github.com/hclproducts/altoroj",
-      "https://github.com/payatu/tiredful-api",
-      "https://github.com/stamparm/dsvw",
-      "https://github.com/aabashkin/nosql-injection-vulnapp",
-      "https://github.com/anxolerd/dvpwa",
-      "https://github.com/satishpatnayak/mytest",
       "https://github.com/omerlh/insecure-deserialisation-net-poc",
+      "https://github.com/s4n7h0/xvwa",
+      "https://github.com/vegabird/xvna",
+      "https://github.com/marmicode/websheep",
+      "https://github.com/sasanlabs/vulnerableapp-facade",
+      "https://github.com/christophetd/log4shell-vulnerable-app",
+      "https://github.com/interference-security/dvws",
+      "https://github.com/yogisec/vulnerablesamlapp",
+      "https://github.com/commjoen/wrongsecrets",
+      "https://github.com/lucideus-repo/unsafe_bank",
+      "https://github.com/sakti/twitterlike",
+      "https://github.com/jbarone/xxelab",
+      "https://github.com/njmulsqb/dvea",
+      "https://github.com/appsecco/dvna",
+      "https://github.com/neuralegion/brokencrystals",
       "https://github.com/insiderphd/generic-university",
-      "https://github.com/neuralegion/brokencrystals"
+      "https://github.com/rapid7/hackazon",
+      "https://github.com/thedeadrobots/pixi",
+      "https://github.com/hclproducts/altoroj",
+      "https://github.com/cspf-founder/javavulnerablelab",
+      "https://github.com/owasp/dvsa",
+      "https://github.com/insp3ctre/race-the-web",
+      "https://github.com/owasp/owasp-mstg",
+      "https://github.com/owasp/nodegoat",
+      "https://github.com/google/firing-range",
+      "https://github.com/stamparm/dsvw",
+      "https://github.com/sasanlabs/vulnerableapp",
+      "https://github.com/devslop/pixi",
+      "https://github.com/digininja/dvwa",
+      "https://github.com/isp1r0/dvna",
+      "https://github.com/owasp/crapi",
+      "https://github.com/iknowjason/hammer",
+      "https://github.com/snoopysecurity/dvws-node",
+      "https://github.com/payatu/tiredful-api",
+      "https://github.com/cr0hn/vulnerable-node",
+      "https://github.com/digininja/authlab",
+      "https://github.com/anxolerd/dvpwa",
+      "https://github.com/k-tamura/easybuggy",
+      "https://github.com/owasp/railsgoat",
+      "https://github.com/owasp/serverless-goat",
+      "https://github.com/owasp/mstg-hacking-playground",
+      "https://github.com/convisolabs/cvwa",
+      "https://github.com/fridaygoldsmith/bwa_cyclone_transfers",
+      "https://github.com/snoopysecurity/dvws",
+      "https://github.com/erev0s/vampi",
+      "https://github.com/tahmed11/owasp_zap_api_scripts",
+      "https://github.com/satishpatnayak/mytest",
+      "https://github.com/incredibleindishell/ssrf_vulnerable_lab",
+      "https://github.com/dhatanian/ticketmagpie",
+      "https://github.com/hackademic/hackademic",
+      "https://github.com/sqlmapproject/testenv",
+      "https://github.com/yavuzlar/vulnlab",
+      "https://github.com/mattvaldes/vulnerable-api",
+      "https://github.com/datadog/security-labs-pocs",
+      "https://github.com/spiderlabs/cryptomg",
+      "https://github.com/playframework/play-webgoat",
+      "https://github.com/owasp/securityshepherd",
+      "https://github.com/satishpatnayak/androgoat",
+      "https://github.com/digininja/nosqlilab",
+      "https://github.com/sectooladdict/wavsep",
+      "https://github.com/adamdoupe/wackopicko",
+      "https://github.com/scalesec/vulnado",
+      "https://github.com/webgoat/webgoat",
+      "https://github.com/chuckfw/owaspbwa",
+      "https://github.com/hackthis/hackthis.co.uk",
+      "https://github.com/webpwnized/mutillidae",
+      "https://github.com/arthurakay/cyberscavengerhunt",
+      "https://github.com/koenbuyens/vulnerable-oauth-2.0-applications",
+      "https://github.com/owasp/owasp-vwad",
+      "https://github.com/jerryhoff/webgoat.net",
+      "https://github.com/snsttr/diwa",
+      "https://github.com/we45/dvfaas-damn-vulnerable-functions-as-a-service",
+      "https://github.com/cschneider4711/marathon",
+      "https://github.com/aabashkin/nosql-injection-vulnapp",
+      "https://github.com/globocom/secdevlabs",
+      "https://github.com/red-and-black/djangogoat",
+      "https://github.com/rhinosecuritylabs/cloudgoat",
+      "https://github.com/checkmarx/goatlin",
+      "https://github.com/psiinon/bodgeit",
+      "https://github.com/mddanish/vulnerable-otp-application",
+      "https://github.com/audi-1/sqli-labs"
     ]
   },
   {
     "project_name": "www-project-benchmark",
     "repo_links": [
-      "https://github.com/owasp-benchmark/benchmarkutils",
-      "https://github.com/nccgroup/vcg",
-      "https://github.com/owasp-benchmark/benchmarkjava.git",
-      "https://github.com/owasp/www-project-benchmark",
+      "https://github.com/zupit/horusec",
       "https://github.com/owasp-benchmark/benchmarkjava",
+      "https://github.com/owasp-benchmark/benchmarkutils",
+      "https://github.com/owasp-benchmark/benchmarkjava.git",
       "https://github.com/shiftleftsecurity/sast-scan",
       "https://github.com/insidersec/insider",
-      "https://github.com/zupit/horusec",
+      "https://github.com/nccgroup/vcg",
       "https://github.com/owasp-benchmark/benchmarkutils.git"
     ]
   },
   {
     "project_name": "www-project-node.js-goat",
     "repo_links": [
-      "https://github.com/owasp/www-project-node.js-goat",
       "https://github.com/owasp/nodegoat"
-    ]
-  },
-  {
-    "project_name": "www-project-automated-threats-to-web-applications",
-    "repo_links": [
-      "https://github.com/owasp/www-project-automated-threats-to-web-applications"
-    ]
-  },
-  {
-    "project_name": "www-project-belva",
-    "repo_links": [
-      "https://github.com/owasp/www-project-belva"
-    ]
-  },
-  {
-    "project_name": "www-project-rat",
-    "repo_links": [
-      "https://github.com/owasp/www-project-rat"
-    ]
-  },
-  {
-    "project_name": "www-project-zsc-tool",
-    "repo_links": [
-      "https://github.com/owasp/www-project-zsc-tool"
     ]
   },
   {
     "project_name": "www-project-defectdojo",
     "repo_links": [
+      "https://github.com/defectdojo/django-defectdojo",
+      "https://github.com/defectdojo/community-contribs",
       "https://github.com/defectdojo/burp-plugin",
       "https://github.com/mtesauro/godojo",
-      "https://github.com/defectdojo/community-contribs",
-      "https://github.com/owasp/www-project-defectdojo",
-      "https://github.com/defectdojo/django-defectdojo",
       "https://github.com/defectdojo/sample-scan-files"
-    ]
-  },
-  {
-    "project_name": "www-project-security-logging",
-    "repo_links": [
-      "https://github.com/owasp/www-project-security-logging"
     ]
   },
   {
     "project_name": "www-project-threat-dragon",
     "repo_links": [
-      "https://github.com/bbachi/vuejs-nodejs-example",
       "https://github.com/mozilla/seasponge",
-      "https://github.com/trentm/node-bunyan",
-      "https://github.com/cypress-io/cypress",
-      "https://github.com/owasp/www-project-threat-dragon",
       "https://github.com/webdriverio-community/wdio-electron-service",
-      "https://github.com/testing-library/vue-testing-library",
-      "https://github.com/owasp/threat-dragon-desktop",
       "https://github.com/jgraph/drawio",
-      "https://github.com/owasp/threat-dragon",
-      "https://github.com/yargs/yargs",
       "https://github.com/mike-goodwin/owasp-threat-dragon",
+      "https://github.com/yargs/yargs",
+      "https://github.com/cypress-io/cypress",
+      "https://github.com/testing-library/vue-testing-library",
+      "https://github.com/trentm/node-bunyan",
+      "https://github.com/bbachi/vuejs-nodejs-example",
       "https://github.com/chaijs/chai",
+      "https://github.com/owasp/threat-dragon-desktop",
+      "https://github.com/owasp/threat-dragon",
       "https://github.com/mike-goodwin/owasp-threat-dragon-desktop"
-    ]
-  },
-  {
-    "project_name": "www-project-game-security-framework",
-    "repo_links": [
-      "https://github.com/owasp/www-project-game-security-framework"
-    ]
-  },
-  {
-    "project_name": "www-project-webspa",
-    "repo_links": [
-      "https://github.com/owasp/www-project-webspa"
-    ]
-  },
-  {
-    "project_name": "www-project-off-the-record-4-java",
-    "repo_links": [
-      "https://github.com/owasp/www-project-off-the-record-4-java"
     ]
   },
   {
     "project_name": "www-project-web-mapper",
     "repo_links": [
-      "https://github.com/owasp/www-project-web-mapper",
       "https://github.com/yangsec888/www_wmap"
-    ]
-  },
-  {
-    "project_name": "www-project-deepviolet-tls-ssl-scanner",
-    "repo_links": [
-      "https://github.com/owasp/www-project-deepviolet-tls-ssl-scanner"
-    ]
-  },
-  {
-    "project_name": "www-project-vbscan",
-    "repo_links": [
-      "https://github.com/owasp/www-project-vbscan"
-    ]
-  },
-  {
-    "project_name": "www-project-internet-of-things-top-10",
-    "repo_links": [
-      "https://github.com/owasp/www-project-internet-of-things-top-10"
     ]
   },
   {
     "project_name": "www-project-code-pulse",
     "repo_links": [
-      "https://github.com/codedx/codepulse",
-      "https://github.com/owasp/www-project-code-pulse"
-    ]
-  },
-  {
-    "project_name": "www-project-secure-medical-device-deployment-standard",
-    "repo_links": [
-      "https://github.com/owasp/www-project-secure-medical-device-deployment-standard"
-    ]
-  },
-  {
-    "project_name": "www-project-jotp",
-    "repo_links": [
-      "https://github.com/owasp/www-project-jotp"
-    ]
-  },
-  {
-    "project_name": "www-project-incident-response",
-    "repo_links": [
-      "https://github.com/owasp/www-project-incident-response"
-    ]
-  },
-  {
-    "project_name": "www-project-pyttacker",
-    "repo_links": [
-      "https://github.com/owasp/www-project-pyttacker"
-    ]
-  },
-  {
-    "project_name": "www-project-appsec-pipeline",
-    "repo_links": [
-      "https://github.com/owasp/www-project-appsec-pipeline"
+      "https://github.com/codedx/codepulse"
     ]
   },
   {
     "project_name": "www-project-secure-headers",
     "repo_links": [
-      "https://github.com/zaproxy/zaproxy",
-      "https://github.com/w3c/webappsec-feature-policy",
-      "https://github.com/github/secure_headers",
-      "https://github.com/helmetjs/helmet",
-      "https://github.com/google/csp-evaluator",
       "https://github.com/owasp/owasp-swag",
-      "https://github.com/aidantwoods/secureheaders",
-      "https://github.com/nmap/nmap",
-      "https://github.com/typeerror/secure",
-      "https://github.com/goddtriffin/helmet",
-      "https://github.com/frodsan/rack-secure_headers",
-      "https://github.com/ovh/venom",
-      "https://github.com/twitter/secureheaders",
-      "https://github.com/apache/incubator-pagespeed-mod",
-      "https://github.com/oshp/oshp-validator",
-      "https://github.com/w3c/webappsec-permissions-policy",
-      "https://github.com/santandersecurityresearch/drheader",
-      "https://github.com/apache/incubator-pagespeed-ngx",
-      "https://github.com/oshp/headers",
-      "https://github.com/oshp/headers-ui-container",
-      "https://github.com/xsleaks/xsleaks",
-      "https://github.com/owasp/www-project-secure-headers",
       "https://github.com/mozilla/django-csp",
-      "https://github.com/w3c/webappsec-clear-site-data",
-      "https://github.com/oshp/oshp-tracking",
-      "https://github.com/andrewlock/netescapades.aspnetcore.securityheaders",
+      "https://github.com/riramar/hsecscan",
+      "https://github.com/oshp/oshp-stats",
+      "https://github.com/helmetjs/helmet",
+      "https://github.com/santandersecurityresearch/drheader",
       "https://github.com/nlf/blankie",
       "https://github.com/mozilla/http-observatory",
-      "https://github.com/sdelements/django-security",
-      "https://github.com/riramar/hsecscan",
-      "https://github.com/orgs/oshp",
-      "https://github.com/atmosphere/atmosphere",
-      "https://github.com/rfc-st/humble",
-      "https://github.com/mozilla/http-observatory-website",
+      "https://github.com/typeerror/secure",
       "https://github.com/bepsvpt/secure-headers",
-      "https://github.com/oshp/oshp-stats",
+      "https://github.com/zaproxy/zaproxy",
+      "https://github.com/w3c/webappsec-permissions-policy",
+      "https://github.com/goddtriffin/helmet",
+      "https://github.com/oshp/oshp-validator",
+      "https://github.com/atmosphere/atmosphere",
+      "https://github.com/apache/incubator-pagespeed-ngx",
+      "https://github.com/w3c/webappsec-clear-site-data",
+      "https://github.com/aidantwoods/secureheaders",
+      "https://github.com/oshp/headers-ui-container",
+      "https://github.com/w3c/webappsec-feature-policy",
       "https://github.com/rwjblue/ember-cli-content-security-policy",
-      "https://github.com/drwetter/testssl.sh"
-    ]
-  },
-  {
-    "project_name": "www-project-php-security-training",
-    "repo_links": [
-      "https://github.com/owasp/www-project-php-security-training"
+      "https://github.com/rfc-st/humble",
+      "https://github.com/sdelements/django-security",
+      "https://github.com/xsleaks/xsleaks",
+      "https://github.com/frodsan/rack-secure_headers",
+      "https://github.com/twitter/secureheaders",
+      "https://github.com/apache/incubator-pagespeed-mod",
+      "https://github.com/orgs/oshp",
+      "https://github.com/andrewlock/netescapades.aspnetcore.securityheaders",
+      "https://github.com/oshp/headers",
+      "https://github.com/drwetter/testssl.sh",
+      "https://github.com/mozilla/http-observatory-website",
+      "https://github.com/google/csp-evaluator",
+      "https://github.com/nmap/nmap",
+      "https://github.com/github/secure_headers",
+      "https://github.com/oshp/oshp-tracking",
+      "https://github.com/ovh/venom"
     ]
   },
   {
     "project_name": "www-project-mobile-app-security",
     "repo_links": [
-      "https://github.com/owasp/owasp-mastg",
-      "https://github.com/owasp/owasp-masvs"
-    ]
-  },
-  {
-    "project_name": "www-project-mth3l3m3nt-framework",
-    "repo_links": [
-      "https://github.com/owasp/www-project-mth3l3m3nt-framework"
+      "https://github.com/owasp/owasp-masvs",
+      "https://github.com/owasp/owasp-mastg"
     ]
   },
   {
     "project_name": "www-project-seraphimdroid",
     "repo_links": [
-      "https://github.com/owasp/www-project-seraphimdroid",
       "https://github.com/nikolamilosevic86/owasp-seraphimdroid"
     ]
   },
   {
     "project_name": "www-project-o-saft",
     "repo_links": [
-      "https://github.com/owasp/www-project-o-saft",
       "https://github.com/owasp/o-saft"
-    ]
-  },
-  {
-    "project_name": "www-project-reverse-engineering-and-code-modification-prevention",
-    "repo_links": [
-      "https://github.com/owasp/www-project-reverse-engineering-and-code-modification-prevention"
-    ]
-  },
-  {
-    "project_name": "www-project-snakes-and-ladders",
-    "repo_links": [
-      "https://github.com/owasp/www-project-snakes-and-ladders"
-    ]
-  },
-  {
-    "project_name": "www-project-python-security",
-    "repo_links": [
-      "https://github.com/owasp/www-project-python-security"
-    ]
-  },
-  {
-    "project_name": "www-project-knowledge-based-authentication-performance-metrics",
-    "repo_links": [
-      "https://github.com/owasp/www-project-knowledge-based-authentication-performance-metrics"
     ]
   },
   {
     "project_name": "www-project-dependency-check",
     "repo_links": [
-      "https://github.com/jeremylong/dependencycheck",
-      "https://github.com/livingsocial/lein-dependency-check",
-      "https://github.com/jeremylong/dependency-check-gradle",
-      "https://github.com/albuch/sbt-dependency-check",
+      "https://github.com/sonarsecuritycommunity/dependency-check-sonar-plugin",
       "https://github.com/entur/owasp-orb",
+      "https://github.com/albuch/sbt-dependency-check",
       "https://github.com/jenkinsci/dependency-check-plugin",
-      "https://github.com/sonarsecuritycommunity/dependency-check-sonar-plugin"
-    ]
-  },
-  {
-    "project_name": "www-project-anti-ransomware-guide",
-    "repo_links": [
-      "https://github.com/owasp/www-project-anti-ransomware-guide"
+      "https://github.com/livingsocial/lein-dependency-check",
+      "https://github.com/jeremylong/dependencycheck",
+      "https://github.com/jeremylong/dependency-check-gradle"
     ]
   },
   {
     "project_name": "www-project-embedded-application-security",
     "repo_links": [
-      "https://github.com/owasp/www-project-embedded-application-security",
-      "https://github.com/craigz28/firmwalker",
-      "https://github.com/fkie-cad/fact_core",
-      "https://github.com/firmadyne/firmadyne",
+      "https://github.com/angr/angr",
       "https://github.com/radare/radare2",
-      "https://github.com/attify/firmware-analysis-toolkit",
-      "https://github.com/angr/angr"
-    ]
-  },
-  {
-    "project_name": "www-project-podcast",
-    "repo_links": [
-      "https://github.com/owasp/www-project-podcast"
-    ]
-  },
-  {
-    "project_name": "www-project-broken-web-applications",
-    "repo_links": [
-      "https://github.com/owasp/www-project-broken-web-applications"
-    ]
-  },
-  {
-    "project_name": "www-project-virtual-patching-best-practices",
-    "repo_links": [
-      "https://github.com/owasp/www-project-virtual-patching-best-practices"
-    ]
-  },
-  {
-    "project_name": "www-project-vicnum",
-    "repo_links": [
-      "https://github.com/owasp/www-project-vicnum"
-    ]
-  },
-  {
-    "project_name": "www-project-ctf",
-    "repo_links": [
-      "https://github.com/owasp/www-project-ctf"
+      "https://github.com/craigz28/firmwalker",
+      "https://github.com/firmadyne/firmadyne",
+      "https://github.com/fkie-cad/fact_core",
+      "https://github.com/attify/firmware-analysis-toolkit"
     ]
   },
   {
@@ -1057,46 +614,21 @@
     ]
   },
   {
-    "project_name": "www-project-mobile-security",
-    "repo_links": []
-  },
-  {
-    "project_name": "www-project-python-honeypot",
-    "repo_links": [
-      "https://github.com/owasp/www-project-python-honeypot"
-    ]
-  },
-  {
     "project_name": "www-project-dvsa",
     "repo_links": [
-      "https://github.com/owasp/www-project-dvsa",
       "https://github.com/owasp/dvsa"
-    ]
-  },
-  {
-    "project_name": "www-project-cloud-testing-guide",
-    "repo_links": [
-      "https://github.com/owasp/www-project-cloud-testing-guide"
     ]
   },
   {
     "project_name": "www-project-intelligent-intrusion-detection-system",
     "repo_links": [
-      "https://github.com/owasp/intelligent-intrusion-detection-system",
-      "https://github.com/owasp/www-project-intelligent-intrusion-detection-system"
-    ]
-  },
-  {
-    "project_name": "www-project-auth",
-    "repo_links": [
-      "https://github.com/owasp/www-project-auth"
+      "https://github.com/owasp/intelligent-intrusion-detection-system"
     ]
   },
   {
     "project_name": "www-project-securecodebox",
     "repo_links": [
-      "https://github.com/securecodebox/securecodebox",
-      "https://github.com/owasp/www-project-securecodebox"
+      "https://github.com/securecodebox/securecodebox"
     ]
   },
   {
@@ -1112,21 +644,8 @@
     ]
   },
   {
-    "project_name": "www-project-devslop",
-    "repo_links": [
-      "https://github.com/owasp/www-project-devslop"
-    ]
-  },
-  {
-    "project_name": "www-project-mobile-top-10",
-    "repo_links": [
-      "https://github.com/owasp/www-project-mobile-top-10"
-    ]
-  },
-  {
     "project_name": "www-project-securetea",
     "repo_links": [
-      "https://github.com/owasp/www-project-securetea",
       "https://github.com/owasp/securetea-project",
       "https://github.com/all-contributors/all-contributors"
     ]
@@ -1134,111 +653,71 @@
   {
     "project_name": "www-project-internet-of-things",
     "repo_links": [
-      "https://github.com/owasp/www-project-internet-of-things",
-      "https://github.com/owasp/iot-security-verification-standard-isvs",
       "https://github.com/owasp/iotgoat",
-      "https://github.com/scriptingxss/owasp-iot-top-10-2018-mapping",
-      "https://github.com/scriptingxss/owasp-fstm"
+      "https://github.com/scriptingxss/owasp-fstm",
+      "https://github.com/owasp/iot-security-verification-standard-isvs",
+      "https://github.com/scriptingxss/owasp-iot-top-10-2018-mapping"
     ]
   },
   {
     "project_name": "www-project-honeypot",
     "repo_links": [
-      "https://github.com/owasp/www-project-honeypot",
       "https://github.com/owasp/honeypot-project"
-    ]
-  },
-  {
-    "project_name": "www-project-seeker",
-    "repo_links": [
-      "https://github.com/owasp/www-project-seeker"
-    ]
-  },
-  {
-    "project_name": "www-project-integration-standards",
-    "repo_links": [
-      "https://github.com/owasp/www-project-integration-standards"
     ]
   },
   {
     "project_name": "www-project-sidekek",
     "repo_links": [
-      "https://github.com/owasp/sidekek",
-      "https://github.com/owasp/www-project-sidekek"
+      "https://github.com/owasp/sidekek"
     ]
   },
   {
     "project_name": "www-project-timegap-theory",
     "repo_links": [
-      "https://github.com/owasp/timegap-theory",
-      "https://github.com/owasp/www-project-timegap-theory"
+      "https://github.com/owasp/timegap-theory"
     ]
   },
   {
     "project_name": "www-project-antisamy",
     "repo_links": [
-      "https://github.com/tonyzampogna/xsssanitizer",
       "https://github.com/nahsra/antisamy.git",
-      "https://github.com/rpalcolea/grails-xss-sanitizer",
       "https://github.com/danieldbower/grails-sanitizer",
+      "https://github.com/rpalcolea/grails-xss-sanitizer",
       "https://github.com/spassarop/antisamy-dotnet",
-      "https://github.com/owasp/www-project-antisamy",
-      "https://github.com/nahsra/antisamy"
+      "https://github.com/nahsra/antisamy",
+      "https://github.com/tonyzampogna/xsssanitizer"
     ]
   },
   {
     "project_name": "www-project-csrfprotector",
     "repo_links": [
-      "https://github.com/mebjas/mod_csrfprotector",
-      "https://github.com/owasp/www-project-csrfprotector",
-      "https://github.com/mebjas/csrf-protector-php"
-    ]
-  },
-  {
-    "project_name": "www-project-cyber-defense-matrix",
-    "repo_links": [
-      "https://github.com/owasp/www-project-cyber-defense-matrix"
+      "https://github.com/mebjas/csrf-protector-php",
+      "https://github.com/mebjas/mod_csrfprotector"
     ]
   },
   {
     "project_name": "www-project-developer-guide",
     "repo_links": [
-      "https://github.com/owasp/devguide",
-      "https://github.com/owasp/www-project-developer-guide"
+      "https://github.com/owasp/devguide"
     ]
   },
   {
     "project_name": "www-project-iot-security-verification-standard",
     "repo_links": [
-      "https://github.com/owasp/iot-security-verification-standard-isvs",
-      "https://github.com/owasp/www-project-iot-security-verification-standard"
+      "https://github.com/owasp/iot-security-verification-standard-isvs"
     ]
   },
   {
     "project_name": "www-project-sso",
     "repo_links": [
-      "https://github.com/owasp/www-project-sso",
       "https://github.com/defectdojo/django-defectdojo",
       "https://github.com/owasp/sso_project"
-    ]
-  },
-  {
-    "project_name": "www-project-threat-model",
-    "repo_links": [
-      "https://github.com/owasp/www-project-threat-model"
-    ]
-  },
-  {
-    "project_name": "www-project-thick-client-top-10",
-    "repo_links": [
-      "https://github.com/owasp/www-project-thick-client-top-10"
     ]
   },
   {
     "project_name": "www-project-vulnerableapp",
     "repo_links": [
       "https://github.com/sasanlabs/vulnerableapp-facade",
-      "https://github.com/owasp/www-project-vulnerableapp",
       "https://github.com/sasanlabs/vulnerableapp"
     ]
   },
@@ -1249,399 +728,155 @@
     ]
   },
   {
-    "project_name": "www-project-automotive-emb-60",
-    "repo_links": [
-      "https://github.com/owasp/www-project-automotive-emb-60"
-    ]
-  },
-  {
     "project_name": "www-project-jvmxray",
     "repo_links": [
       "https://github.com/owasp/owasp.github.io"
     ]
   },
   {
-    "project_name": "www-project-secureflag-open-platform",
-    "repo_links": [
-      "https://github.com/owasp/www-project-secureflag-open-platform"
-    ]
-  },
-  {
     "project_name": "www-project-pygoat",
     "repo_links": [
-      "https://github.com/owasp/www-project-pygoat",
       "https://github.com/adeyosemanputra/pygoat"
     ]
   },
   {
     "project_name": "www-project-core-business-application-security",
     "repo_links": [
+      "https://github.com/no-monkey/cbas-sap",
       "https://github.com/owasp/pysap",
-      "https://github.com/owasp/www-project-core-business-application-security",
-      "https://github.com/no-monkey/cbas-sap-securitymaturitymodel",
-      "https://github.com/no-monkey/cbas-sap-securityverificationstandard",
-      "https://github.com/no-monkey/cbas-sapinternetresearch",
-      "https://github.com/no-monkey/cbas",
       "https://github.com/owasp/honeysap",
+      "https://github.com/no-monkey/cbas-sapinternetresearch",
+      "https://github.com/no-monkey/cbas-sap-securitymaturitymodel",
+      "https://github.com/no-monkey/cbas",
       "https://github.com/no-monkey/cbas-sap-securityaptitudeassessment",
-      "https://github.com/no-monkey/cbas-sap"
-    ]
-  },
-  {
-    "project_name": "www-project-access-log-parser",
-    "repo_links": [
-      "https://github.com/owasp/www-project-access-log-parser"
-    ]
-  },
-  {
-    "project_name": "www-project-cyber-controls-matrix",
-    "repo_links": [
-      "https://github.com/owasp/www-project-cyber-controls-matrix"
-    ]
-  },
-  {
-    "project_name": "www-project-winfim.net",
-    "repo_links": [
-      "https://github.com/owasp/www-project-winfim.net"
+      "https://github.com/no-monkey/cbas-sap-securityverificationstandard"
     ]
   },
   {
     "project_name": "www-project-devsecops-guideline",
     "repo_links": [
-      "https://github.com/owasp/devsecopsguideline",
-      "https://github.com/owasp/www-project-devsecops-guideline"
-    ]
-  },
-  {
-    "project_name": "www-project-dpd",
-    "repo_links": [
-      "https://github.com/owasp/www-project-dpd"
-    ]
-  },
-  {
-    "project_name": "www-project-cyber-security-enterprise-operations-architecture",
-    "repo_links": [
-      "https://github.com/owasp/www-project-cyber-security-enterprise-operations-architecture"
-    ]
-  },
-  {
-    "project_name": "www-project-drill",
-    "repo_links": [
-      "https://github.com/owasp/www-project-drill"
+      "https://github.com/owasp/devsecopsguideline"
     ]
   },
   {
     "project_name": "www-project-android-security-inspector-toolkit",
     "repo_links": [
-      "https://github.com/deepsecurity-pe/owasp-android-security-inspector-toolkit",
       "https://github.com/deepsecurity-pe/apkanalyzer",
-      "https://github.com/owasp/www-project-android-security-inspector-toolkit"
-    ]
-  },
-  {
-    "project_name": "www-project-kubernetes-security-testing-guide",
-    "repo_links": [
-      "https://github.com/owasp/www-project-kubernetes-security-testing-guide"
-    ]
-  },
-  {
-    "project_name": "www-project-security-resource-framework",
-    "repo_links": [
-      "https://github.com/owasp/www-project-security-resource-framework"
-    ]
-  },
-  {
-    "project_name": "www-project-mitm-guard",
-    "repo_links": []
-  },
-  {
-    "project_name": "www-project-watiqay",
-    "repo_links": [
-      "https://github.com/owasp/www-project-watiqay"
+      "https://github.com/deepsecurity-pe/owasp-android-security-inspector-toolkit"
     ]
   },
   {
     "project_name": "www-project-cloud-native-security-project",
     "repo_links": [
-      "https://github.com/cncf/foundation",
-      "https://github.com/owasp/www-project-cloud-native-security-project"
-    ]
-  },
-  {
-    "project_name": "www-project-big-data",
-    "repo_links": [
-      "https://github.com/owasp/www-project-big-data"
-    ]
-  },
-  {
-    "project_name": "www-project-security-qualitative-metrics",
-    "repo_links": [
-      "https://github.com/owasp/www-project-security-qualitative-metrics"
+      "https://github.com/cncf/foundation"
     ]
   },
   {
     "project_name": "www-project-cwe-toolkit",
     "repo_links": [
-      "https://github.com/owasp/cwe-sdk-javascript",
-      "https://github.com/owasp/www-project-cwe-toolkit",
-      "https://github.com/owasp/cwe-tool"
-    ]
-  },
-  {
-    "project_name": "www-project-cloud-security-testing-guide",
-    "repo_links": [
-      "https://github.com/owasp/www-project-cloud-security-testing-guide"
+      "https://github.com/owasp/cwe-tool",
+      "https://github.com/owasp/cwe-sdk-javascript"
     ]
   },
   {
     "project_name": "www-project-cyber-scavenger-hunt",
     "repo_links": [
-      "https://github.com/owasp/www-project-cyber-scavenger-hunt",
       "https://github.com/arthurakay/cyberscavengerhunt"
     ]
   },
   {
-    "project_name": "www-project-awscanner",
-    "repo_links": []
-  },
-  {
     "project_name": "www-project-asvs-graph",
     "repo_links": [
-      "https://github.com/owasp/asvs",
-      "https://github.com/owasp/www-project-asvs-graph"
+      "https://github.com/owasp/asvs"
     ]
   },
   {
     "project_name": "www-project-securebank",
     "repo_links": [
-      "https://github.com/ssrdio/securebank",
-      "https://github.com/owasp/www-project-securebank"
-    ]
-  },
-  {
-    "project_name": "www-project-sectudo",
-    "repo_links": [
-      "https://github.com/owasp/www-project-sectudo"
+      "https://github.com/ssrdio/securebank"
     ]
   },
   {
     "project_name": "www-project-torbot",
     "repo_links": [
-      "https://github.com/owasp/www-project-torbot",
       "https://github.com/dedsecinside/torbot"
     ]
   },
   {
     "project_name": "www-project-ontology-driven-threat-modeling-framework",
     "repo_links": [
-      "https://github.com/owlcs/owlapi",
       "https://github.com/owasp/odtm",
-      "https://github.com/owasp/www-project-ontology-driven-threat-modeling-framework"
-    ]
-  },
-  {
-    "project_name": "www-project-damn-vulnerable-thick-client-application",
-    "repo_links": [
-      "https://github.com/owasp/www-project-damn-vulnerable-thick-client-application"
+      "https://github.com/owlcs/owlapi"
     ]
   },
   {
     "project_name": "www-project-apicheck",
     "repo_links": [
-      "https://github.com/bbva/apicheck",
-      "https://github.com/owasp/www-project-apicheck"
+      "https://github.com/bbva/apicheck"
     ]
   },
   {
     "project_name": "www-project-threat-modeling-playbook",
     "repo_links": [
-      "https://github.com/owasp/www-project-threat-modeling-playbook",
       "https://github.com/owasp/threat-modeling-playbook"
-    ]
-  },
-  {
-    "project_name": "www-project-androgoat",
-    "repo_links": [
-      "https://github.com/owasp/www-project-androgoat"
-    ]
-  },
-  {
-    "project_name": "www-project-forensics-testing-guide",
-    "repo_links": [
-      "https://github.com/owasp/www-project-forensics-testing-guide"
-    ]
-  },
-  {
-    "project_name": "www-project-scan-it",
-    "repo_links": [
-      "https://github.com/owasp/www-project-scan-it"
-    ]
-  },
-  {
-    "project_name": "www-project-joomscan",
-    "repo_links": [
-      "https://github.com/owasp/www-project-joomscan"
-    ]
-  },
-  {
-    "project_name": "www-project-threat-and-safeguard-matrix",
-    "repo_links": [
-      "https://github.com/owasp/www-project-threat-and-safeguard-matrix"
     ]
   },
   {
     "project_name": "www-project-snow",
     "repo_links": [
-      "https://github.com/akhimb/snow",
-      "https://github.com/owasp/www-project-snow"
-    ]
-  },
-  {
-    "project_name": "www-project-secure-logging-benchmark",
-    "repo_links": [
-      "https://github.com/owasp/www-project-secure-logging-benchmark"
-    ]
-  },
-  {
-    "project_name": "www-project-cyber-defense-framework",
-    "repo_links": [
-      "https://github.com/owasp/www-project-cyber-defense-framework"
-    ]
-  },
-  {
-    "project_name": "www-project-cloudsheep",
-    "repo_links": [
-      "https://github.com/owasp/www-project-cloudsheep"
+      "https://github.com/akhimb/snow"
     ]
   },
   {
     "project_name": "www-project-crapi",
     "repo_links": [
-      "https://github.com/owasp/www-project-crapi",
       "https://github.com/owasp/crapi"
     ]
   },
   {
     "project_name": "www-project-mobile-audit",
     "repo_links": [
-      "https://github.com/mpast/mobileaudit",
-      "https://github.com/owasp/www-project-mobile-audit"
-    ]
-  },
-  {
-    "project_name": "www-project-blockchain-distributed-infrastructure",
-    "repo_links": [
-      "https://github.com/owasp/www-project-blockchain-distributed-infrastructure"
+      "https://github.com/mpast/mobileaudit"
     ]
   },
   {
     "project_name": "www-project-damn-vulnerable-web-sockets",
     "repo_links": [
-      "https://github.com/interference-security/dvws",
-      "https://github.com/owasp/www-project-damn-vulnerable-web-sockets"
+      "https://github.com/interference-security/dvws"
     ]
   },
   {
     "project_name": "www-project-vulnerable-container-hub",
     "repo_links": [
-      "https://github.com/owasp/www-project-vulnerable-container-hub",
       "https://github.com/owasp/vulnerable-container-hub"
     ]
   },
   {
     "project_name": "www-project-application-gateway",
     "repo_links": [
-      "https://github.com/gianlucafrei/application-gateway",
-      "https://github.com/owasp/www-project-application-gateway"
-    ]
-  },
-  {
-    "project_name": "www-project-laravel-goat",
-    "repo_links": [
-      "https://github.com/owasp/www-project-laravel-goat"
+      "https://github.com/gianlucafrei/application-gateway"
     ]
   },
   {
     "project_name": "www-project-purpleteam",
     "repo_links": [
-      "https://github.com/purpleteam-labs/purpleteam-tls-scanner",
-      "https://github.com/purpleteam-labs/purpleteam-build-test-cli",
-      "https://github.com/binarymist/mocksse",
-      "https://github.com/purpleteam-labs/purpleteam",
-      "https://github.com/purpleteam-labs/purpleteam-tls-checker",
-      "https://github.com/purpleteam-labs/purpleteam-logger",
-      "https://github.com/purpleteam-labs/purpleteam-s2-containers",
-      "https://github.com/purpleteam-labs/purpleteam-lambda",
-      "https://github.com/purpleteam-labs/purpleteam-orchestrator",
       "https://github.com/purpleteam-labs/purpleteam-iac-sut",
+      "https://github.com/purpleteam-labs/purpleteam",
+      "https://github.com/purpleteam-labs/purpleteam-logger",
+      "https://github.com/purpleteam-labs/purpleteam-app-scanner",
+      "https://github.com/purpleteam-labs/purpleteam-tls-scanner",
       "https://github.com/purpleteam-labs/purpleteam-server-scanner",
-      "https://github.com/purpleteam-labs/purpleteam-app-scanner"
-    ]
-  },
-  {
-    "project_name": "www-project-enterprise-devsecops",
-    "repo_links": [
-      "https://github.com/owasp/www-project-enterprise-devsecops"
-    ]
-  },
-  {
-    "project_name": "www-project-spotlight-series",
-    "repo_links": [
-      "https://github.com/owasp/www-project-spotlight-series"
-    ]
-  },
-  {
-    "project_name": "www-project-open-appsec-tooling-api",
-    "repo_links": [
-      "https://github.com/owasp/www-project-open-appsec-tooling-api"
-    ]
-  },
-  {
-    "project_name": "www-project-how-to-get-into-appsec",
-    "repo_links": [
-      "https://github.com/owasp/www-project-how-to-get-into-appsec"
-    ]
-  },
-  {
-    "project_name": "www-project-desktop-app-security-top-10",
-    "repo_links": [
-      "https://github.com/owasp/www-project-desktop-app-security-top-10"
-    ]
-  },
-  {
-    "project_name": "www-project-top-10-client-side-security-risks",
-    "repo_links": [
-      "https://github.com/owasp/www-project-top-10-client-side-security-risks"
-    ]
-  },
-  {
-    "project_name": "www-project-injectbot",
-    "repo_links": [
-      "https://github.com/owasp/www-project-injectbot"
-    ]
-  },
-  {
-    "project_name": "www-project-cybersecurity-risk-register",
-    "repo_links": [
-      "https://github.com/owasp/www-project-cybersecurity-risk-register"
-    ]
-  },
-  {
-    "project_name": "www-project-financial-systems-security",
-    "repo_links": [
-      "https://github.com/owasp/www-project-financial-systems-security"
-    ]
-  },
-  {
-    "project_name": "www-project-appsec-minimum-requirements",
-    "repo_links": [
-      "https://github.com/owasp/www-project-appsec-minimum-requirements"
+      "https://github.com/purpleteam-labs/purpleteam-orchestrator",
+      "https://github.com/purpleteam-labs/purpleteam-s2-containers",
+      "https://github.com/binarymist/mocksse",
+      "https://github.com/purpleteam-labs/purpleteam-build-test-cli",
+      "https://github.com/purpleteam-labs/purpleteam-tls-checker",
+      "https://github.com/purpleteam-labs/purpleteam-lambda"
     ]
   },
   {
     "project_name": "www-project-security-culture",
     "repo_links": [
-      "https://github.com/owasp/www-project-security-culture",
       "https://github.com/owasp/security-culture"
     ]
   },
@@ -1652,46 +887,30 @@
       "https://github.com/thehive-project/thehive",
       "https://github.com/dsecureme/vmc-docker",
       "https://github.com/dsecureme/vmc-docs",
-      "https://github.com/elastic/kibana",
       "https://github.com/dsecureme/vmc-demo",
       "https://github.com/dsecureme/vmc",
-      "https://github.com/owasp/www-project-vulnerability-management-center"
+      "https://github.com/elastic/kibana"
     ]
   },
   {
     "project_name": "www-project-penetration-testing-kit",
     "repo_links": [
-      "https://github.com/denispodgurskii/pentestkit",
-      "https://github.com/owasp/www-project-penetration-testing-kit"
-    ]
-  },
-  {
-    "project_name": "www-project-developer-outreach-program",
-    "repo_links": [
-      "https://github.com/owasp/www-project-developer-outreach-program"
-    ]
-  },
-  {
-    "project_name": "www-project-ignita",
-    "repo_links": [
-      "https://github.com/owasp/www-project-ignita"
+      "https://github.com/denispodgurskii/pentestkit"
     ]
   },
   {
     "project_name": "www-project-vulnerableapp-facade",
     "repo_links": [
-      "https://github.com/owasp/www-project-vulnerableapp-facade",
-      "https://github.com/sasanlabs/vulnerableapp-facade",
-      "https://github.com/sasanlabs/vulnerableapp-php",
       "https://github.com/sasanlabs/vulnerableapp-jsp",
+      "https://github.com/sasanlabs/vulnerableapp-php",
+      "https://github.com/sasanlabs/vulnerableapp-facade",
       "https://github.com/sasanlabs/vulnerableapp"
     ]
   },
   {
     "project_name": "www-project-data-security-top-10",
     "repo_links": [
-      "https://github.com/owasp/dvds",
-      "https://github.com/owasp/www-project-data-security-top-10"
+      "https://github.com/owasp/dvds"
     ]
   },
   {
@@ -1701,245 +920,94 @@
     ]
   },
   {
-    "project_name": "www-project-application-security-hardening",
-    "repo_links": [
-      "https://github.com/owasp/www-project-application-security-hardening"
-    ]
-  },
-  {
     "project_name": "www-project-barbarus",
     "repo_links": [
-      "https://github.com/nebrass/owasp-barbarus-spring-boot-starter",
-      "https://github.com/owasp/www-project-barbarus"
-    ]
-  },
-  {
-    "project_name": "www-project-port-and-service-information",
-    "repo_links": [
-      "https://github.com/owasp/www-project-port-and-service-information"
-    ]
-  },
-  {
-    "project_name": "www-project-code-the-flag",
-    "repo_links": [
-      "https://github.com/owasp/www-project-code-the-flag"
-    ]
-  },
-  {
-    "project_name": "www-project-it-grc",
-    "repo_links": [
-      "https://github.com/owasp/www-project-it-grc"
-    ]
-  },
-  {
-    "project_name": "www-project-top-10-low-code-no-code-security-risks",
-    "repo_links": [
-      "https://github.com/owasp/www-project-top-10-low-code-no-code-security-risks"
+      "https://github.com/nebrass/owasp-barbarus-spring-boot-starter"
     ]
   },
   {
     "project_name": "www-project-g0rking",
     "repo_links": [
-      "https://github.com/bluevirtualnerds/g0rking",
-      "https://github.com/owasp/www-project-g0rking",
-      "https://github.com/prateekowasp/g0rking"
-    ]
-  },
-  {
-    "project_name": "www-project-open-source-security-application-platform",
-    "repo_links": [
-      "https://github.com/owasp/www-project-open-source-security-application-platform"
+      "https://github.com/prateekowasp/g0rking",
+      "https://github.com/bluevirtualnerds/g0rking"
     ]
   },
   {
     "project_name": "www-project-raider",
     "repo_links": [
-      "https://github.com/owasp/www-project-raider",
       "https://github.com/owasp/raider"
-    ]
-  },
-  {
-    "project_name": "www-project-blend",
-    "repo_links": [
-      "https://github.com/owasp/www-project-blend"
-    ]
-  },
-  {
-    "project_name": "www-project-thick-client-security-testing-guide",
-    "repo_links": [
-      "https://github.com/owasp/www-project-thick-client-security-testing-guide"
-    ]
-  },
-  {
-    "project_name": "www-project-vue-3-password-input",
-    "repo_links": [
-      "https://github.com/owasp/www-project-vue-3-password-input"
     ]
   },
   {
     "project_name": "www-project-wrongsecrets",
     "repo_links": [
-      "https://github.com/iteratec/multi-juicer",
-      "https://github.com/1password/1password-teams-open-source",
-      "https://github.com/owasp/wrongsecrets",
       "https://github.com/owasp/wrongsecrets-ctf-party",
       "https://github.com/owasp/wrongsecrets-binaries",
-      "https://github.com/owasp/www-project-wrongsecrets"
-    ]
-  },
-  {
-    "project_name": "www-project-vitcc-open-source-initiative",
-    "repo_links": [
-      "https://github.com/owasp/www-project-vitcc-open-source-initiative"
+      "https://github.com/owasp/wrongsecrets",
+      "https://github.com/iteratec/multi-juicer",
+      "https://github.com/1password/1password-teams-open-source"
     ]
   },
   {
     "project_name": "www-project-mutillidae-ii",
     "repo_links": [
-      "https://github.com/webpwnized/mutillidae-dockerhub",
-      "https://github.com/webpwnized/mutillidae",
       "https://github.com/webpwnized/mutillidae-docker",
-      "https://github.com/owasp/www-project-mutillidae-ii"
+      "https://github.com/webpwnized/mutillidae",
+      "https://github.com/webpwnized/mutillidae-dockerhub"
     ]
   },
   {
     "project_name": "www-project-nightingale",
     "repo_links": [
-      "https://github.com/rajanagori/nightingale",
-      "https://github.com/owasp/www-project-nightingale"
-    ]
-  },
-  {
-    "project_name": "www-project-nasi-lemak",
-    "repo_links": [
-      "https://github.com/owasp/www-project-nasi-lemak"
-    ]
-  },
-  {
-    "project_name": "www-project-javascript-security",
-    "repo_links": [
-      "https://github.com/owasp/www-project-javascript-security"
+      "https://github.com/rajanagori/nightingale"
     ]
   },
   {
     "project_name": "www-project-aegis4j",
     "repo_links": [
-      "https://github.com/gredler/aegis4j",
-      "https://github.com/owasp/www-project-aegis4j"
-    ]
-  },
-  {
-    "project_name": "www-project-application-security-awareness-campaigns",
-    "repo_links": [
-      "https://github.com/owasp/www-project-application-security-awareness-campaigns"
+      "https://github.com/gredler/aegis4j"
     ]
   },
   {
     "project_name": "www-project-coraza-web-application-firewall",
     "repo_links": [
-      "https://github.com/corazawaf/coraza",
-      "https://github.com/owasp/www-project-coraza-web-application-firewall",
-      "https://github.com/jptosso/coraza-server",
+      "https://github.com/jptosso/coraza-waf",
       "https://github.com/jptosso/coraza-caddy",
-      "https://github.com/jptosso/coraza-waf"
-    ]
-  },
-  {
-    "project_name": "www-project-chaingoat",
-    "repo_links": [
-      "https://github.com/owasp/www-project-chaingoat"
-    ]
-  },
-  {
-    "project_name": "www-project-devsecops-verification-standard",
-    "repo_links": [
-      "https://github.com/owasp/www-project-devsecops-verification-standard"
-    ]
-  },
-  {
-    "project_name": "www-project-pentext",
-    "repo_links": [
-      "https://github.com/owasp/www-project-pentext"
-    ]
-  },
-  {
-    "project_name": "www-project-supplychaingoat",
-    "repo_links": [
-      "https://github.com/owasp/www-project-supplychaingoat"
-    ]
-  },
-  {
-    "project_name": "www-project-toctourex",
-    "repo_links": [
-      "https://github.com/owasp/www-project-toctourex"
-    ]
-  },
-  {
-    "project_name": "www-project-kubernetes-top-ten",
-    "repo_links": [
-      "https://github.com/owasp/www-project-kubernetes-top-ten"
-    ]
-  },
-  {
-    "project_name": "www-project-security-champions-guidebook",
-    "repo_links": [
-      "https://github.com/owasp/www-project-security-champions-guidebook"
+      "https://github.com/jptosso/coraza-server",
+      "https://github.com/corazawaf/coraza"
     ]
   },
   {
     "project_name": "www-project-safetypes",
     "repo_links": [
-      "https://github.com/owasp/www-project-safetypes",
       "https://github.com/owasp/safetypes"
-    ]
-  },
-  {
-    "project_name": "www-project-application-security-playbook",
-    "repo_links": [
-      "https://github.com/owasp/www-project-application-security-playbook"
-    ]
-  },
-  {
-    "project_name": "www-project-state-of-appsec-survey",
-    "repo_links": [
-      "https://github.com/owasp/www-project-state-of-appsec-survey"
     ]
   },
   {
     "project_name": "www-project-mimosa",
     "repo_links": [
-      "https://github.com/securecoding-mimosa/mimosa",
       "https://github.com/owasp/mimosa",
-      "https://github.com/owasp/www-project-mimosa",
-      "https://github.com/owasp/sso_project"
+      "https://github.com/owasp/sso_project",
+      "https://github.com/securecoding-mimosa/mimosa"
     ]
   },
   {
     "project_name": "www-project-top-10-ci-cd-security-risks",
     "repo_links": [
-      "https://github.com/cider-security-research/top-10-cicd-security-risks",
-      "https://github.com/owasp/www-project-top-10-ci-cd-security-risks"
-    ]
-  },
-  {
-    "project_name": "www-project-continuous-penetration-testing-framework",
-    "repo_links": [
-      "https://github.com/owasp/www-project-continuous-penetration-testing-framework"
+      "https://github.com/cider-security-research/top-10-cicd-security-risks"
     ]
   },
   {
     "project_name": "www-project-testability-patterns-for-web-applications",
     "repo_links": [
-      "https://github.com/owasp/www-project-testability-patterns-for-web-applications",
-      "https://github.com/testable-eu/sast-testability-patterns",
-      "https://github.com/testable-eu/sast-tp-framework"
+      "https://github.com/testable-eu/sast-tp-framework",
+      "https://github.com/testable-eu/sast-testability-patterns"
     ]
   },
   {
     "project_name": "www-project-vulnerable-flask-app",
     "repo_links": [
-      "https://github.com/anil-yelken/vulnerable-flask-app",
-      "https://github.com/owasp/www-project-vulnerable-flask-app"
+      "https://github.com/anil-yelken/vulnerable-flask-app"
     ]
   },
   {
@@ -1950,135 +1018,36 @@
     ]
   },
   {
-    "project_name": "www-project-software-pre-execution-security-review",
-    "repo_links": [
-      "https://github.com/owasp/www-project-software-pre-execution-security-review"
-    ]
-  },
-  {
-    "project_name": "www-project-application-security-monitoring-standard",
-    "repo_links": [
-      "https://github.com/owasp/www-project-application-security-monitoring-standard"
-    ]
-  },
-  {
     "project_name": "www-project-domain-protect",
     "repo_links": [
-      "https://github.com/owasp/www-project-domain-protect",
       "https://github.com/domain-protect/domain-protect-demo",
       "https://github.com/domain-protect/domain-protect-gcp-deploy",
+      "https://github.com/domain-protect/domain-protect-deploy",
       "https://github.com/domain-protect/domain-protect-gcp",
-      "https://github.com/domain-protect/domain-protect",
-      "https://github.com/domain-protect/domain-protect-deploy"
+      "https://github.com/domain-protect/domain-protect"
     ]
   },
   {
     "project_name": "www-project-ai-security-and-privacy-guide",
     "repo_links": [
-      "https://github.com/owasp/www-project-ai-security-and-privacy-guide",
-      "https://github.com/mplspunk/awesome-privacy-engineering",
-      "https://github.com/jphall663/awesome-machine-learning-interpretability"
-    ]
-  },
-  {
-    "project_name": "www-project-mlsecops-verification-standard",
-    "repo_links": [
-      "https://github.com/owasp/www-project-mlsecops-verification-standard"
-    ]
-  },
-  {
-    "project_name": "www-project-cloud-tenant-isolation",
-    "repo_links": [
-      "https://github.com/owasp/www-project-cloud-tenant-isolation"
-    ]
-  },
-  {
-    "project_name": "www-project-scrappy",
-    "repo_links": [
-      "https://github.com/owasp/www-project-scrappy"
+      "https://github.com/jphall663/awesome-machine-learning-interpretability",
+      "https://github.com/mplspunk/awesome-privacy-engineering"
     ]
   },
   {
     "project_name": "www-project-top-25-parameters",
     "repo_links": [
-      "https://github.com/owasp/www-project-top-25-parameters",
       "https://github.com/lutfumertceylan/top25-parameter"
-    ]
-  },
-  {
-    "project_name": "www-project-cervantes",
-    "repo_links": [
-      "https://github.com/owasp/www-project-cervantes"
-    ]
-  },
-  {
-    "project_name": "www-project-smart-contract-security-top-10",
-    "repo_links": [
-      "https://github.com/owasp/www-project-smart-contract-security-top-10"
-    ]
-  },
-  {
-    "project_name": "www-project-devsecops-top-10",
-    "repo_links": [
-      "https://github.com/owasp/www-project-devsecops-top-10"
-    ]
-  },
-  {
-    "project_name": "www-project-ide-vulscanner",
-    "repo_links": [
-      "https://github.com/owasp/www-project-ide-vulscanner"
-    ]
-  },
-  {
-    "project_name": "www-project-ebpfshield",
-    "repo_links": [
-      "https://github.com/owasp/www-project-ebpfshield"
-    ]
-  },
-  {
-    "project_name": "www-project-cognito-catastrophe",
-    "repo_links": [
-      "https://github.com/owasp/www-project-cognito-catastrophe"
-    ]
-  },
-  {
-    "project_name": "www-project-devsecops",
-    "repo_links": [
-      "https://github.com/owasp/www-project-devsecops"
-    ]
-  },
-  {
-    "project_name": "www-project-asvs-security-evaluation-templates-with-nuclei",
-    "repo_links": [
-      "https://github.com/owasp/www-project-asvs-security-evaluation-templates-with-nuclei"
-    ]
-  },
-  {
-    "project_name": "www-project-machine-learning-minefield",
-    "repo_links": [
-      "https://github.com/owasp/www-project-machine-learning-minefield"
     ]
   },
   {
     "project_name": "www-project-mobile-application-security-design-guide",
     "repo_links": [
-      "https://github.com/owasp-ja/owasp-masvs-ja",
+      "https://github.com/owasp/owasp-masvs",
       "https://github.com/coky-t/owasp-mastg-ja",
+      "https://github.com/owasp-ja/owasp-masvs-ja",
       "https://github.com/owasp/www-project-mobile-app-security",
-      "https://github.com/owasp/owasp-mastg",
-      "https://github.com/owasp/owasp-masvs"
-    ]
-  },
-  {
-    "project_name": "www-project-data-analysis-visualization-and-ingestion-domain",
-    "repo_links": [
-      "https://github.com/owasp/www-project-data-analysis-visualization-and-ingestion-domain"
-    ]
-  },
-  {
-    "project_name": "www-project-cumulus",
-    "repo_links": [
-      "https://github.com/owasp/www-project-cumulus"
+      "https://github.com/owasp/owasp-mastg"
     ]
   }
 ]
