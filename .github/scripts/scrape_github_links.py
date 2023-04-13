@@ -22,7 +22,7 @@ for project in data:
     project_name = project['name']
     github_url = project['html_url'].replace('github.com/OWASP/', 'owasp.org/')
 
-    repo_links = extract_github_links(project['html_url'])
+    repo_links = extract_github_links(github_url)
     project_links.append({
         'project_name': project_name,
         'repo_links': repo_links
