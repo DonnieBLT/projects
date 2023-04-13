@@ -11,7 +11,7 @@ SLACK_WEBHOOK_URL = os.environ["SLACK_WEBHOOK_URL"]
 def get_repos():
     all_repos = []
     page = 1
-    max_pages = 20  # Set to 20 to fetch 2000 repositories (100 per page * 20 pages)
+    max_pages = 20
 
     headers = {"Authorization": f"token {os.environ['GITHUB_TOKEN']}"}
 
@@ -41,7 +41,7 @@ def filter_and_format_repos(repos):
 def send_slack_alert(new_repos):
     message = "New repositories detected:\n"
     for repo in new_repos:
-        message += f"- {repo['full_name']} ({repo['html_url']})\n"
+        message += f"- {repo['full_name']} (https://github.com/{repo['full_name']})\n"
 
     payload = {"text": message}
     response = requests.post(SLACK_WEBHOOK_URL, json=payload)
@@ -58,7 +58,7 @@ def main():
     except FileNotFoundError:
         old_repos = []
 
-    new_repos = [repo for repo in www_project_repos if repo not in old_repos]
+    new_repos = [repo for repo in www_project_repos if repo['id'] not in [old_repo['id'] for old_repo in old_repos]]
     if new_repos:
         send_slack_alert(new_repos)
 
