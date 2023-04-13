@@ -4,6 +4,7 @@ import requests
 from bs4 import BeautifulSoup
 
 def extract_github_links(url):
+    print("url", url)
     response = requests.get(url)
     soup = BeautifulSoup(response.text, 'html.parser')
     links = soup.find_all('a', href=True)
