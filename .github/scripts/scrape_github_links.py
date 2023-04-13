@@ -4,13 +4,17 @@ import requests
 from bs4 import BeautifulSoup
 
 def extract_github_links(url):
-    print("url", url)
     response = requests.get(url)
     soup = BeautifulSoup(response.text, 'html.parser')
     links = soup.find_all('a', href=True)
-    github_links = [link['href'] for link in links if 'github.com' in link['href']]
-    print("github_links", github_links)
-    return github_links
+    
+    github_links = set()
+    for link in links:
+        match = re.match(r'https://github\.com/[^/]+/[^/]+', link['href'])
+        if match:
+            github_links.add(match.group(0))
+    
+    return list(github_links)
 
 with open('www_project_repos.json', 'r') as f:
     data = json.load(f)
