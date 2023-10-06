@@ -2,6 +2,7 @@ import os
 import json
 import requests
 from datetime import datetime, timedelta
+import base64
 
 GITHUB_API_URL = "https://api.github.com"
 ORG_NAME = "owasp"
@@ -47,7 +48,7 @@ def get_index_md_content(repo_full_name):
     response = requests.get(url, headers=headers)
     if response.status_code == 200:
         file_content = response.json()["content"]
-        return file_content.decode('base64')
+        return base64.b64decode(file_content).decode('utf-8') # Updated line here
     return None
 
 def check_last_updated_date(repo_full_name):
