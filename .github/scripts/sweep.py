@@ -59,7 +59,9 @@ def check_last_updated_date(repo_full_name):
         return datetime.strptime(last_updated_date, "%Y-%m-%dT%H:%M:%SZ")
     return None
 
-def send_slack_alert(message):
+def send_slack_alert(repo_full_name):
+    repo_url = f"https://github.com/{repo_full_name}"
+    message = f"Repo <{repo_url}|{repo_full_name}> has not been updated in over a month. Check index.md."
     payload = {"text": message}
     response = requests.post(SLACK_WEBHOOK_URL, json=payload)
     response.raise_for_status()
