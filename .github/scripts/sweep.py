@@ -12,6 +12,15 @@ SEARCH_STRING = "This is an example of a Project or Chapter Page"
 
 headers = {"Authorization": f"token {os.environ['GITHUB_TOKEN']}"}
 
+def filter_and_format_repos(repos):
+    filtered_repos = []
+
+    for repo in repos:
+        if repo["name"].startswith(REPO_PREFIX):
+            filtered_repos.append(repo)
+
+    return filtered_repos
+    
 def get_repos():
     all_repos = []
     page = 1
