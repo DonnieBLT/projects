@@ -7,7 +7,7 @@ GITHUB_API_URL = "https://api.github.com"
 ORG_NAME = "owasp"
 REPO_PREFIX = "www-project"
 OUTPUT_FILE = "www_project_repos.json"
-SLACK_WEBHOOK_URL = os.environ["SLACK_WEBHOOK_URL"]
+SLACK_WEBHOOK_URL = os.environ["SLACK_WEBHOOK_URL_SWEEP"]
 SEARCH_STRING = "This is an example of a Project or Chapter Page"
 
 headers = {"Authorization": f"token {os.environ['GITHUB_TOKEN']}"}
