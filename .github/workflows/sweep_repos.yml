@@ -23,7 +23,7 @@ jobs:
 
     - name: Parse repositories
       env:
-        SLACK_WEBHOOK_URL: ${{ secrets.SLACK_WEBHOOK_URL_SWEEP }}
+        SLACK_WEBHOOK_URL_SWEEP: ${{ secrets.SLACK_WEBHOOK_URL_SWEEP }}
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
       run: python .github/scripts/sweep.py
 
