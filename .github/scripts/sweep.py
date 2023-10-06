@@ -17,7 +17,7 @@ def filter_and_format_repos(repos):
     filtered_repos = []
 
     for repo in repos:
-        if repo["name"].startswith(REPO_PREFIX):
+        if repo["name"].startswith(REPO_PREFIX) and not repo.get("archived", False):
             filtered_repos.append(repo)
 
     return filtered_repos
