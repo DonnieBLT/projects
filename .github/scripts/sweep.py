@@ -73,10 +73,11 @@ def main():
         repo_full_name = repo['full_name']
         index_md_content = get_index_md_content(repo_full_name)
         
-        if index_md_content and SEARCH_STRING not in index_md_content:
+        if index_md_content and SEARCH_STRING in index_md_content:  # Changed the condition here
             last_updated_date = check_last_updated_date(repo_full_name)
             if last_updated_date and datetime.utcnow() - last_updated_date > timedelta(days=30):
                 send_slack_alert(f"Repo {repo_full_name} has not been updated in over a month. Check index.md.")
             
 if __name__ == "__main__":
     main()
+
