@@ -1,4 +1,4 @@
-name: Parse OWASP Repositories
+name: Sweep OWASP Repositories
 
 on:
   workflow_dispatch:
