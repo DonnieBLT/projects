@@ -61,7 +61,7 @@ def check_last_updated_date(repo_full_name):
 
 def send_slack_alert(repo_full_name):
     repo_url = f"https://github.com/{repo_full_name}"
-    message = f"Repo <{repo_url}|{repo_full_name}> has not been updated in over a month. Check index.md."
+    message_text = f"Repo *{repo_full_name}* has not been updated in over a month. Check index.md."
     
     payload = {
         "blocks": [
@@ -69,7 +69,15 @@ def send_slack_alert(repo_full_name):
                 "type": "section",
                 "text": {
                     "type": "mrkdwn",
-                    "text": message
+                    "text": message_text
+                },
+                "accessory": {
+                    "type": "button",
+                    "text": {
+                        "type": "plain_text",
+                        "text": "View Repo"
+                    },
+                    "url": repo_url
                 }
             }
         ]
@@ -77,7 +85,6 @@ def send_slack_alert(repo_full_name):
     
     response = requests.post(SLACK_WEBHOOK_URL, json=payload)
     response.raise_for_status()
-
 
 def main():
     print('Parsing repos...')
