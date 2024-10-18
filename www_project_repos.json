@@ -23,6 +23,7 @@
       "events_url": "https://api.github.com/users/OWASP/events{/privacy}",
       "received_events_url": "https://api.github.com/users/OWASP/received_events",
       "type": "Organization",
+      "user_view_type": "public",
       "site_admin": false
     },
     "html_url": "https://github.com/OWASP/www-project-zap",
@@ -66,7 +67,7 @@
     "releases_url": "https://api.github.com/repos/OWASP/www-project-zap/releases{/id}",
     "deployments_url": "https://api.github.com/repos/OWASP/www-project-zap/deployments",
     "created_at": "2019-07-25T14:21:16Z",
-    "updated_at": "2024-10-03T05:14:09Z",
+    "updated_at": "2024-10-17T07:14:00Z",
     "pushed_at": "2023-08-01T13:26:08Z",
     "git_url": "git://github.com/OWASP/www-project-zap.git",
     "ssh_url": "git@github.com:OWASP/www-project-zap.git",
@@ -74,8 +75,8 @@
     "svn_url": "https://github.com/OWASP/www-project-zap",
     "homepage": "https://owasp.org/www-project-zap/",
     "size": 1717,
-    "stargazers_count": 74,
-    "watchers_count": 74,
+    "stargazers_count": 75,
+    "watchers_count": 75,
     "language": "HTML",
     "has_issues": false,
     "has_projects": false,
@@ -103,7 +104,7 @@
     "visibility": "public",
     "forks": 53,
     "open_issues": 0,
-    "watchers": 74,
+    "watchers": 75,
     "default_branch": "master",
     "permissions": {
       "admin": false,
@@ -137,6 +138,7 @@
       "events_url": "https://api.github.com/users/OWASP/events{/privacy}",
       "received_events_url": "https://api.github.com/users/OWASP/received_events",
       "type": "Organization",
+      "user_view_type": "public",
       "site_admin": false
     },
     "html_url": "https://github.com/OWASP/www-projectchapter-example",
@@ -244,6 +246,7 @@
       "events_url": "https://api.github.com/users/OWASP/events{/privacy}",
       "received_events_url": "https://api.github.com/users/OWASP/received_events",
       "type": "Organization",
+      "user_view_type": "public",
       "site_admin": false
     },
     "html_url": "https://github.com/OWASP/www-project-security-integration-system",
@@ -351,6 +354,7 @@
       "events_url": "https://api.github.com/users/OWASP/events{/privacy}",
       "received_events_url": "https://api.github.com/users/OWASP/received_events",
       "type": "Organization",
+      "user_view_type": "public",
       "site_admin": false
     },
     "html_url": "https://github.com/OWASP/www-project-amass",
@@ -458,6 +462,7 @@
       "events_url": "https://api.github.com/users/OWASP/events{/privacy}",
       "received_events_url": "https://api.github.com/users/OWASP/received_events",
       "type": "Organization",
+      "user_view_type": "public",
       "site_admin": false
     },
     "html_url": "https://github.com/OWASP/www-project-devsecops-maturity-model",
@@ -565,6 +570,7 @@
       "events_url": "https://api.github.com/users/OWASP/events{/privacy}",
       "received_events_url": "https://api.github.com/users/OWASP/received_events",
       "type": "Organization",
+      "user_view_type": "public",
       "site_admin": false
     },
     "html_url": "https://github.com/OWASP/www-project-pytm",
@@ -672,6 +678,7 @@
       "events_url": "https://api.github.com/users/OWASP/events{/privacy}",
       "received_events_url": "https://api.github.com/users/OWASP/received_events",
       "type": "Organization",
+      "user_view_type": "public",
       "site_admin": false
     },
     "html_url": "https://github.com/OWASP/www-project-patton",
@@ -782,6 +789,7 @@
       "events_url": "https://api.github.com/users/OWASP/events{/privacy}",
       "received_events_url": "https://api.github.com/users/OWASP/received_events",
       "type": "Organization",
+      "user_view_type": "public",
       "site_admin": false
     },
     "html_url": "https://github.com/OWASP/www-project-little-web-application-firewall",
@@ -889,6 +897,7 @@
       "events_url": "https://api.github.com/users/OWASP/events{/privacy}",
       "received_events_url": "https://api.github.com/users/OWASP/received_events",
       "type": "Organization",
+      "user_view_type": "public",
       "site_admin": false
     },
     "html_url": "https://github.com/OWASP/www-project-damn-vulnerable-crypto-wallet",
@@ -996,6 +1005,7 @@
       "events_url": "https://api.github.com/users/OWASP/events{/privacy}",
       "received_events_url": "https://api.github.com/users/OWASP/received_events",
       "type": "Organization",
+      "user_view_type": "public",
       "site_admin": false
     },
     "html_url": "https://github.com/OWASP/www-project-security-busters",
@@ -1103,6 +1113,7 @@
       "events_url": "https://api.github.com/users/OWASP/events{/privacy}",
       "received_events_url": "https://api.github.com/users/OWASP/received_events",
       "type": "Organization",
+      "user_view_type": "public",
       "site_admin": false
     },
     "html_url": "https://github.com/OWASP/www-project-best-practices-in-vulnerability-disclosure-and-bug-bounty-programs",
@@ -1210,6 +1221,7 @@
       "events_url": "https://api.github.com/users/OWASP/events{/privacy}",
       "received_events_url": "https://api.github.com/users/OWASP/received_events",
       "type": "Organization",
+      "user_view_type": "public",
       "site_admin": false
     },
     "html_url": "https://github.com/OWASP/www-project-attack-surface-detector",
@@ -1317,6 +1329,7 @@
       "events_url": "https://api.github.com/users/OWASP/events{/privacy}",
       "received_events_url": "https://api.github.com/users/OWASP/received_events",
       "type": "Organization",
+      "user_view_type": "public",
       "site_admin": false
     },
     "html_url": "https://github.com/OWASP/www-project-software-component-verification-standard",
@@ -1424,6 +1437,7 @@
       "events_url": "https://api.github.com/users/OWASP/events{/privacy}",
       "received_events_url": "https://api.github.com/users/OWASP/received_events",
       "type": "Organization",
+      "user_view_type": "public",
       "site_admin": false
     },
     "html_url": "https://github.com/OWASP/www-project-threatspec",
@@ -1531,6 +1545,7 @@
       "events_url": "https://api.github.com/users/OWASP/events{/privacy}",
       "received_events_url": "https://api.github.com/users/OWASP/received_events",
       "type": "Organization",
+      "user_view_type": "public",
       "site_admin": false
     },
     "html_url": "https://github.com/OWASP/www-project-vulnerability-management-guide",
@@ -1638,6 +1653,7 @@
       "events_url": "https://api.github.com/users/OWASP/events{/privacy}",
       "received_events_url": "https://api.github.com/users/OWASP/received_events",
       "type": "Organization",
+      "user_view_type": "public",
       "site_admin": false
     },
     "html_url": "https://github.com/OWASP/www-project-docker-top-10",
@@ -1745,6 +1761,7 @@
       "events_url": "https://api.github.com/users/OWASP/events{/privacy}",
       "received_events_url": "https://api.github.com/users/OWASP/received_events",
       "type": "Organization",
+      "user_view_type": "public",
       "site_admin": false
     },
     "html_url": "https://github.com/OWASP/www-project-information-security-metrics-bank",
@@ -1852,6 +1869,7 @@
       "events_url": "https://api.github.com/users/OWASP/events{/privacy}",
       "received_events_url": "https://api.github.com/users/OWASP/received_events",
       "type": "Organization",
+      "user_view_type": "public",
       "site_admin": false
     },
     "html_url": "https://github.com/OWASP/www-project-software-security-5d-framework",
@@ -1965,6 +1983,7 @@
       "events_url": "https://api.github.com/users/OWASP/events{/privacy}",
       "received_events_url": "https://api.github.com/users/OWASP/received_events",
       "type": "Organization",
+      "user_view_type": "public",
       "site_admin": false
     },
     "html_url": "https://github.com/OWASP/www-project-container-security-verification-standard",
@@ -2072,6 +2091,7 @@
       "events_url": "https://api.github.com/users/OWASP/events{/privacy}",
       "received_events_url": "https://api.github.com/users/OWASP/received_events",
       "type": "Organization",
+      "user_view_type": "public",
       "site_admin": false
     },
     "html_url": "https://github.com/OWASP/www-project-find-security-bugs",
@@ -2179,6 +2199,7 @@
       "events_url": "https://api.github.com/users/OWASP/events{/privacy}",
       "received_events_url": "https://api.github.com/users/OWASP/received_events",
       "type": "Organization",
+      "user_view_type": "public",
       "site_admin": false
     },
     "html_url": "https://github.com/OWASP/www-project-maryam",
@@ -2286,6 +2307,7 @@
       "events_url": "https://api.github.com/users/OWASP/events{/privacy}",
       "received_events_url": "https://api.github.com/users/OWASP/received_events",
       "type": "Organization",
+      "user_view_type": "public",
       "site_admin": false
     },
     "html_url": "https://github.com/OWASP/www-project-cloud-native-application-security-top-10",
@@ -2393,6 +2415,7 @@
       "events_url": "https://api.github.com/users/OWASP/events{/privacy}",
       "received_events_url": "https://api.github.com/users/OWASP/received_events",
       "type": "Organization",
+      "user_view_type": "public",
       "site_admin": false
     },
     "html_url": "https://github.com/OWASP/www-project-lock-it",
@@ -2500,6 +2523,7 @@
       "events_url": "https://api.github.com/users/OWASP/events{/privacy}",
       "received_events_url": "https://api.github.com/users/OWASP/received_events",
       "type": "Organization",
+      "user_view_type": "public",
       "site_admin": false
     },
     "html_url": "https://github.com/OWASP/www-project-threat-model-cookbook",
@@ -2607,6 +2631,7 @@
       "events_url": "https://api.github.com/users/OWASP/events{/privacy}",
       "received_events_url": "https://api.github.com/users/OWASP/received_events",
       "type": "Organization",
+      "user_view_type": "public",
       "site_admin": false
     },
     "html_url": "https://github.com/OWASP/www-project-iot-analytics-4industry4",
@@ -2714,6 +2739,7 @@
       "events_url": "https://api.github.com/users/OWASP/events{/privacy}",
       "received_events_url": "https://api.github.com/users/OWASP/received_events",
       "type": "Organization",
+      "user_view_type": "public",
       "site_admin": false
     },
     "html_url": "https://github.com/OWASP/www-project-application-security-curriculum",
@@ -2821,6 +2847,7 @@
       "events_url": "https://api.github.com/users/OWASP/events{/privacy}",
       "received_events_url": "https://api.github.com/users/OWASP/received_events",
       "type": "Organization",
+      "user_view_type": "public",
       "site_admin": false
     },
     "html_url": "https://github.com/OWASP/www-project-software-composition-security",
@@ -2928,6 +2955,7 @@
       "events_url": "https://api.github.com/users/OWASP/events{/privacy}",
       "received_events_url": "https://api.github.com/users/OWASP/received_events",
       "type": "Organization",
+      "user_view_type": "public",
       "site_admin": false
     },
     "html_url": "https://github.com/OWASP/www-project-d4n155",
@@ -3035,6 +3063,7 @@
       "events_url": "https://api.github.com/users/OWASP/events{/privacy}",
       "received_events_url": "https://api.github.com/users/OWASP/received_events",
       "type": "Organization",
+      "user_view_type": "public",
       "site_admin": false
     },
     "html_url": "https://github.com/OWASP/www-project-secure-coding-dojo",
@@ -3142,6 +3171,7 @@
       "events_url": "https://api.github.com/users/OWASP/events{/privacy}",
       "received_events_url": "https://api.github.com/users/OWASP/received_events",
       "type": "Organization",
+      "user_view_type": "public",
       "site_admin": false
     },
     "html_url": "https://github.com/OWASP/www-project-jupiter",
@@ -3249,6 +3279,7 @@
       "events_url": "https://api.github.com/users/OWASP/events{/privacy}",
       "received_events_url": "https://api.github.com/users/OWASP/received_events",
       "type": "Organization",
+      "user_view_type": "public",
       "site_admin": false
     },
     "html_url": "https://github.com/OWASP/www-project-go-secure-coding-practices-guide",
@@ -3356,6 +3387,7 @@
       "events_url": "https://api.github.com/users/OWASP/events{/privacy}",
       "received_events_url": "https://api.github.com/users/OWASP/received_events",
       "type": "Organization",
+      "user_view_type": "public",
       "site_admin": false
     },
     "html_url": "https://github.com/OWASP/www-project-serverless-goat",
@@ -3463,6 +3495,7 @@
       "events_url": "https://api.github.com/users/OWASP/events{/privacy}",
       "received_events_url": "https://api.github.com/users/OWASP/received_events",
       "type": "Organization",
+      "user_view_type": "public",
       "site_admin": false
     },
     "html_url": "https://github.com/OWASP/www-project-revelo",
@@ -3570,6 +3603,7 @@
       "events_url": "https://api.github.com/users/OWASP/events{/privacy}",
       "received_events_url": "https://api.github.com/users/OWASP/received_events",
       "type": "Organization",
+      "user_view_type": "public",
       "site_admin": false
     },
     "html_url": "https://github.com/OWASP/www-project-sedated",
@@ -3677,6 +3711,7 @@
       "events_url": "https://api.github.com/users/OWASP/events{/privacy}",
       "received_events_url": "https://api.github.com/users/OWASP/received_events",
       "type": "Organization",
+      "user_view_type": "public",
       "site_admin": false
     },
     "html_url": "https://github.com/OWASP/www-project-top-10-card-game",
@@ -3784,6 +3819,7 @@
       "events_url": "https://api.github.com/users/OWASP/events{/privacy}",
       "received_events_url": "https://api.github.com/users/OWASP/received_events",
       "type": "Organization",
+      "user_view_type": "public",
       "site_admin": false
     },
     "html_url": "https://github.com/OWASP/www-project-vulnerable-web-application",
@@ -3891,6 +3927,7 @@
       "events_url": "https://api.github.com/users/OWASP/events{/privacy}",
       "received_events_url": "https://api.github.com/users/OWASP/received_events",
       "type": "Organization",
+      "user_view_type": "public",
       "site_admin": false
     },
     "html_url": "https://github.com/OWASP/www-project-wpbullet",
@@ -3998,6 +4035,7 @@
       "events_url": "https://api.github.com/users/OWASP/events{/privacy}",
       "received_events_url": "https://api.github.com/users/OWASP/received_events",
       "type": "Organization",
+      "user_view_type": "public",
       "site_admin": false
     },
     "html_url": "https://github.com/OWASP/www-project-voice-automated-application-security",
@@ -4105,6 +4143,7 @@
       "events_url": "https://api.github.com/users/OWASP/events{/privacy}",
       "received_events_url": "https://api.github.com/users/OWASP/received_events",
       "type": "Organization",
+      "user_view_type": "public",
       "site_admin": false
     },
     "html_url": "https://github.com/OWASP/www-project-cloud-security-mentor",
@@ -4212,6 +4251,7 @@
       "events_url": "https://api.github.com/users/OWASP/events{/privacy}",
       "received_events_url": "https://api.github.com/users/OWASP/received_events",
       "type": "Organization",
+      "user_view_type": "public",
       "site_admin": false
     },
     "html_url": "https://github.com/OWASP/www-project-risk-assessment-framework",
@@ -4319,6 +4359,7 @@
       "events_url": "https://api.github.com/users/OWASP/events{/privacy}",
       "received_events_url": "https://api.github.com/users/OWASP/received_events",
       "type": "Organization",
+      "user_view_type": "public",
       "site_admin": false
     },
     "html_url": "https://github.com/OWASP/www-project-machine-learning-security-top-10",
@@ -4444,6 +4485,7 @@
       "events_url": "https://api.github.com/users/OWASP/events{/privacy}",
       "received_events_url": "https://api.github.com/users/OWASP/received_events",
       "type": "Organization",
+      "user_view_type": "public",
       "site_admin": false
     },
     "html_url": "https://github.com/OWASP/www-project-glue-tool",
@@ -4551,6 +4593,7 @@
       "events_url": "https://api.github.com/users/OWASP/events{/privacy}",
       "received_events_url": "https://api.github.com/users/OWASP/received_events",
       "type": "Organization",
+      "user_view_type": "public",
       "site_admin": false
     },
     "html_url": "https://github.com/OWASP/www-project-cloud-security",
@@ -4658,6 +4701,7 @@
       "events_url": "https://api.github.com/users/OWASP/events{/privacy}",
       "received_events_url": "https://api.github.com/users/OWASP/received_events",
       "type": "Organization",
+      "user_view_type": "public",
       "site_admin": false
     },
     "html_url": "https://github.com/OWASP/www-project-online-academy",
@@ -4765,6 +4809,7 @@
       "events_url": "https://api.github.com/users/OWASP/events{/privacy}",
       "received_events_url": "https://api.github.com/users/OWASP/received_events",
       "type": "Organization",
+      "user_view_type": "public",
       "site_admin": false
     },
     "html_url": "https://github.com/OWASP/www-project-qrljacker",
@@ -4872,6 +4917,7 @@
       "events_url": "https://api.github.com/users/OWASP/events{/privacy}",
       "received_events_url": "https://api.github.com/users/OWASP/received_events",
       "type": "Organization",
+      "user_view_type": "public",
       "site_admin": false
     },
     "html_url": "https://github.com/OWASP/www-project-samuraiwtf",
@@ -4979,6 +5025,7 @@
       "events_url": "https://api.github.com/users/OWASP/events{/privacy}",
       "received_events_url": "https://api.github.com/users/OWASP/received_events",
       "type": "Organization",
+      "user_view_type": "public",
       "site_admin": false
     },
     "html_url": "https://github.com/OWASP/www-project-php",
@@ -5086,6 +5133,7 @@
       "events_url": "https://api.github.com/users/OWASP/events{/privacy}",
       "received_events_url": "https://api.github.com/users/OWASP/received_events",
       "type": "Organization",
+      "user_view_type": "public",
       "site_admin": false
     },
     "html_url": "https://github.com/OWASP/www-project-enterprise-security-api",
@@ -5193,6 +5241,7 @@
       "events_url": "https://api.github.com/users/OWASP/events{/privacy}",
       "received_events_url": "https://api.github.com/users/OWASP/received_events",
       "type": "Organization",
+      "user_view_type": "public",
       "site_admin": false
     },
     "html_url": "https://github.com/OWASP/www-project-api-security",
@@ -5303,6 +5352,7 @@
       "events_url": "https://api.github.com/users/OWASP/events{/privacy}",
       "received_events_url": "https://api.github.com/users/OWASP/received_events",
       "type": "Organization",
+      "user_view_type": "public",
       "site_admin": false
     },
     "html_url": "https://github.com/OWASP/www-project-nettacker",
@@ -5410,6 +5460,7 @@
       "events_url": "https://api.github.com/users/OWASP/events{/privacy}",
       "received_events_url": "https://api.github.com/users/OWASP/received_events",
       "type": "Organization",
+      "user_view_type": "public",
       "site_admin": false
     },
     "html_url": "https://github.com/OWASP/www-project-zezengorri-code",
@@ -5517,6 +5568,7 @@
       "events_url": "https://api.github.com/users/OWASP/events{/privacy}",
       "received_events_url": "https://api.github.com/users/OWASP/received_events",
       "type": "Organization",
+      "user_view_type": "public",
       "site_admin": false
     },
     "html_url": "https://github.com/OWASP/www-project-learning-gateway",
@@ -5624,6 +5676,7 @@
       "events_url": "https://api.github.com/users/OWASP/events{/privacy}",
       "received_events_url": "https://api.github.com/users/OWASP/received_events",
       "type": "Organization",
+      "user_view_type": "public",
       "site_admin": false
     },
     "html_url": "https://github.com/OWASP/www-project-seclists",
@@ -5731,6 +5784,7 @@
       "events_url": "https://api.github.com/users/OWASP/events{/privacy}",
       "received_events_url": "https://api.github.com/users/OWASP/received_events",
       "type": "Organization",
+      "user_view_type": "public",
       "site_admin": false
     },
     "html_url": "https://github.com/OWASP/www-project-security-pins",
@@ -5838,6 +5892,7 @@
       "events_url": "https://api.github.com/users/OWASP/events{/privacy}",
       "received_events_url": "https://api.github.com/users/OWASP/received_events",
       "type": "Organization",
+      "user_view_type": "public",
       "site_admin": false
     },
     "html_url": "https://github.com/OWASP/www-project-serverless-top-10",
@@ -5945,6 +6000,7 @@
       "events_url": "https://api.github.com/users/OWASP/events{/privacy}",
       "received_events_url": "https://api.github.com/users/OWASP/received_events",
       "type": "Organization",
+      "user_view_type": "public",
       "site_admin": false
     },
     "html_url": "https://github.com/OWASP/www-project-blockchain-security-framework",
@@ -6052,6 +6108,7 @@
       "events_url": "https://api.github.com/users/OWASP/events{/privacy}",
       "received_events_url": "https://api.github.com/users/OWASP/received_events",
       "type": "Organization",
+      "user_view_type": "public",
       "site_admin": false
     },
     "html_url": "https://github.com/OWASP/www-project-security-shepherd",
@@ -6159,6 +6216,7 @@
       "events_url": "https://api.github.com/users/OWASP/events{/privacy}",
       "received_events_url": "https://api.github.com/users/OWASP/received_events",
       "type": "Organization",
+      "user_view_type": "public",
       "site_admin": false
     },
     "html_url": "https://github.com/OWASP/www-project-owtf",
@@ -6266,6 +6324,7 @@
       "events_url": "https://api.github.com/users/OWASP/events{/privacy}",
       "received_events_url": "https://api.github.com/users/OWASP/received_events",
       "type": "Organization",
+      "user_view_type": "public",
       "site_admin": false
     },
     "html_url": "https://github.com/OWASP/www-project-application-security-verification-standard",
@@ -6373,6 +6432,7 @@
       "events_url": "https://api.github.com/users/OWASP/events{/privacy}",
       "received_events_url": "https://api.github.com/users/OWASP/received_events",
       "type": "Organization",
+      "user_view_type": "public",
       "site_admin": false
     },
     "html_url": "https://github.com/OWASP/www-project-top-ten",
@@ -6416,7 +6476,7 @@
     "releases_url": "https://api.github.com/repos/OWASP/www-project-top-ten/releases{/id}",
     "deployments_url": "https://api.github.com/repos/OWASP/www-project-top-ten/deployments",
     "created_at": "2019-09-12T20:15:16Z",
-    "updated_at": "2024-10-16T14:32:06Z",
+    "updated_at": "2024-10-17T08:34:32Z",
     "pushed_at": "2024-09-06T13:49:38Z",
     "git_url": "git://github.com/OWASP/www-project-top-ten.git",
     "ssh_url": "git@github.com:OWASP/www-project-top-ten.git",
@@ -6424,8 +6484,8 @@
     "svn_url": "https://github.com/OWASP/www-project-top-ten",
     "homepage": null,
     "size": 1311,
-    "stargazers_count": 1107,
-    "watchers_count": 1107,
+    "stargazers_count": 1108,
+    "watchers_count": 1108,
     "language": "HTML",
     "has_issues": true,
     "has_projects": true,
@@ -6446,7 +6506,7 @@
     "visibility": "public",
     "forks": 233,
     "open_issues": 21,
-    "watchers": 1107,
+    "watchers": 1108,
     "default_branch": "master",
     "permissions": {
       "admin": false,
@@ -6480,6 +6540,7 @@
       "events_url": "https://api.github.com/users/OWASP/events{/privacy}",
       "received_events_url": "https://api.github.com/users/OWASP/received_events",
       "type": "Organization",
+      "user_view_type": "public",
       "site_admin": false
     },
     "html_url": "https://github.com/OWASP/www-project-code-review-guide",
@@ -6600,6 +6661,7 @@
       "events_url": "https://api.github.com/users/OWASP/events{/privacy}",
       "received_events_url": "https://api.github.com/users/OWASP/received_events",
       "type": "Organization",
+      "user_view_type": "public",
       "site_admin": false
     },
     "html_url": "https://github.com/OWASP/www-project-webgoat",
@@ -6707,6 +6769,7 @@
       "events_url": "https://api.github.com/users/OWASP/events{/privacy}",
       "received_events_url": "https://api.github.com/users/OWASP/received_events",
       "type": "Organization",
+      "user_view_type": "public",
       "site_admin": false
     },
     "html_url": "https://github.com/OWASP/www-project-cheat-sheets",
@@ -6814,6 +6877,7 @@
       "events_url": "https://api.github.com/users/OWASP/events{/privacy}",
       "received_events_url": "https://api.github.com/users/OWASP/received_events",
       "type": "Organization",
+      "user_view_type": "public",
       "site_admin": false
     },
     "html_url": "https://github.com/OWASP/www-project-csrfguard",
@@ -6936,6 +7000,7 @@
       "events_url": "https://api.github.com/users/OWASP/events{/privacy}",
       "received_events_url": "https://api.github.com/users/OWASP/received_events",
       "type": "Organization",
+      "user_view_type": "public",
       "site_admin": false
     },
     "html_url": "https://github.com/OWASP/www-project-modsecurity-core-rule-set",
@@ -7043,6 +7108,7 @@
       "events_url": "https://api.github.com/users/OWASP/events{/privacy}",
       "received_events_url": "https://api.github.com/users/OWASP/received_events",
       "type": "Organization",
+      "user_view_type": "public",
       "site_admin": false
     },
     "html_url": "https://github.com/OWASP/www-project-samm",
@@ -7156,6 +7222,7 @@
       "events_url": "https://api.github.com/users/OWASP/events{/privacy}",
       "received_events_url": "https://api.github.com/users/OWASP/received_events",
       "type": "Organization",
+      "user_view_type": "public",
       "site_admin": false
     },
     "html_url": "https://github.com/OWASP/www-project-web-security-testing-guide",
@@ -7199,14 +7266,14 @@
     "releases_url": "https://api.github.com/repos/OWASP/www-project-web-security-testing-guide/releases{/id}",
     "deployments_url": "https://api.github.com/repos/OWASP/www-project-web-security-testing-guide/deployments",
     "created_at": "2019-09-12T20:16:21Z",
-    "updated_at": "2024-10-15T21:30:14Z",
-    "pushed_at": "2024-10-15T21:30:07Z",
+    "updated_at": "2024-10-17T14:59:09Z",
+    "pushed_at": "2024-10-17T14:59:05Z",
     "git_url": "git://github.com/OWASP/www-project-web-security-testing-guide.git",
     "ssh_url": "git@github.com:OWASP/www-project-web-security-testing-guide.git",
     "clone_url": "https://github.com/OWASP/www-project-web-security-testing-guide.git",
     "svn_url": "https://github.com/OWASP/www-project-web-security-testing-guide",
     "homepage": "https://owasp.org/www-project-web-security-testing-guide/",
-    "size": 38104,
+    "size": 38116,
     "stargazers_count": 440,
     "watchers_count": 440,
     "language": "HTML",
@@ -7216,7 +7283,7 @@
     "has_wiki": false,
     "has_pages": true,
     "has_discussions": false,
-    "forks_count": 200,
+    "forks_count": 201,
     "mirror_url": null,
     "archived": false,
     "disabled": false,
@@ -7231,7 +7298,7 @@
       "wstg"
     ],
     "visibility": "public",
-    "forks": 200,
+    "forks": 201,
     "open_issues": 0,
     "watchers": 440,
     "default_branch": "master",
@@ -7267,6 +7334,7 @@
       "events_url": "https://api.github.com/users/OWASP/events{/privacy}",
       "received_events_url": "https://api.github.com/users/OWASP/received_events",
       "type": "Organization",
+      "user_view_type": "public",
       "site_admin": false
     },
     "html_url": "https://github.com/OWASP/www-project-proactive-controls",
@@ -7380,6 +7448,7 @@
       "events_url": "https://api.github.com/users/OWASP/events{/privacy}",
       "received_events_url": "https://api.github.com/users/OWASP/received_events",
       "type": "Organization",
+      "user_view_type": "public",
       "site_admin": false
     },
     "html_url": "https://github.com/OWASP/www-project-hackademic-challenges",
@@ -7487,6 +7556,7 @@
       "events_url": "https://api.github.com/users/OWASP/events{/privacy}",
       "received_events_url": "https://api.github.com/users/OWASP/received_events",
       "type": "Organization",
+      "user_view_type": "public",
       "site_admin": false
     },
     "html_url": "https://github.com/OWASP/www-project-ende",
@@ -7594,6 +7664,7 @@
       "events_url": "https://api.github.com/users/OWASP/events{/privacy}",
       "received_events_url": "https://api.github.com/users/OWASP/received_events",
       "type": "Organization",
+      "user_view_type": "public",
       "site_admin": false
     },
     "html_url": "https://github.com/OWASP/www-project-o2-platform",
@@ -7701,6 +7772,7 @@
       "events_url": "https://api.github.com/users/OWASP/events{/privacy}",
       "received_events_url": "https://api.github.com/users/OWASP/received_events",
       "type": "Organization",
+      "user_view_type": "public",
       "site_admin": false
     },
     "html_url": "https://github.com/OWASP/www-project-security-knowledge-framework",
@@ -7808,6 +7880,7 @@
       "events_url": "https://api.github.com/users/OWASP/events{/privacy}",
       "received_events_url": "https://api.github.com/users/OWASP/received_events",
       "type": "Organization",
+      "user_view_type": "public",
       "site_admin": false
     },
     "html_url": "https://github.com/OWASP/www-project-top-10-privacy-risks",
@@ -7915,6 +7988,7 @@
       "events_url": "https://api.github.com/users/OWASP/events{/privacy}",
       "received_events_url": "https://api.github.com/users/OWASP/received_events",
       "type": "Organization",
+      "user_view_type": "public",
       "site_admin": false
     },
     "html_url": "https://github.com/OWASP/www-project-secure-coding-practices-quick-reference-guide",
@@ -8032,6 +8106,7 @@
       "events_url": "https://api.github.com/users/OWASP/events{/privacy}",
       "received_events_url": "https://api.github.com/users/OWASP/received_events",
       "type": "Organization",
+      "user_view_type": "public",
       "site_admin": false
     },
     "html_url": "https://github.com/OWASP/www-project-passfault",
@@ -8139,6 +8214,7 @@
       "events_url": "https://api.github.com/users/OWASP/events{/privacy}",
       "received_events_url": "https://api.github.com/users/OWASP/received_events",
       "type": "Organization",
+      "user_view_type": "public",
       "site_admin": false
     },
     "html_url": "https://github.com/OWASP/www-project-java-encoder",
@@ -8246,6 +8322,7 @@
       "events_url": "https://api.github.com/users/OWASP/events{/privacy}",
       "received_events_url": "https://api.github.com/users/OWASP/received_events",
       "type": "Organization",
+      "user_view_type": "public",
       "site_admin": false
     },
     "html_url": "https://github.com/OWASP/www-project-igoat-tool",
@@ -8353,6 +8430,7 @@
       "events_url": "https://api.github.com/users/OWASP/events{/privacy}",
       "received_events_url": "https://api.github.com/users/OWASP/received_events",
       "type": "Organization",
+      "user_view_type": "public",
       "site_admin": false
     },
     "html_url": "https://github.com/OWASP/www-project-rfp-criteria",
@@ -8460,6 +8538,7 @@
       "events_url": "https://api.github.com/users/OWASP/events{/privacy}",
       "received_events_url": "https://api.github.com/users/OWASP/received_events",
       "type": "Organization",
+      "user_view_type": "public",
       "site_admin": false
     },
     "html_url": "https://github.com/OWASP/www-project-web-testing-environment",
@@ -8567,6 +8646,7 @@
       "events_url": "https://api.github.com/users/OWASP/events{/privacy}",
       "received_events_url": "https://api.github.com/users/OWASP/received_events",
       "type": "Organization",
+      "user_view_type": "public",
       "site_admin": false
     },
     "html_url": "https://github.com/OWASP/www-project-appsensor",
@@ -8674,6 +8754,7 @@
       "events_url": "https://api.github.com/users/OWASP/events{/privacy}",
       "received_events_url": "https://api.github.com/users/OWASP/received_events",
       "type": "Organization",
+      "user_view_type": "public",
       "site_admin": false
     },
     "html_url": "https://github.com/OWASP/www-project-json-sanitizer",
@@ -8781,6 +8862,7 @@
       "events_url": "https://api.github.com/users/OWASP/events{/privacy}",
       "received_events_url": "https://api.github.com/users/OWASP/received_events",
       "type": "Organization",
+      "user_view_type": "public",
       "site_admin": false
     },
     "html_url": "https://github.com/OWASP/www-project-java-html-sanitizer",
@@ -8888,6 +8970,7 @@
       "events_url": "https://api.github.com/users/OWASP/events{/privacy}",
       "received_events_url": "https://api.github.com/users/OWASP/received_events",
       "type": "Organization",
+      "user_view_type": "public",
       "site_admin": false
     },
     "html_url": "https://github.com/OWASP/www-project-university-challenge",
@@ -8995,6 +9078,7 @@
       "events_url": "https://api.github.com/users/OWASP/events{/privacy}",
       "received_events_url": "https://api.github.com/users/OWASP/received_events",
       "type": "Organization",
+      "user_view_type": "public",
       "site_admin": false
     },
     "html_url": "https://github.com/OWASP/www-project-wafec",
@@ -9102,6 +9186,7 @@
       "events_url": "https://api.github.com/users/OWASP/events{/privacy}",
       "received_events_url": "https://api.github.com/users/OWASP/received_events",
       "type": "Organization",
+      "user_view_type": "public",
       "site_admin": false
     },
     "html_url": "https://github.com/OWASP/www-project-hacking-lab",
@@ -9209,6 +9294,7 @@
       "events_url": "https://api.github.com/users/OWASP/events{/privacy}",
       "received_events_url": "https://api.github.com/users/OWASP/received_events",
       "type": "Organization",
+      "user_view_type": "public",
       "site_admin": false
     },
     "html_url": "https://github.com/OWASP/www-project-bug-logging-tool",
@@ -9316,6 +9402,7 @@
       "events_url": "https://api.github.com/users/OWASP/events{/privacy}",
       "received_events_url": "https://api.github.com/users/OWASP/received_events",
       "type": "Organization",
+      "user_view_type": "public",
       "site_admin": false
     },
     "html_url": "https://github.com/OWASP/www-project-cornucopia",
@@ -9423,6 +9510,7 @@
       "events_url": "https://api.github.com/users/OWASP/events{/privacy}",
       "received_events_url": "https://api.github.com/users/OWASP/received_events",
       "type": "Organization",
+      "user_view_type": "public",
       "site_admin": false
     },
     "html_url": "https://github.com/OWASP/www-project-top-10-fuer-entwickler",
@@ -9530,6 +9618,7 @@
       "events_url": "https://api.github.com/users/OWASP/events{/privacy}",
       "received_events_url": "https://api.github.com/users/OWASP/received_events",
       "type": "Organization",
+      "user_view_type": "public",
       "site_admin": false
     },
     "html_url": "https://github.com/OWASP/www-project-juice-shop",
@@ -9573,7 +9662,7 @@
     "releases_url": "https://api.github.com/repos/OWASP/www-project-juice-shop/releases{/id}",
     "deployments_url": "https://api.github.com/repos/OWASP/www-project-juice-shop/deployments",
     "created_at": "2019-09-12T20:19:35Z",
-    "updated_at": "2024-10-06T00:25:42Z",
+    "updated_at": "2024-10-17T16:48:13Z",
     "pushed_at": "2024-10-06T00:25:38Z",
     "git_url": "git://github.com/OWASP/www-project-juice-shop.git",
     "ssh_url": "git@github.com:OWASP/www-project-juice-shop.git",
@@ -9581,8 +9670,8 @@
     "svn_url": "https://github.com/OWASP/www-project-juice-shop",
     "homepage": "",
     "size": 7494,
-    "stargazers_count": 61,
-    "watchers_count": 61,
+    "stargazers_count": 62,
+    "watchers_count": 62,
     "language": "HTML",
     "has_issues": true,
     "has_projects": true,
@@ -9605,7 +9694,7 @@
     "visibility": "public",
     "forks": 147,
     "open_issues": 0,
-    "watchers": 61,
+    "watchers": 62,
     "default_branch": "master",
     "permissions": {
       "admin": false,
@@ -9639,6 +9728,7 @@
       "events_url": "https://api.github.com/users/OWASP/events{/privacy}",
       "received_events_url": "https://api.github.com/users/OWASP/received_events",
       "type": "Organization",
+      "user_view_type": "public",
       "site_admin": false
     },
     "html_url": "https://github.com/OWASP/www-project-media-archive",
@@ -9746,6 +9836,7 @@
       "events_url": "https://api.github.com/users/OWASP/events{/privacy}",
       "received_events_url": "https://api.github.com/users/OWASP/received_events",
       "type": "Organization",
+      "user_view_type": "public",
       "site_admin": false
     },
     "html_url": "https://github.com/OWASP/www-project-dependency-track",
@@ -9853,6 +9944,7 @@
       "events_url": "https://api.github.com/users/OWASP/events{/privacy}",
       "received_events_url": "https://api.github.com/users/OWASP/received_events",
       "type": "Organization",
+      "user_view_type": "public",
       "site_admin": false
     },
     "html_url": "https://github.com/OWASP/www-project-webgoat-php",
@@ -9960,6 +10052,7 @@
       "events_url": "https://api.github.com/users/OWASP/events{/privacy}",
       "received_events_url": "https://api.github.com/users/OWASP/received_events",
       "type": "Organization",
+      "user_view_type": "public",
       "site_admin": false
     },
     "html_url": "https://github.com/OWASP/www-project-vulnerable-web-applications-directory",
@@ -10074,6 +10167,7 @@
       "events_url": "https://api.github.com/users/OWASP/events{/privacy}",
       "received_events_url": "https://api.github.com/users/OWASP/received_events",
       "type": "Organization",
+      "user_view_type": "public",
       "site_admin": false
     },
     "html_url": "https://github.com/OWASP/www-project-benchmark",
@@ -10181,6 +10275,7 @@
       "events_url": "https://api.github.com/users/OWASP/events{/privacy}",
       "received_events_url": "https://api.github.com/users/OWASP/received_events",
       "type": "Organization",
+      "user_view_type": "public",
       "site_admin": false
     },
     "html_url": "https://github.com/OWASP/www-project-node.js-goat",
@@ -10288,6 +10383,7 @@
       "events_url": "https://api.github.com/users/OWASP/events{/privacy}",
       "received_events_url": "https://api.github.com/users/OWASP/received_events",
       "type": "Organization",
+      "user_view_type": "public",
       "site_admin": false
     },
     "html_url": "https://github.com/OWASP/www-project-automated-threats-to-web-applications",
@@ -10395,6 +10491,7 @@
       "events_url": "https://api.github.com/users/OWASP/events{/privacy}",
       "received_events_url": "https://api.github.com/users/OWASP/received_events",
       "type": "Organization",
+      "user_view_type": "public",
       "site_admin": false
     },
     "html_url": "https://github.com/OWASP/www-project-belva",
@@ -10502,6 +10599,7 @@
       "events_url": "https://api.github.com/users/OWASP/events{/privacy}",
       "received_events_url": "https://api.github.com/users/OWASP/received_events",
       "type": "Organization",
+      "user_view_type": "public",
       "site_admin": false
     },
     "html_url": "https://github.com/OWASP/www-project-rat",
@@ -10609,6 +10707,7 @@
       "events_url": "https://api.github.com/users/OWASP/events{/privacy}",
       "received_events_url": "https://api.github.com/users/OWASP/received_events",
       "type": "Organization",
+      "user_view_type": "public",
       "site_admin": false
     },
     "html_url": "https://github.com/OWASP/www-project-zsc-tool",
@@ -10716,6 +10815,7 @@
       "events_url": "https://api.github.com/users/OWASP/events{/privacy}",
       "received_events_url": "https://api.github.com/users/OWASP/received_events",
       "type": "Organization",
+      "user_view_type": "public",
       "site_admin": false
     },
     "html_url": "https://github.com/OWASP/www-project-defectdojo",
@@ -10823,6 +10923,7 @@
       "events_url": "https://api.github.com/users/OWASP/events{/privacy}",
       "received_events_url": "https://api.github.com/users/OWASP/received_events",
       "type": "Organization",
+      "user_view_type": "public",
       "site_admin": false
     },
     "html_url": "https://github.com/OWASP/www-project-security-logging",
@@ -10930,6 +11031,7 @@
       "events_url": "https://api.github.com/users/OWASP/events{/privacy}",
       "received_events_url": "https://api.github.com/users/OWASP/received_events",
       "type": "Organization",
+      "user_view_type": "public",
       "site_admin": false
     },
     "html_url": "https://github.com/OWASP/www-project-threat-dragon",
@@ -11047,6 +11149,7 @@
       "events_url": "https://api.github.com/users/OWASP/events{/privacy}",
       "received_events_url": "https://api.github.com/users/OWASP/received_events",
       "type": "Organization",
+      "user_view_type": "public",
       "site_admin": false
     },
     "html_url": "https://github.com/OWASP/www-project-game-security-framework",
@@ -11154,6 +11257,7 @@
       "events_url": "https://api.github.com/users/OWASP/events{/privacy}",
       "received_events_url": "https://api.github.com/users/OWASP/received_events",
       "type": "Organization",
+      "user_view_type": "public",
       "site_admin": false
     },
     "html_url": "https://github.com/OWASP/www-project-webspa",
@@ -11261,6 +11365,7 @@
       "events_url": "https://api.github.com/users/OWASP/events{/privacy}",
       "received_events_url": "https://api.github.com/users/OWASP/received_events",
       "type": "Organization",
+      "user_view_type": "public",
       "site_admin": false
     },
     "html_url": "https://github.com/OWASP/www-project-off-the-record-4-java",
@@ -11368,6 +11473,7 @@
       "events_url": "https://api.github.com/users/OWASP/events{/privacy}",
       "received_events_url": "https://api.github.com/users/OWASP/received_events",
       "type": "Organization",
+      "user_view_type": "public",
       "site_admin": false
     },
     "html_url": "https://github.com/OWASP/www-project-web-mapper",
@@ -11475,6 +11581,7 @@
       "events_url": "https://api.github.com/users/OWASP/events{/privacy}",
       "received_events_url": "https://api.github.com/users/OWASP/received_events",
       "type": "Organization",
+      "user_view_type": "public",
       "site_admin": false
     },
     "html_url": "https://github.com/OWASP/www-project-deepviolet-tls-ssl-scanner",
@@ -11582,6 +11689,7 @@
       "events_url": "https://api.github.com/users/OWASP/events{/privacy}",
       "received_events_url": "https://api.github.com/users/OWASP/received_events",
       "type": "Organization",
+      "user_view_type": "public",
       "site_admin": false
     },
     "html_url": "https://github.com/OWASP/www-project-vbscan",
@@ -11689,6 +11797,7 @@
       "events_url": "https://api.github.com/users/OWASP/events{/privacy}",
       "received_events_url": "https://api.github.com/users/OWASP/received_events",
       "type": "Organization",
+      "user_view_type": "public",
       "site_admin": false
     },
     "html_url": "https://github.com/OWASP/www-project-internet-of-things-top-10",
@@ -11796,6 +11905,7 @@
       "events_url": "https://api.github.com/users/OWASP/events{/privacy}",
       "received_events_url": "https://api.github.com/users/OWASP/received_events",
       "type": "Organization",
+      "user_view_type": "public",
       "site_admin": false
     },
     "html_url": "https://github.com/OWASP/www-project-code-pulse",
@@ -11903,6 +12013,7 @@
       "events_url": "https://api.github.com/users/OWASP/events{/privacy}",
       "received_events_url": "https://api.github.com/users/OWASP/received_events",
       "type": "Organization",
+      "user_view_type": "public",
       "site_admin": false
     },
     "html_url": "https://github.com/OWASP/www-project-secure-medical-device-deployment-standard",
@@ -12010,6 +12121,7 @@
       "events_url": "https://api.github.com/users/OWASP/events{/privacy}",
       "received_events_url": "https://api.github.com/users/OWASP/received_events",
       "type": "Organization",
+      "user_view_type": "public",
       "site_admin": false
     },
     "html_url": "https://github.com/OWASP/www-project-jotp",
@@ -12117,6 +12229,7 @@
       "events_url": "https://api.github.com/users/OWASP/events{/privacy}",
       "received_events_url": "https://api.github.com/users/OWASP/received_events",
       "type": "Organization",
+      "user_view_type": "public",
       "site_admin": false
     },
     "html_url": "https://github.com/OWASP/www-project-incident-response",
@@ -12224,6 +12337,7 @@
       "events_url": "https://api.github.com/users/OWASP/events{/privacy}",
       "received_events_url": "https://api.github.com/users/OWASP/received_events",
       "type": "Organization",
+      "user_view_type": "public",
       "site_admin": false
     },
     "html_url": "https://github.com/OWASP/www-project-pyttacker",
@@ -12331,6 +12445,7 @@
       "events_url": "https://api.github.com/users/OWASP/events{/privacy}",
       "received_events_url": "https://api.github.com/users/OWASP/received_events",
       "type": "Organization",
+      "user_view_type": "public",
       "site_admin": false
     },
     "html_url": "https://github.com/OWASP/www-project-appsec-pipeline",
@@ -12438,6 +12553,7 @@
       "events_url": "https://api.github.com/users/OWASP/events{/privacy}",
       "received_events_url": "https://api.github.com/users/OWASP/received_events",
       "type": "Organization",
+      "user_view_type": "public",
       "site_admin": false
     },
     "html_url": "https://github.com/OWASP/www-project-secure-headers",
@@ -12556,6 +12672,7 @@
       "events_url": "https://api.github.com/users/OWASP/events{/privacy}",
       "received_events_url": "https://api.github.com/users/OWASP/received_events",
       "type": "Organization",
+      "user_view_type": "public",
       "site_admin": false
     },
     "html_url": "https://github.com/OWASP/www-project-php-security-training",
@@ -12663,6 +12780,7 @@
       "events_url": "https://api.github.com/users/OWASP/events{/privacy}",
       "received_events_url": "https://api.github.com/users/OWASP/received_events",
       "type": "Organization",
+      "user_view_type": "public",
       "site_admin": false
     },
     "html_url": "https://github.com/OWASP/www-project-mobile-app-security",
@@ -12770,6 +12888,7 @@
       "events_url": "https://api.github.com/users/OWASP/events{/privacy}",
       "received_events_url": "https://api.github.com/users/OWASP/received_events",
       "type": "Organization",
+      "user_view_type": "public",
       "site_admin": false
     },
     "html_url": "https://github.com/OWASP/www-project-mth3l3m3nt-framework",
@@ -12877,6 +12996,7 @@
       "events_url": "https://api.github.com/users/OWASP/events{/privacy}",
       "received_events_url": "https://api.github.com/users/OWASP/received_events",
       "type": "Organization",
+      "user_view_type": "public",
       "site_admin": false
     },
     "html_url": "https://github.com/OWASP/www-project-seraphimdroid",
@@ -12984,6 +13104,7 @@
       "events_url": "https://api.github.com/users/OWASP/events{/privacy}",
       "received_events_url": "https://api.github.com/users/OWASP/received_events",
       "type": "Organization",
+      "user_view_type": "public",
       "site_admin": false
     },
     "html_url": "https://github.com/OWASP/www-project-o-saft",
@@ -13091,6 +13212,7 @@
       "events_url": "https://api.github.com/users/OWASP/events{/privacy}",
       "received_events_url": "https://api.github.com/users/OWASP/received_events",
       "type": "Organization",
+      "user_view_type": "public",
       "site_admin": false
     },
     "html_url": "https://github.com/OWASP/www-project-reverse-engineering-and-code-modification-prevention",
@@ -13198,6 +13320,7 @@
       "events_url": "https://api.github.com/users/OWASP/events{/privacy}",
       "received_events_url": "https://api.github.com/users/OWASP/received_events",
       "type": "Organization",
+      "user_view_type": "public",
       "site_admin": false
     },
     "html_url": "https://github.com/OWASP/www-project-snakes-and-ladders",
@@ -13305,6 +13428,7 @@
       "events_url": "https://api.github.com/users/OWASP/events{/privacy}",
       "received_events_url": "https://api.github.com/users/OWASP/received_events",
       "type": "Organization",
+      "user_view_type": "public",
       "site_admin": false
     },
     "html_url": "https://github.com/OWASP/www-project-python-security",
@@ -13412,6 +13536,7 @@
       "events_url": "https://api.github.com/users/OWASP/events{/privacy}",
       "received_events_url": "https://api.github.com/users/OWASP/received_events",
       "type": "Organization",
+      "user_view_type": "public",
       "site_admin": false
     },
     "html_url": "https://github.com/OWASP/www-project-knowledge-based-authentication-performance-metrics",
@@ -13519,6 +13644,7 @@
       "events_url": "https://api.github.com/users/OWASP/events{/privacy}",
       "received_events_url": "https://api.github.com/users/OWASP/received_events",
       "type": "Organization",
+      "user_view_type": "public",
       "site_admin": false
     },
     "html_url": "https://github.com/OWASP/www-project-dependency-check",
@@ -13626,6 +13752,7 @@
       "events_url": "https://api.github.com/users/OWASP/events{/privacy}",
       "received_events_url": "https://api.github.com/users/OWASP/received_events",
       "type": "Organization",
+      "user_view_type": "public",
       "site_admin": false
     },
     "html_url": "https://github.com/OWASP/www-project-anti-ransomware-guide",
@@ -13733,6 +13860,7 @@
       "events_url": "https://api.github.com/users/OWASP/events{/privacy}",
       "received_events_url": "https://api.github.com/users/OWASP/received_events",
       "type": "Organization",
+      "user_view_type": "public",
       "site_admin": false
     },
     "html_url": "https://github.com/OWASP/www-project-embedded-application-security",
@@ -13840,6 +13968,7 @@
       "events_url": "https://api.github.com/users/OWASP/events{/privacy}",
       "received_events_url": "https://api.github.com/users/OWASP/received_events",
       "type": "Organization",
+      "user_view_type": "public",
       "site_admin": false
     },
     "html_url": "https://github.com/OWASP/www-project-podcast",
@@ -13947,6 +14076,7 @@
       "events_url": "https://api.github.com/users/OWASP/events{/privacy}",
       "received_events_url": "https://api.github.com/users/OWASP/received_events",
       "type": "Organization",
+      "user_view_type": "public",
       "site_admin": false
     },
     "html_url": "https://github.com/OWASP/www-project-broken-web-applications",
@@ -14054,6 +14184,7 @@
       "events_url": "https://api.github.com/users/OWASP/events{/privacy}",
       "received_events_url": "https://api.github.com/users/OWASP/received_events",
       "type": "Organization",
+      "user_view_type": "public",
       "site_admin": false
     },
     "html_url": "https://github.com/OWASP/www-project-virtual-patching-best-practices",
@@ -14161,6 +14292,7 @@
       "events_url": "https://api.github.com/users/OWASP/events{/privacy}",
       "received_events_url": "https://api.github.com/users/OWASP/received_events",
       "type": "Organization",
+      "user_view_type": "public",
       "site_admin": false
     },
     "html_url": "https://github.com/OWASP/www-project-vicnum",
@@ -14268,6 +14400,7 @@
       "events_url": "https://api.github.com/users/OWASP/events{/privacy}",
       "received_events_url": "https://api.github.com/users/OWASP/received_events",
       "type": "Organization",
+      "user_view_type": "public",
       "site_admin": false
     },
     "html_url": "https://github.com/OWASP/www-project-ctf",
@@ -14375,6 +14508,7 @@
       "events_url": "https://api.github.com/users/OWASP/events{/privacy}",
       "received_events_url": "https://api.github.com/users/OWASP/received_events",
       "type": "Organization",
+      "user_view_type": "public",
       "site_admin": false
     },
     "html_url": "https://github.com/OWASP/www-project-.net",
@@ -14482,6 +14616,7 @@
       "events_url": "https://api.github.com/users/OWASP/events{/privacy}",
       "received_events_url": "https://api.github.com/users/OWASP/received_events",
       "type": "Organization",
+      "user_view_type": "public",
       "site_admin": false
     },
     "html_url": "https://github.com/OWASP/www-project-mobile-security",
@@ -14589,6 +14724,7 @@
       "events_url": "https://api.github.com/users/OWASP/events{/privacy}",
       "received_events_url": "https://api.github.com/users/OWASP/received_events",
       "type": "Organization",
+      "user_view_type": "public",
       "site_admin": false
     },
     "html_url": "https://github.com/OWASP/www-project-python-honeypot",
@@ -14696,6 +14832,7 @@
       "events_url": "https://api.github.com/users/OWASP/events{/privacy}",
       "received_events_url": "https://api.github.com/users/OWASP/received_events",
       "type": "Organization",
+      "user_view_type": "public",
       "site_admin": false
     },
     "html_url": "https://github.com/OWASP/www-project-dvsa",
@@ -14803,6 +14940,7 @@
       "events_url": "https://api.github.com/users/OWASP/events{/privacy}",
       "received_events_url": "https://api.github.com/users/OWASP/received_events",
       "type": "Organization",
+      "user_view_type": "public",
       "site_admin": false
     },
     "html_url": "https://github.com/OWASP/www-project-cloud-testing-guide",
@@ -14910,6 +15048,7 @@
       "events_url": "https://api.github.com/users/OWASP/events{/privacy}",
       "received_events_url": "https://api.github.com/users/OWASP/received_events",
       "type": "Organization",
+      "user_view_type": "public",
       "site_admin": false
     },
     "html_url": "https://github.com/OWASP/www-project-intelligent-intrusion-detection-system",
@@ -15017,6 +15156,7 @@
       "events_url": "https://api.github.com/users/OWASP/events{/privacy}",
       "received_events_url": "https://api.github.com/users/OWASP/received_events",
       "type": "Organization",
+      "user_view_type": "public",
       "site_admin": false
     },
     "html_url": "https://github.com/OWASP/www-project-auth",
@@ -15124,6 +15264,7 @@
       "events_url": "https://api.github.com/users/OWASP/events{/privacy}",
       "received_events_url": "https://api.github.com/users/OWASP/received_events",
       "type": "Organization",
+      "user_view_type": "public",
       "site_admin": false
     },
     "html_url": "https://github.com/OWASP/www-project-securecodebox",
@@ -15231,6 +15372,7 @@
       "events_url": "https://api.github.com/users/OWASP/events{/privacy}",
       "received_events_url": "https://api.github.com/users/OWASP/received_events",
       "type": "Organization",
+      "user_view_type": "public",
       "site_admin": false
     },
     "html_url": "https://github.com/OWASP/www-project-google-assistant",
@@ -15338,6 +15480,7 @@
       "events_url": "https://api.github.com/users/OWASP/events{/privacy}",
       "received_events_url": "https://api.github.com/users/OWASP/received_events",
       "type": "Organization",
+      "user_view_type": "public",
       "site_admin": false
     },
     "html_url": "https://github.com/OWASP/www-project-securityrat",
@@ -15445,6 +15588,7 @@
       "events_url": "https://api.github.com/users/OWASP/events{/privacy}",
       "received_events_url": "https://api.github.com/users/OWASP/received_events",
       "type": "Organization",
+      "user_view_type": "public",
       "site_admin": false
     },
     "html_url": "https://github.com/OWASP/www-project-devslop",
@@ -15552,6 +15696,7 @@
       "events_url": "https://api.github.com/users/OWASP/events{/privacy}",
       "received_events_url": "https://api.github.com/users/OWASP/received_events",
       "type": "Organization",
+      "user_view_type": "public",
       "site_admin": false
     },
     "html_url": "https://github.com/OWASP/www-project-mobile-top-10",
@@ -15659,6 +15804,7 @@
       "events_url": "https://api.github.com/users/OWASP/events{/privacy}",
       "received_events_url": "https://api.github.com/users/OWASP/received_events",
       "type": "Organization",
+      "user_view_type": "public",
       "site_admin": false
     },
     "html_url": "https://github.com/OWASP/www-project-securetea",
@@ -15766,6 +15912,7 @@
       "events_url": "https://api.github.com/users/OWASP/events{/privacy}",
       "received_events_url": "https://api.github.com/users/OWASP/received_events",
       "type": "Organization",
+      "user_view_type": "public",
       "site_admin": false
     },
     "html_url": "https://github.com/OWASP/www-project-internet-of-things",
@@ -15873,6 +16020,7 @@
       "events_url": "https://api.github.com/users/OWASP/events{/privacy}",
       "received_events_url": "https://api.github.com/users/OWASP/received_events",
       "type": "Organization",
+      "user_view_type": "public",
       "site_admin": false
     },
     "html_url": "https://github.com/OWASP/www-project-honeypot",
@@ -15983,6 +16131,7 @@
       "events_url": "https://api.github.com/users/OWASP/events{/privacy}",
       "received_events_url": "https://api.github.com/users/OWASP/received_events",
       "type": "Organization",
+      "user_view_type": "public",
       "site_admin": false
     },
     "html_url": "https://github.com/OWASP/www-project-seeker",
@@ -16090,6 +16239,7 @@
       "events_url": "https://api.github.com/users/OWASP/events{/privacy}",
       "received_events_url": "https://api.github.com/users/OWASP/received_events",
       "type": "Organization",
+      "user_view_type": "public",
       "site_admin": false
     },
     "html_url": "https://github.com/OWASP/www-project-integration-standards",
@@ -16197,6 +16347,7 @@
       "events_url": "https://api.github.com/users/OWASP/events{/privacy}",
       "received_events_url": "https://api.github.com/users/OWASP/received_events",
       "type": "Organization",
+      "user_view_type": "public",
       "site_admin": false
     },
     "html_url": "https://github.com/OWASP/www-project-sidekek",
@@ -16304,6 +16455,7 @@
       "events_url": "https://api.github.com/users/OWASP/events{/privacy}",
       "received_events_url": "https://api.github.com/users/OWASP/received_events",
       "type": "Organization",
+      "user_view_type": "public",
       "site_admin": false
     },
     "html_url": "https://github.com/OWASP/www-project-timegap-theory",
@@ -16411,6 +16563,7 @@
       "events_url": "https://api.github.com/users/OWASP/events{/privacy}",
       "received_events_url": "https://api.github.com/users/OWASP/received_events",
       "type": "Organization",
+      "user_view_type": "public",
       "site_admin": false
     },
     "html_url": "https://github.com/OWASP/www-project-antisamy",
@@ -16518,6 +16671,7 @@
       "events_url": "https://api.github.com/users/OWASP/events{/privacy}",
       "received_events_url": "https://api.github.com/users/OWASP/received_events",
       "type": "Organization",
+      "user_view_type": "public",
       "site_admin": false
     },
     "html_url": "https://github.com/OWASP/www-project-csrfprotector",
@@ -16630,6 +16784,7 @@
       "events_url": "https://api.github.com/users/OWASP/events{/privacy}",
       "received_events_url": "https://api.github.com/users/OWASP/received_events",
       "type": "Organization",
+      "user_view_type": "public",
       "site_admin": false
     },
     "html_url": "https://github.com/OWASP/www-project-cyber-defense-matrix",
@@ -16743,6 +16898,7 @@
       "events_url": "https://api.github.com/users/OWASP/events{/privacy}",
       "received_events_url": "https://api.github.com/users/OWASP/received_events",
       "type": "Organization",
+      "user_view_type": "public",
       "site_admin": false
     },
     "html_url": "https://github.com/OWASP/www-project-developer-guide",
@@ -16859,6 +17015,7 @@
       "events_url": "https://api.github.com/users/OWASP/events{/privacy}",
       "received_events_url": "https://api.github.com/users/OWASP/received_events",
       "type": "Organization",
+      "user_view_type": "public",
       "site_admin": false
     },
     "html_url": "https://github.com/OWASP/www-project-iot-security-verification-standard",
@@ -16966,6 +17123,7 @@
       "events_url": "https://api.github.com/users/OWASP/events{/privacy}",
       "received_events_url": "https://api.github.com/users/OWASP/received_events",
       "type": "Organization",
+      "user_view_type": "public",
       "site_admin": false
     },
     "html_url": "https://github.com/OWASP/www-project-sso",
@@ -17073,6 +17231,7 @@
       "events_url": "https://api.github.com/users/OWASP/events{/privacy}",
       "received_events_url": "https://api.github.com/users/OWASP/received_events",
       "type": "Organization",
+      "user_view_type": "public",
       "site_admin": false
     },
     "html_url": "https://github.com/OWASP/www-project-threat-model",
@@ -17180,6 +17339,7 @@
       "events_url": "https://api.github.com/users/OWASP/events{/privacy}",
       "received_events_url": "https://api.github.com/users/OWASP/received_events",
       "type": "Organization",
+      "user_view_type": "public",
       "site_admin": false
     },
     "html_url": "https://github.com/OWASP/www-project-thick-client-top-10",
@@ -17287,6 +17447,7 @@
       "events_url": "https://api.github.com/users/OWASP/events{/privacy}",
       "received_events_url": "https://api.github.com/users/OWASP/received_events",
       "type": "Organization",
+      "user_view_type": "public",
       "site_admin": false
     },
     "html_url": "https://github.com/OWASP/www-project-vulnerableapp",
@@ -17394,6 +17555,7 @@
       "events_url": "https://api.github.com/users/OWASP/events{/privacy}",
       "received_events_url": "https://api.github.com/users/OWASP/received_events",
       "type": "Organization",
+      "user_view_type": "public",
       "site_admin": false
     },
     "html_url": "https://github.com/OWASP/www-project-redteam-toolkit",
@@ -17501,6 +17663,7 @@
       "events_url": "https://api.github.com/users/OWASP/events{/privacy}",
       "received_events_url": "https://api.github.com/users/OWASP/received_events",
       "type": "Organization",
+      "user_view_type": "public",
       "site_admin": false
     },
     "html_url": "https://github.com/OWASP/www-project-automotive-emb-60",
@@ -17608,6 +17771,7 @@
       "events_url": "https://api.github.com/users/OWASP/events{/privacy}",
       "received_events_url": "https://api.github.com/users/OWASP/received_events",
       "type": "Organization",
+      "user_view_type": "public",
       "site_admin": false
     },
     "html_url": "https://github.com/OWASP/www-project-jvmxray",
@@ -17715,6 +17879,7 @@
       "events_url": "https://api.github.com/users/OWASP/events{/privacy}",
       "received_events_url": "https://api.github.com/users/OWASP/received_events",
       "type": "Organization",
+      "user_view_type": "public",
       "site_admin": false
     },
     "html_url": "https://github.com/OWASP/www-project-secureflag-open-platform",
@@ -17827,6 +17992,7 @@
       "events_url": "https://api.github.com/users/OWASP/events{/privacy}",
       "received_events_url": "https://api.github.com/users/OWASP/received_events",
       "type": "Organization",
+      "user_view_type": "public",
       "site_admin": false
     },
     "html_url": "https://github.com/OWASP/www-project-pygoat",
@@ -17934,6 +18100,7 @@
       "events_url": "https://api.github.com/users/OWASP/events{/privacy}",
       "received_events_url": "https://api.github.com/users/OWASP/received_events",
       "type": "Organization",
+      "user_view_type": "public",
       "site_admin": false
     },
     "html_url": "https://github.com/OWASP/www-project-core-business-application-security",
@@ -18047,6 +18214,7 @@
       "events_url": "https://api.github.com/users/OWASP/events{/privacy}",
       "received_events_url": "https://api.github.com/users/OWASP/received_events",
       "type": "Organization",
+      "user_view_type": "public",
       "site_admin": false
     },
     "html_url": "https://github.com/OWASP/www-project-access-log-parser",
@@ -18160,6 +18328,7 @@
       "events_url": "https://api.github.com/users/OWASP/events{/privacy}",
       "received_events_url": "https://api.github.com/users/OWASP/received_events",
       "type": "Organization",
+      "user_view_type": "public",
       "site_admin": false
     },
     "html_url": "https://github.com/OWASP/www-project-cyber-controls-matrix",
@@ -18273,6 +18442,7 @@
       "events_url": "https://api.github.com/users/OWASP/events{/privacy}",
       "received_events_url": "https://api.github.com/users/OWASP/received_events",
       "type": "Organization",
+      "user_view_type": "public",
       "site_admin": false
     },
     "html_url": "https://github.com/OWASP/www-project-winfim.net",
@@ -18386,6 +18556,7 @@
       "events_url": "https://api.github.com/users/OWASP/events{/privacy}",
       "received_events_url": "https://api.github.com/users/OWASP/received_events",
       "type": "Organization",
+      "user_view_type": "public",
       "site_admin": false
     },
     "html_url": "https://github.com/OWASP/www-project-devsecops-guideline",
@@ -18446,7 +18617,7 @@
     "has_wiki": true,
     "has_pages": true,
     "has_discussions": false,
-    "forks_count": 30,
+    "forks_count": 29,
     "mirror_url": null,
     "archived": false,
     "disabled": false,
@@ -18457,7 +18628,7 @@
     "web_commit_signoff_required": false,
     "topics": [],
     "visibility": "public",
-    "forks": 30,
+    "forks": 29,
     "open_issues": 14,
     "watchers": 60,
     "default_branch": "master",
@@ -18493,6 +18664,7 @@
       "events_url": "https://api.github.com/users/OWASP/events{/privacy}",
       "received_events_url": "https://api.github.com/users/OWASP/received_events",
       "type": "Organization",
+      "user_view_type": "public",
       "site_admin": false
     },
     "html_url": "https://github.com/OWASP/www-project-dpd",
@@ -18600,6 +18772,7 @@
       "events_url": "https://api.github.com/users/OWASP/events{/privacy}",
       "received_events_url": "https://api.github.com/users/OWASP/received_events",
       "type": "Organization",
+      "user_view_type": "public",
       "site_admin": false
     },
     "html_url": "https://github.com/OWASP/www-project-cyber-security-enterprise-operations-architecture",
@@ -18707,6 +18880,7 @@
       "events_url": "https://api.github.com/users/OWASP/events{/privacy}",
       "received_events_url": "https://api.github.com/users/OWASP/received_events",
       "type": "Organization",
+      "user_view_type": "public",
       "site_admin": false
     },
     "html_url": "https://github.com/OWASP/www-project-drill",
@@ -18814,6 +18988,7 @@
       "events_url": "https://api.github.com/users/OWASP/events{/privacy}",
       "received_events_url": "https://api.github.com/users/OWASP/received_events",
       "type": "Organization",
+      "user_view_type": "public",
       "site_admin": false
     },
     "html_url": "https://github.com/OWASP/www-project-android-security-inspector-toolkit",
@@ -18921,6 +19096,7 @@
       "events_url": "https://api.github.com/users/OWASP/events{/privacy}",
       "received_events_url": "https://api.github.com/users/OWASP/received_events",
       "type": "Organization",
+      "user_view_type": "public",
       "site_admin": false
     },
     "html_url": "https://github.com/OWASP/www-project-kubernetes-security-testing-guide",
@@ -19028,6 +19204,7 @@
       "events_url": "https://api.github.com/users/OWASP/events{/privacy}",
       "received_events_url": "https://api.github.com/users/OWASP/received_events",
       "type": "Organization",
+      "user_view_type": "public",
       "site_admin": false
     },
     "html_url": "https://github.com/OWASP/www-project-security-resource-framework",
@@ -19135,6 +19312,7 @@
       "events_url": "https://api.github.com/users/OWASP/events{/privacy}",
       "received_events_url": "https://api.github.com/users/OWASP/received_events",
       "type": "Organization",
+      "user_view_type": "public",
       "site_admin": false
     },
     "html_url": "https://github.com/OWASP/www-project-mitm-guard",
@@ -19242,6 +19420,7 @@
       "events_url": "https://api.github.com/users/OWASP/events{/privacy}",
       "received_events_url": "https://api.github.com/users/OWASP/received_events",
       "type": "Organization",
+      "user_view_type": "public",
       "site_admin": false
     },
     "html_url": "https://github.com/OWASP/www-project-watiqay",
@@ -19349,6 +19528,7 @@
       "events_url": "https://api.github.com/users/OWASP/events{/privacy}",
       "received_events_url": "https://api.github.com/users/OWASP/received_events",
       "type": "Organization",
+      "user_view_type": "public",
       "site_admin": false
     },
     "html_url": "https://github.com/OWASP/www-project-cloud-native-security-project",
@@ -19456,6 +19636,7 @@
       "events_url": "https://api.github.com/users/OWASP/events{/privacy}",
       "received_events_url": "https://api.github.com/users/OWASP/received_events",
       "type": "Organization",
+      "user_view_type": "public",
       "site_admin": false
     },
     "html_url": "https://github.com/OWASP/www-project-big-data",
@@ -19563,6 +19744,7 @@
       "events_url": "https://api.github.com/users/OWASP/events{/privacy}",
       "received_events_url": "https://api.github.com/users/OWASP/received_events",
       "type": "Organization",
+      "user_view_type": "public",
       "site_admin": false
     },
     "html_url": "https://github.com/OWASP/www-project-security-qualitative-metrics",
@@ -19676,6 +19858,7 @@
       "events_url": "https://api.github.com/users/OWASP/events{/privacy}",
       "received_events_url": "https://api.github.com/users/OWASP/received_events",
       "type": "Organization",
+      "user_view_type": "public",
       "site_admin": false
     },
     "html_url": "https://github.com/OWASP/www-project-cwe-toolkit",
@@ -19783,6 +19966,7 @@
       "events_url": "https://api.github.com/users/OWASP/events{/privacy}",
       "received_events_url": "https://api.github.com/users/OWASP/received_events",
       "type": "Organization",
+      "user_view_type": "public",
       "site_admin": false
     },
     "html_url": "https://github.com/OWASP/www-project-cloud-security-testing-guide",
@@ -19890,6 +20074,7 @@
       "events_url": "https://api.github.com/users/OWASP/events{/privacy}",
       "received_events_url": "https://api.github.com/users/OWASP/received_events",
       "type": "Organization",
+      "user_view_type": "public",
       "site_admin": false
     },
     "html_url": "https://github.com/OWASP/www-project-cyber-scavenger-hunt",
@@ -19997,6 +20182,7 @@
       "events_url": "https://api.github.com/users/OWASP/events{/privacy}",
       "received_events_url": "https://api.github.com/users/OWASP/received_events",
       "type": "Organization",
+      "user_view_type": "public",
       "site_admin": false
     },
     "html_url": "https://github.com/OWASP/www-project-awscanner",
@@ -20104,6 +20290,7 @@
       "events_url": "https://api.github.com/users/OWASP/events{/privacy}",
       "received_events_url": "https://api.github.com/users/OWASP/received_events",
       "type": "Organization",
+      "user_view_type": "public",
       "site_admin": false
     },
     "html_url": "https://github.com/OWASP/www-project-asvs-graph",
@@ -20211,6 +20398,7 @@
       "events_url": "https://api.github.com/users/OWASP/events{/privacy}",
       "received_events_url": "https://api.github.com/users/OWASP/received_events",
       "type": "Organization",
+      "user_view_type": "public",
       "site_admin": false
     },
     "html_url": "https://github.com/OWASP/www-project-securebank",
@@ -20318,6 +20506,7 @@
       "events_url": "https://api.github.com/users/OWASP/events{/privacy}",
       "received_events_url": "https://api.github.com/users/OWASP/received_events",
       "type": "Organization",
+      "user_view_type": "public",
       "site_admin": false
     },
     "html_url": "https://github.com/OWASP/www-project-sectudo",
@@ -20425,6 +20614,7 @@
       "events_url": "https://api.github.com/users/OWASP/events{/privacy}",
       "received_events_url": "https://api.github.com/users/OWASP/received_events",
       "type": "Organization",
+      "user_view_type": "public",
       "site_admin": false
     },
     "html_url": "https://github.com/OWASP/www-project-torbot",
@@ -20532,6 +20722,7 @@
       "events_url": "https://api.github.com/users/OWASP/events{/privacy}",
       "received_events_url": "https://api.github.com/users/OWASP/received_events",
       "type": "Organization",
+      "user_view_type": "public",
       "site_admin": false
     },
     "html_url": "https://github.com/OWASP/www-project-ontology-driven-threat-modeling-framework",
@@ -20639,6 +20830,7 @@
       "events_url": "https://api.github.com/users/OWASP/events{/privacy}",
       "received_events_url": "https://api.github.com/users/OWASP/received_events",
       "type": "Organization",
+      "user_view_type": "public",
       "site_admin": false
     },
     "html_url": "https://github.com/OWASP/www-project-damn-vulnerable-thick-client-application",
@@ -20746,6 +20938,7 @@
       "events_url": "https://api.github.com/users/OWASP/events{/privacy}",
       "received_events_url": "https://api.github.com/users/OWASP/received_events",
       "type": "Organization",
+      "user_view_type": "public",
       "site_admin": false
     },
     "html_url": "https://github.com/OWASP/www-project-apicheck",
@@ -20853,6 +21046,7 @@
       "events_url": "https://api.github.com/users/OWASP/events{/privacy}",
       "received_events_url": "https://api.github.com/users/OWASP/received_events",
       "type": "Organization",
+      "user_view_type": "public",
       "site_admin": false
     },
     "html_url": "https://github.com/OWASP/www-project-threat-modeling-playbook",
@@ -20960,6 +21154,7 @@
       "events_url": "https://api.github.com/users/OWASP/events{/privacy}",
       "received_events_url": "https://api.github.com/users/OWASP/received_events",
       "type": "Organization",
+      "user_view_type": "public",
       "site_admin": false
     },
     "html_url": "https://github.com/OWASP/www-project-androgoat",
@@ -21067,6 +21262,7 @@
       "events_url": "https://api.github.com/users/OWASP/events{/privacy}",
       "received_events_url": "https://api.github.com/users/OWASP/received_events",
       "type": "Organization",
+      "user_view_type": "public",
       "site_admin": false
     },
     "html_url": "https://github.com/OWASP/www-project-forensics-testing-guide",
@@ -21174,6 +21370,7 @@
       "events_url": "https://api.github.com/users/OWASP/events{/privacy}",
       "received_events_url": "https://api.github.com/users/OWASP/received_events",
       "type": "Organization",
+      "user_view_type": "public",
       "site_admin": false
     },
     "html_url": "https://github.com/OWASP/www-project-scan-it",
@@ -21281,6 +21478,7 @@
       "events_url": "https://api.github.com/users/OWASP/events{/privacy}",
       "received_events_url": "https://api.github.com/users/OWASP/received_events",
       "type": "Organization",
+      "user_view_type": "public",
       "site_admin": false
     },
     "html_url": "https://github.com/OWASP/www-project-joomscan",
@@ -21388,6 +21586,7 @@
       "events_url": "https://api.github.com/users/OWASP/events{/privacy}",
       "received_events_url": "https://api.github.com/users/OWASP/received_events",
       "type": "Organization",
+      "user_view_type": "public",
       "site_admin": false
     },
     "html_url": "https://github.com/OWASP/www-project-threat-and-safeguard-matrix",
@@ -21501,6 +21700,7 @@
       "events_url": "https://api.github.com/users/OWASP/events{/privacy}",
       "received_events_url": "https://api.github.com/users/OWASP/received_events",
       "type": "Organization",
+      "user_view_type": "public",
       "site_admin": false
     },
     "html_url": "https://github.com/OWASP/www-project-snow",
@@ -21608,6 +21808,7 @@
       "events_url": "https://api.github.com/users/OWASP/events{/privacy}",
       "received_events_url": "https://api.github.com/users/OWASP/received_events",
       "type": "Organization",
+      "user_view_type": "public",
       "site_admin": false
     },
     "html_url": "https://github.com/OWASP/www-project-secure-logging-benchmark",
@@ -21715,6 +21916,7 @@
       "events_url": "https://api.github.com/users/OWASP/events{/privacy}",
       "received_events_url": "https://api.github.com/users/OWASP/received_events",
       "type": "Organization",
+      "user_view_type": "public",
       "site_admin": false
     },
     "html_url": "https://github.com/OWASP/www-project-cyber-defense-framework",
@@ -21822,6 +22024,7 @@
       "events_url": "https://api.github.com/users/OWASP/events{/privacy}",
       "received_events_url": "https://api.github.com/users/OWASP/received_events",
       "type": "Organization",
+      "user_view_type": "public",
       "site_admin": false
     },
     "html_url": "https://github.com/OWASP/www-project-cloudsheep",
@@ -21929,6 +22132,7 @@
       "events_url": "https://api.github.com/users/OWASP/events{/privacy}",
       "received_events_url": "https://api.github.com/users/OWASP/received_events",
       "type": "Organization",
+      "user_view_type": "public",
       "site_admin": false
     },
     "html_url": "https://github.com/OWASP/www-project-crapi",
@@ -22036,6 +22240,7 @@
       "events_url": "https://api.github.com/users/OWASP/events{/privacy}",
       "received_events_url": "https://api.github.com/users/OWASP/received_events",
       "type": "Organization",
+      "user_view_type": "public",
       "site_admin": false
     },
     "html_url": "https://github.com/OWASP/www-project-mobile-audit",
@@ -22143,6 +22348,7 @@
       "events_url": "https://api.github.com/users/OWASP/events{/privacy}",
       "received_events_url": "https://api.github.com/users/OWASP/received_events",
       "type": "Organization",
+      "user_view_type": "public",
       "site_admin": false
     },
     "html_url": "https://github.com/OWASP/www-project-blockchain-distributed-infrastructure",
@@ -22250,6 +22456,7 @@
       "events_url": "https://api.github.com/users/OWASP/events{/privacy}",
       "received_events_url": "https://api.github.com/users/OWASP/received_events",
       "type": "Organization",
+      "user_view_type": "public",
       "site_admin": false
     },
     "html_url": "https://github.com/OWASP/www-project-damn-vulnerable-web-sockets",
@@ -22357,6 +22564,7 @@
       "events_url": "https://api.github.com/users/OWASP/events{/privacy}",
       "received_events_url": "https://api.github.com/users/OWASP/received_events",
       "type": "Organization",
+      "user_view_type": "public",
       "site_admin": false
     },
     "html_url": "https://github.com/OWASP/www-project-vulnerable-container-hub",
@@ -22464,6 +22672,7 @@
       "events_url": "https://api.github.com/users/OWASP/events{/privacy}",
       "received_events_url": "https://api.github.com/users/OWASP/received_events",
       "type": "Organization",
+      "user_view_type": "public",
       "site_admin": false
     },
     "html_url": "https://github.com/OWASP/www-project-application-gateway",
@@ -22571,6 +22780,7 @@
       "events_url": "https://api.github.com/users/OWASP/events{/privacy}",
       "received_events_url": "https://api.github.com/users/OWASP/received_events",
       "type": "Organization",
+      "user_view_type": "public",
       "site_admin": false
     },
     "html_url": "https://github.com/OWASP/www-project-laravel-goat",
@@ -22678,6 +22888,7 @@
       "events_url": "https://api.github.com/users/OWASP/events{/privacy}",
       "received_events_url": "https://api.github.com/users/OWASP/received_events",
       "type": "Organization",
+      "user_view_type": "public",
       "site_admin": false
     },
     "html_url": "https://github.com/OWASP/www-project-purpleteam",
@@ -22785,6 +22996,7 @@
       "events_url": "https://api.github.com/users/OWASP/events{/privacy}",
       "received_events_url": "https://api.github.com/users/OWASP/received_events",
       "type": "Organization",
+      "user_view_type": "public",
       "site_admin": false
     },
     "html_url": "https://github.com/OWASP/www-project-enterprise-devsecops",
@@ -22892,6 +23104,7 @@
       "events_url": "https://api.github.com/users/OWASP/events{/privacy}",
       "received_events_url": "https://api.github.com/users/OWASP/received_events",
       "type": "Organization",
+      "user_view_type": "public",
       "site_admin": false
     },
     "html_url": "https://github.com/OWASP/www-project-spotlight-series",
@@ -22999,6 +23212,7 @@
       "events_url": "https://api.github.com/users/OWASP/events{/privacy}",
       "received_events_url": "https://api.github.com/users/OWASP/received_events",
       "type": "Organization",
+      "user_view_type": "public",
       "site_admin": false
     },
     "html_url": "https://github.com/OWASP/www-project-open-appsec-tooling-api",
@@ -23106,6 +23320,7 @@
       "events_url": "https://api.github.com/users/OWASP/events{/privacy}",
       "received_events_url": "https://api.github.com/users/OWASP/received_events",
       "type": "Organization",
+      "user_view_type": "public",
       "site_admin": false
     },
     "html_url": "https://github.com/OWASP/www-project-how-to-get-into-appsec",
@@ -23213,6 +23428,7 @@
       "events_url": "https://api.github.com/users/OWASP/events{/privacy}",
       "received_events_url": "https://api.github.com/users/OWASP/received_events",
       "type": "Organization",
+      "user_view_type": "public",
       "site_admin": false
     },
     "html_url": "https://github.com/OWASP/www-project-desktop-app-security-top-10",
@@ -23326,6 +23542,7 @@
       "events_url": "https://api.github.com/users/OWASP/events{/privacy}",
       "received_events_url": "https://api.github.com/users/OWASP/received_events",
       "type": "Organization",
+      "user_view_type": "public",
       "site_admin": false
     },
     "html_url": "https://github.com/OWASP/www-project-top-10-client-side-security-risks",
@@ -23433,6 +23650,7 @@
       "events_url": "https://api.github.com/users/OWASP/events{/privacy}",
       "received_events_url": "https://api.github.com/users/OWASP/received_events",
       "type": "Organization",
+      "user_view_type": "public",
       "site_admin": false
     },
     "html_url": "https://github.com/OWASP/www-project-injectbot",
@@ -23540,6 +23758,7 @@
       "events_url": "https://api.github.com/users/OWASP/events{/privacy}",
       "received_events_url": "https://api.github.com/users/OWASP/received_events",
       "type": "Organization",
+      "user_view_type": "public",
       "site_admin": false
     },
     "html_url": "https://github.com/OWASP/www-project-cybersecurity-risk-register",
@@ -23647,6 +23866,7 @@
       "events_url": "https://api.github.com/users/OWASP/events{/privacy}",
       "received_events_url": "https://api.github.com/users/OWASP/received_events",
       "type": "Organization",
+      "user_view_type": "public",
       "site_admin": false
     },
     "html_url": "https://github.com/OWASP/www-project-financial-systems-security",
@@ -23754,6 +23974,7 @@
       "events_url": "https://api.github.com/users/OWASP/events{/privacy}",
       "received_events_url": "https://api.github.com/users/OWASP/received_events",
       "type": "Organization",
+      "user_view_type": "public",
       "site_admin": false
     },
     "html_url": "https://github.com/OWASP/www-project-appsec-minimum-requirements",
@@ -23861,6 +24082,7 @@
       "events_url": "https://api.github.com/users/OWASP/events{/privacy}",
       "received_events_url": "https://api.github.com/users/OWASP/received_events",
       "type": "Organization",
+      "user_view_type": "public",
       "site_admin": false
     },
     "html_url": "https://github.com/OWASP/www-project-security-culture",
@@ -23968,6 +24190,7 @@
       "events_url": "https://api.github.com/users/OWASP/events{/privacy}",
       "received_events_url": "https://api.github.com/users/OWASP/received_events",
       "type": "Organization",
+      "user_view_type": "public",
       "site_admin": false
     },
     "html_url": "https://github.com/OWASP/www-project-vulnerability-management-center",
@@ -24075,6 +24298,7 @@
       "events_url": "https://api.github.com/users/OWASP/events{/privacy}",
       "received_events_url": "https://api.github.com/users/OWASP/received_events",
       "type": "Organization",
+      "user_view_type": "public",
       "site_admin": false
     },
     "html_url": "https://github.com/OWASP/www-project-penetration-testing-kit",
@@ -24182,6 +24406,7 @@
       "events_url": "https://api.github.com/users/OWASP/events{/privacy}",
       "received_events_url": "https://api.github.com/users/OWASP/received_events",
       "type": "Organization",
+      "user_view_type": "public",
       "site_admin": false
     },
     "html_url": "https://github.com/OWASP/www-project-developer-outreach-program",
@@ -24295,6 +24520,7 @@
       "events_url": "https://api.github.com/users/OWASP/events{/privacy}",
       "received_events_url": "https://api.github.com/users/OWASP/received_events",
       "type": "Organization",
+      "user_view_type": "public",
       "site_admin": false
     },
     "html_url": "https://github.com/OWASP/www-project-ignita",
@@ -24408,6 +24634,7 @@
       "events_url": "https://api.github.com/users/OWASP/events{/privacy}",
       "received_events_url": "https://api.github.com/users/OWASP/received_events",
       "type": "Organization",
+      "user_view_type": "public",
       "site_admin": false
     },
     "html_url": "https://github.com/OWASP/www-project-vulnerableapp-facade",
@@ -24515,6 +24742,7 @@
       "events_url": "https://api.github.com/users/OWASP/events{/privacy}",
       "received_events_url": "https://api.github.com/users/OWASP/received_events",
       "type": "Organization",
+      "user_view_type": "public",
       "site_admin": false
     },
     "html_url": "https://github.com/OWASP/www-project-data-security-top-10",
@@ -24628,6 +24856,7 @@
       "events_url": "https://api.github.com/users/OWASP/events{/privacy}",
       "received_events_url": "https://api.github.com/users/OWASP/received_events",
       "type": "Organization",
+      "user_view_type": "public",
       "site_admin": false
     },
     "html_url": "https://github.com/OWASP/www-project-cyclonedx",
@@ -24735,6 +24964,7 @@
       "events_url": "https://api.github.com/users/OWASP/events{/privacy}",
       "received_events_url": "https://api.github.com/users/OWASP/received_events",
       "type": "Organization",
+      "user_view_type": "public",
       "site_admin": false
     },
     "html_url": "https://github.com/OWASP/www-project-application-security-hardening",
@@ -24842,6 +25072,7 @@
       "events_url": "https://api.github.com/users/OWASP/events{/privacy}",
       "received_events_url": "https://api.github.com/users/OWASP/received_events",
       "type": "Organization",
+      "user_view_type": "public",
       "site_admin": false
     },
     "html_url": "https://github.com/OWASP/www-project-barbarus",
@@ -24949,6 +25180,7 @@
       "events_url": "https://api.github.com/users/OWASP/events{/privacy}",
       "received_events_url": "https://api.github.com/users/OWASP/received_events",
       "type": "Organization",
+      "user_view_type": "public",
       "site_admin": false
     },
     "html_url": "https://github.com/OWASP/www-project-port-and-service-information",
@@ -25056,6 +25288,7 @@
       "events_url": "https://api.github.com/users/OWASP/events{/privacy}",
       "received_events_url": "https://api.github.com/users/OWASP/received_events",
       "type": "Organization",
+      "user_view_type": "public",
       "site_admin": false
     },
     "html_url": "https://github.com/OWASP/www-project-code-the-flag",
@@ -25163,6 +25396,7 @@
       "events_url": "https://api.github.com/users/OWASP/events{/privacy}",
       "received_events_url": "https://api.github.com/users/OWASP/received_events",
       "type": "Organization",
+      "user_view_type": "public",
       "site_admin": false
     },
     "html_url": "https://github.com/OWASP/www-project-it-grc",
@@ -25270,6 +25504,7 @@
       "events_url": "https://api.github.com/users/OWASP/events{/privacy}",
       "received_events_url": "https://api.github.com/users/OWASP/received_events",
       "type": "Organization",
+      "user_view_type": "public",
       "site_admin": false
     },
     "html_url": "https://github.com/OWASP/www-project-top-10-low-code-no-code-security-risks",
@@ -25392,6 +25627,7 @@
       "events_url": "https://api.github.com/users/OWASP/events{/privacy}",
       "received_events_url": "https://api.github.com/users/OWASP/received_events",
       "type": "Organization",
+      "user_view_type": "public",
       "site_admin": false
     },
     "html_url": "https://github.com/OWASP/www-project-g0rking",
@@ -25499,6 +25735,7 @@
       "events_url": "https://api.github.com/users/OWASP/events{/privacy}",
       "received_events_url": "https://api.github.com/users/OWASP/received_events",
       "type": "Organization",
+      "user_view_type": "public",
       "site_admin": false
     },
     "html_url": "https://github.com/OWASP/www-project-open-source-security-application-platform",
@@ -25615,6 +25852,7 @@
       "events_url": "https://api.github.com/users/OWASP/events{/privacy}",
       "received_events_url": "https://api.github.com/users/OWASP/received_events",
       "type": "Organization",
+      "user_view_type": "public",
       "site_admin": false
     },
     "html_url": "https://github.com/OWASP/www-project-raider",
@@ -25722,6 +25960,7 @@
       "events_url": "https://api.github.com/users/OWASP/events{/privacy}",
       "received_events_url": "https://api.github.com/users/OWASP/received_events",
       "type": "Organization",
+      "user_view_type": "public",
       "site_admin": false
     },
     "html_url": "https://github.com/OWASP/www-project-blend",
@@ -25829,6 +26068,7 @@
       "events_url": "https://api.github.com/users/OWASP/events{/privacy}",
       "received_events_url": "https://api.github.com/users/OWASP/received_events",
       "type": "Organization",
+      "user_view_type": "public",
       "site_admin": false
     },
     "html_url": "https://github.com/OWASP/www-project-thick-client-security-testing-guide",
@@ -25936,6 +26176,7 @@
       "events_url": "https://api.github.com/users/OWASP/events{/privacy}",
       "received_events_url": "https://api.github.com/users/OWASP/received_events",
       "type": "Organization",
+      "user_view_type": "public",
       "site_admin": false
     },
     "html_url": "https://github.com/OWASP/www-project-vue-3-password-input",
@@ -26043,6 +26284,7 @@
       "events_url": "https://api.github.com/users/OWASP/events{/privacy}",
       "received_events_url": "https://api.github.com/users/OWASP/received_events",
       "type": "Organization",
+      "user_view_type": "public",
       "site_admin": false
     },
     "html_url": "https://github.com/OWASP/www-project-wrongsecrets",
@@ -26150,6 +26392,7 @@
       "events_url": "https://api.github.com/users/OWASP/events{/privacy}",
       "received_events_url": "https://api.github.com/users/OWASP/received_events",
       "type": "Organization",
+      "user_view_type": "public",
       "site_admin": false
     },
     "html_url": "https://github.com/OWASP/www-project-vitcc-open-source-initiative",
@@ -26257,6 +26500,7 @@
       "events_url": "https://api.github.com/users/OWASP/events{/privacy}",
       "received_events_url": "https://api.github.com/users/OWASP/received_events",
       "type": "Organization",
+      "user_view_type": "public",
       "site_admin": false
     },
     "html_url": "https://github.com/OWASP/www-project-mutillidae-ii",
@@ -26364,6 +26608,7 @@
       "events_url": "https://api.github.com/users/OWASP/events{/privacy}",
       "received_events_url": "https://api.github.com/users/OWASP/received_events",
       "type": "Organization",
+      "user_view_type": "public",
       "site_admin": false
     },
     "html_url": "https://github.com/OWASP/www-project-nightingale",
@@ -26471,6 +26716,7 @@
       "events_url": "https://api.github.com/users/OWASP/events{/privacy}",
       "received_events_url": "https://api.github.com/users/OWASP/received_events",
       "type": "Organization",
+      "user_view_type": "public",
       "site_admin": false
     },
     "html_url": "https://github.com/OWASP/www-project-nasi-lemak",
@@ -26578,6 +26824,7 @@
       "events_url": "https://api.github.com/users/OWASP/events{/privacy}",
       "received_events_url": "https://api.github.com/users/OWASP/received_events",
       "type": "Organization",
+      "user_view_type": "public",
       "site_admin": false
     },
     "html_url": "https://github.com/OWASP/www-project-javascript-security",
@@ -26685,6 +26932,7 @@
       "events_url": "https://api.github.com/users/OWASP/events{/privacy}",
       "received_events_url": "https://api.github.com/users/OWASP/received_events",
       "type": "Organization",
+      "user_view_type": "public",
       "site_admin": false
     },
     "html_url": "https://github.com/OWASP/www-project-aegis4j",
@@ -26792,6 +27040,7 @@
       "events_url": "https://api.github.com/users/OWASP/events{/privacy}",
       "received_events_url": "https://api.github.com/users/OWASP/received_events",
       "type": "Organization",
+      "user_view_type": "public",
       "site_admin": false
     },
     "html_url": "https://github.com/OWASP/www-project-application-security-awareness-campaigns",
@@ -26905,6 +27154,7 @@
       "events_url": "https://api.github.com/users/OWASP/events{/privacy}",
       "received_events_url": "https://api.github.com/users/OWASP/received_events",
       "type": "Organization",
+      "user_view_type": "public",
       "site_admin": false
     },
     "html_url": "https://github.com/OWASP/www-project-coraza-web-application-firewall",
@@ -27012,6 +27262,7 @@
       "events_url": "https://api.github.com/users/OWASP/events{/privacy}",
       "received_events_url": "https://api.github.com/users/OWASP/received_events",
       "type": "Organization",
+      "user_view_type": "public",
       "site_admin": false
     },
     "html_url": "https://github.com/OWASP/www-project-chaingoat",
@@ -27119,6 +27370,7 @@
       "events_url": "https://api.github.com/users/OWASP/events{/privacy}",
       "received_events_url": "https://api.github.com/users/OWASP/received_events",
       "type": "Organization",
+      "user_view_type": "public",
       "site_admin": false
     },
     "html_url": "https://github.com/OWASP/www-project-devsecops-verification-standard",
@@ -27226,6 +27478,7 @@
       "events_url": "https://api.github.com/users/OWASP/events{/privacy}",
       "received_events_url": "https://api.github.com/users/OWASP/received_events",
       "type": "Organization",
+      "user_view_type": "public",
       "site_admin": false
     },
     "html_url": "https://github.com/OWASP/www-project-pentext",
@@ -27333,6 +27586,7 @@
       "events_url": "https://api.github.com/users/OWASP/events{/privacy}",
       "received_events_url": "https://api.github.com/users/OWASP/received_events",
       "type": "Organization",
+      "user_view_type": "public",
       "site_admin": false
     },
     "html_url": "https://github.com/OWASP/www-project-supplychaingoat",
@@ -27440,6 +27694,7 @@
       "events_url": "https://api.github.com/users/OWASP/events{/privacy}",
       "received_events_url": "https://api.github.com/users/OWASP/received_events",
       "type": "Organization",
+      "user_view_type": "public",
       "site_admin": false
     },
     "html_url": "https://github.com/OWASP/www-project-toctourex",
@@ -27547,6 +27802,7 @@
       "events_url": "https://api.github.com/users/OWASP/events{/privacy}",
       "received_events_url": "https://api.github.com/users/OWASP/received_events",
       "type": "Organization",
+      "user_view_type": "public",
       "site_admin": false
     },
     "html_url": "https://github.com/OWASP/www-project-kubernetes-top-ten",
@@ -27664,6 +27920,7 @@
       "events_url": "https://api.github.com/users/OWASP/events{/privacy}",
       "received_events_url": "https://api.github.com/users/OWASP/received_events",
       "type": "Organization",
+      "user_view_type": "public",
       "site_admin": false
     },
     "html_url": "https://github.com/OWASP/www-project-security-champions-guidebook",
@@ -27777,6 +28034,7 @@
       "events_url": "https://api.github.com/users/OWASP/events{/privacy}",
       "received_events_url": "https://api.github.com/users/OWASP/received_events",
       "type": "Organization",
+      "user_view_type": "public",
       "site_admin": false
     },
     "html_url": "https://github.com/OWASP/www-project-safetypes",
@@ -27890,6 +28148,7 @@
       "events_url": "https://api.github.com/users/OWASP/events{/privacy}",
       "received_events_url": "https://api.github.com/users/OWASP/received_events",
       "type": "Organization",
+      "user_view_type": "public",
       "site_admin": false
     },
     "html_url": "https://github.com/OWASP/www-project-application-security-playbook",
@@ -27997,6 +28256,7 @@
       "events_url": "https://api.github.com/users/OWASP/events{/privacy}",
       "received_events_url": "https://api.github.com/users/OWASP/received_events",
       "type": "Organization",
+      "user_view_type": "public",
       "site_admin": false
     },
     "html_url": "https://github.com/OWASP/www-project-state-of-appsec-survey",
@@ -28104,6 +28364,7 @@
       "events_url": "https://api.github.com/users/OWASP/events{/privacy}",
       "received_events_url": "https://api.github.com/users/OWASP/received_events",
       "type": "Organization",
+      "user_view_type": "public",
       "site_admin": false
     },
     "html_url": "https://github.com/OWASP/www-project-mimosa",
@@ -28217,6 +28478,7 @@
       "events_url": "https://api.github.com/users/OWASP/events{/privacy}",
       "received_events_url": "https://api.github.com/users/OWASP/received_events",
       "type": "Organization",
+      "user_view_type": "public",
       "site_admin": false
     },
     "html_url": "https://github.com/OWASP/www-project-top-10-ci-cd-security-risks",
@@ -28330,6 +28592,7 @@
       "events_url": "https://api.github.com/users/OWASP/events{/privacy}",
       "received_events_url": "https://api.github.com/users/OWASP/received_events",
       "type": "Organization",
+      "user_view_type": "public",
       "site_admin": false
     },
     "html_url": "https://github.com/OWASP/www-project-continuous-penetration-testing-framework",
@@ -28437,6 +28700,7 @@
       "events_url": "https://api.github.com/users/OWASP/events{/privacy}",
       "received_events_url": "https://api.github.com/users/OWASP/received_events",
       "type": "Organization",
+      "user_view_type": "public",
       "site_admin": false
     },
     "html_url": "https://github.com/OWASP/www-project-testability-patterns-for-web-applications",
@@ -28544,6 +28808,7 @@
       "events_url": "https://api.github.com/users/OWASP/events{/privacy}",
       "received_events_url": "https://api.github.com/users/OWASP/received_events",
       "type": "Organization",
+      "user_view_type": "public",
       "site_admin": false
     },
     "html_url": "https://github.com/OWASP/www-project-vulnerable-flask-app",
@@ -28670,6 +28935,7 @@
       "events_url": "https://api.github.com/users/OWASP/events{/privacy}",
       "received_events_url": "https://api.github.com/users/OWASP/received_events",
       "type": "Organization",
+      "user_view_type": "public",
       "site_admin": false
     },
     "html_url": "https://github.com/OWASP/www-project-kubernetes-scanner",
@@ -28782,6 +29048,7 @@
       "events_url": "https://api.github.com/users/OWASP/events{/privacy}",
       "received_events_url": "https://api.github.com/users/OWASP/received_events",
       "type": "Organization",
+      "user_view_type": "public",
       "site_admin": false
     },
     "html_url": "https://github.com/OWASP/www-project-software-pre-execution-security-review",
@@ -28889,6 +29156,7 @@
       "events_url": "https://api.github.com/users/OWASP/events{/privacy}",
       "received_events_url": "https://api.github.com/users/OWASP/received_events",
       "type": "Organization",
+      "user_view_type": "public",
       "site_admin": false
     },
     "html_url": "https://github.com/OWASP/www-project-application-security-monitoring-standard",
@@ -28996,6 +29264,7 @@
       "events_url": "https://api.github.com/users/OWASP/events{/privacy}",
       "received_events_url": "https://api.github.com/users/OWASP/received_events",
       "type": "Organization",
+      "user_view_type": "public",
       "site_admin": false
     },
     "html_url": "https://github.com/OWASP/www-project-domain-protect",
@@ -29103,6 +29372,7 @@
       "events_url": "https://api.github.com/users/OWASP/events{/privacy}",
       "received_events_url": "https://api.github.com/users/OWASP/received_events",
       "type": "Organization",
+      "user_view_type": "public",
       "site_admin": false
     },
     "html_url": "https://github.com/OWASP/www-project-ai-security-and-privacy-guide",
@@ -29210,6 +29480,7 @@
       "events_url": "https://api.github.com/users/OWASP/events{/privacy}",
       "received_events_url": "https://api.github.com/users/OWASP/received_events",
       "type": "Organization",
+      "user_view_type": "public",
       "site_admin": false
     },
     "html_url": "https://github.com/OWASP/www-project-mlsecops-verification-standard",
@@ -29317,6 +29588,7 @@
       "events_url": "https://api.github.com/users/OWASP/events{/privacy}",
       "received_events_url": "https://api.github.com/users/OWASP/received_events",
       "type": "Organization",
+      "user_view_type": "public",
       "site_admin": false
     },
     "html_url": "https://github.com/OWASP/www-project-cloud-tenant-isolation",
@@ -29430,6 +29702,7 @@
       "events_url": "https://api.github.com/users/OWASP/events{/privacy}",
       "received_events_url": "https://api.github.com/users/OWASP/received_events",
       "type": "Organization",
+      "user_view_type": "public",
       "site_admin": false
     },
     "html_url": "https://github.com/OWASP/www-project-scrappy",
@@ -29537,6 +29810,7 @@
       "events_url": "https://api.github.com/users/OWASP/events{/privacy}",
       "received_events_url": "https://api.github.com/users/OWASP/received_events",
       "type": "Organization",
+      "user_view_type": "public",
       "site_admin": false
     },
     "html_url": "https://github.com/OWASP/www-project-top-25-parameters",
@@ -29656,6 +29930,7 @@
       "events_url": "https://api.github.com/users/OWASP/events{/privacy}",
       "received_events_url": "https://api.github.com/users/OWASP/received_events",
       "type": "Organization",
+      "user_view_type": "public",
       "site_admin": false
     },
     "html_url": "https://github.com/OWASP/www-project-cervantes",
@@ -29763,6 +30038,7 @@
       "events_url": "https://api.github.com/users/OWASP/events{/privacy}",
       "received_events_url": "https://api.github.com/users/OWASP/received_events",
       "type": "Organization",
+      "user_view_type": "public",
       "site_admin": false
     },
     "html_url": "https://github.com/OWASP/www-project-smart-contract-top-10",
@@ -29876,6 +30152,7 @@
       "events_url": "https://api.github.com/users/OWASP/events{/privacy}",
       "received_events_url": "https://api.github.com/users/OWASP/received_events",
       "type": "Organization",
+      "user_view_type": "public",
       "site_admin": false
     },
     "html_url": "https://github.com/OWASP/www-project-devsecops-top-10",
@@ -29983,6 +30260,7 @@
       "events_url": "https://api.github.com/users/OWASP/events{/privacy}",
       "received_events_url": "https://api.github.com/users/OWASP/received_events",
       "type": "Organization",
+      "user_view_type": "public",
       "site_admin": false
     },
     "html_url": "https://github.com/OWASP/www-project-ide-vulscanner",
@@ -30100,6 +30378,7 @@
       "events_url": "https://api.github.com/users/OWASP/events{/privacy}",
       "received_events_url": "https://api.github.com/users/OWASP/received_events",
       "type": "Organization",
+      "user_view_type": "public",
       "site_admin": false
     },
     "html_url": "https://github.com/OWASP/www-project-ebpfshield",
@@ -30207,6 +30486,7 @@
       "events_url": "https://api.github.com/users/OWASP/events{/privacy}",
       "received_events_url": "https://api.github.com/users/OWASP/received_events",
       "type": "Organization",
+      "user_view_type": "public",
       "site_admin": false
     },
     "html_url": "https://github.com/OWASP/www-project-cognito-catastrophe",
@@ -30314,6 +30594,7 @@
       "events_url": "https://api.github.com/users/OWASP/events{/privacy}",
       "received_events_url": "https://api.github.com/users/OWASP/received_events",
       "type": "Organization",
+      "user_view_type": "public",
       "site_admin": false
     },
     "html_url": "https://github.com/OWASP/www-project-devsecops",
@@ -30421,6 +30702,7 @@
       "events_url": "https://api.github.com/users/OWASP/events{/privacy}",
       "received_events_url": "https://api.github.com/users/OWASP/received_events",
       "type": "Organization",
+      "user_view_type": "public",
       "site_admin": false
     },
     "html_url": "https://github.com/OWASP/www-project-asvs-security-evaluation-templates-with-nuclei",
@@ -30543,6 +30825,7 @@
       "events_url": "https://api.github.com/users/OWASP/events{/privacy}",
       "received_events_url": "https://api.github.com/users/OWASP/received_events",
       "type": "Organization",
+      "user_view_type": "public",
       "site_admin": false
     },
     "html_url": "https://github.com/OWASP/www-project-machine-learning-minefield",
@@ -30650,6 +30933,7 @@
       "events_url": "https://api.github.com/users/OWASP/events{/privacy}",
       "received_events_url": "https://api.github.com/users/OWASP/received_events",
       "type": "Organization",
+      "user_view_type": "public",
       "site_admin": false
     },
     "html_url": "https://github.com/OWASP/www-project-mobile-application-security-design-guide",
@@ -30767,6 +31051,7 @@
       "events_url": "https://api.github.com/users/OWASP/events{/privacy}",
       "received_events_url": "https://api.github.com/users/OWASP/received_events",
       "type": "Organization",
+      "user_view_type": "public",
       "site_admin": false
     },
     "html_url": "https://github.com/OWASP/www-project-data-analysis-visualization-and-ingestion-domain",
@@ -30874,6 +31159,7 @@
       "events_url": "https://api.github.com/users/OWASP/events{/privacy}",
       "received_events_url": "https://api.github.com/users/OWASP/received_events",
       "type": "Organization",
+      "user_view_type": "public",
       "site_admin": false
     },
     "html_url": "https://github.com/OWASP/www-project-cumulus",
@@ -30981,6 +31267,7 @@
       "events_url": "https://api.github.com/users/OWASP/events{/privacy}",
       "received_events_url": "https://api.github.com/users/OWASP/received_events",
       "type": "Organization",
+      "user_view_type": "public",
       "site_admin": false
     },
     "html_url": "https://github.com/OWASP/www-project-blockchain-appsec-standard",
@@ -31094,6 +31381,7 @@
       "events_url": "https://api.github.com/users/OWASP/events{/privacy}",
       "received_events_url": "https://api.github.com/users/OWASP/received_events",
       "type": "Organization",
+      "user_view_type": "public",
       "site_admin": false
     },
     "html_url": "https://github.com/OWASP/www-project-four-clover",
@@ -31207,6 +31495,7 @@
       "events_url": "https://api.github.com/users/OWASP/events{/privacy}",
       "received_events_url": "https://api.github.com/users/OWASP/received_events",
       "type": "Organization",
+      "user_view_type": "public",
       "site_admin": false
     },
     "html_url": "https://github.com/OWASP/www-project-top-10-for-large-language-model-applications",
@@ -31250,7 +31539,7 @@
     "releases_url": "https://api.github.com/repos/OWASP/www-project-top-10-for-large-language-model-applications/releases{/id}",
     "deployments_url": "https://api.github.com/repos/OWASP/www-project-top-10-for-large-language-model-applications/deployments",
     "created_at": "2023-05-16T15:12:44Z",
-    "updated_at": "2024-10-16T21:24:57Z",
+    "updated_at": "2024-10-17T11:34:03Z",
     "pushed_at": "2024-10-14T00:12:40Z",
     "git_url": "git://github.com/OWASP/www-project-top-10-for-large-language-model-applications.git",
     "ssh_url": "git@github.com:OWASP/www-project-top-10-for-large-language-model-applications.git",
@@ -31258,8 +31547,8 @@
     "svn_url": "https://github.com/OWASP/www-project-top-10-for-large-language-model-applications",
     "homepage": null,
     "size": 361918,
-    "stargazers_count": 542,
-    "watchers_count": 542,
+    "stargazers_count": 544,
+    "watchers_count": 544,
     "language": "TeX",
     "has_issues": true,
     "has_projects": true,
@@ -31286,7 +31575,7 @@
     "visibility": "public",
     "forks": 136,
     "open_issues": 31,
-    "watchers": 542,
+    "watchers": 544,
     "default_branch": "main",
     "permissions": {
       "admin": false,
@@ -31320,6 +31609,7 @@
       "events_url": "https://api.github.com/users/OWASP/events{/privacy}",
       "received_events_url": "https://api.github.com/users/OWASP/received_events",
       "type": "Organization",
+      "user_view_type": "public",
       "site_admin": false
     },
     "html_url": "https://github.com/OWASP/www-project-open-security-information-base",
@@ -31433,6 +31723,7 @@
       "events_url": "https://api.github.com/users/OWASP/events{/privacy}",
       "received_events_url": "https://api.github.com/users/OWASP/received_events",
       "type": "Organization",
+      "user_view_type": "public",
       "site_admin": false
     },
     "html_url": "https://github.com/OWASP/www-project-web-hacking-incident-database",
@@ -31546,6 +31837,7 @@
       "events_url": "https://api.github.com/users/OWASP/events{/privacy}",
       "received_events_url": "https://api.github.com/users/OWASP/received_events",
       "type": "Organization",
+      "user_view_type": "public",
       "site_admin": false
     },
     "html_url": "https://github.com/OWASP/www-project-kubefim",
@@ -31659,6 +31951,7 @@
       "events_url": "https://api.github.com/users/OWASP/events{/privacy}",
       "received_events_url": "https://api.github.com/users/OWASP/received_events",
       "type": "Organization",
+      "user_view_type": "public",
       "site_admin": false
     },
     "html_url": "https://github.com/OWASP/www-project-deepsecrets",
@@ -31772,6 +32065,7 @@
       "events_url": "https://api.github.com/users/OWASP/events{/privacy}",
       "received_events_url": "https://api.github.com/users/OWASP/received_events",
       "type": "Organization",
+      "user_view_type": "public",
       "site_admin": false
     },
     "html_url": "https://github.com/OWASP/www-project-security-bridge",
@@ -31885,6 +32179,7 @@
       "events_url": "https://api.github.com/users/OWASP/events{/privacy}",
       "received_events_url": "https://api.github.com/users/OWASP/received_events",
       "type": "Organization",
+      "user_view_type": "public",
       "site_admin": false
     },
     "html_url": "https://github.com/OWASP/www-project-llm-prompt-hacking",
@@ -31928,7 +32223,7 @@
     "releases_url": "https://api.github.com/repos/OWASP/www-project-llm-prompt-hacking/releases{/id}",
     "deployments_url": "https://api.github.com/repos/OWASP/www-project-llm-prompt-hacking/deployments",
     "created_at": "2023-07-18T15:50:40Z",
-    "updated_at": "2024-09-26T20:20:31Z",
+    "updated_at": "2024-10-17T11:22:03Z",
     "pushed_at": "2024-04-10T11:10:26Z",
     "git_url": "git://github.com/OWASP/www-project-llm-prompt-hacking.git",
     "ssh_url": "git@github.com:OWASP/www-project-llm-prompt-hacking.git",
@@ -31936,8 +32231,8 @@
     "svn_url": "https://github.com/OWASP/www-project-llm-prompt-hacking",
     "homepage": null,
     "size": 16,
-    "stargazers_count": 5,
-    "watchers_count": 5,
+    "stargazers_count": 4,
+    "watchers_count": 4,
     "language": "HTML",
     "has_issues": true,
     "has_projects": true,
@@ -31964,7 +32259,7 @@
     "visibility": "public",
     "forks": 2,
     "open_issues": 1,
-    "watchers": 5,
+    "watchers": 4,
     "default_branch": "main",
     "permissions": {
       "admin": false,
@@ -31998,6 +32293,7 @@
       "events_url": "https://api.github.com/users/OWASP/events{/privacy}",
       "received_events_url": "https://api.github.com/users/OWASP/received_events",
       "type": "Organization",
+      "user_view_type": "public",
       "site_admin": false
     },
     "html_url": "https://github.com/OWASP/www-project-api-governance",
@@ -32111,6 +32407,7 @@
       "events_url": "https://api.github.com/users/OWASP/events{/privacy}",
       "received_events_url": "https://api.github.com/users/OWASP/received_events",
       "type": "Organization",
+      "user_view_type": "public",
       "site_admin": false
     },
     "html_url": "https://github.com/OWASP/www-project-ksecurity",
@@ -32224,6 +32521,7 @@
       "events_url": "https://api.github.com/users/OWASP/events{/privacy}",
       "received_events_url": "https://api.github.com/users/OWASP/received_events",
       "type": "Organization",
+      "user_view_type": "public",
       "site_admin": false
     },
     "html_url": "https://github.com/OWASP/www-project-llm-verification-standard",
@@ -32337,6 +32635,7 @@
       "events_url": "https://api.github.com/users/OWASP/events{/privacy}",
       "received_events_url": "https://api.github.com/users/OWASP/received_events",
       "type": "Organization",
+      "user_view_type": "public",
       "site_admin": false
     },
     "html_url": "https://github.com/OWASP/www-project-iot-security-testing-guide",
@@ -32450,6 +32749,7 @@
       "events_url": "https://api.github.com/users/OWASP/events{/privacy}",
       "received_events_url": "https://api.github.com/users/OWASP/received_events",
       "type": "Organization",
+      "user_view_type": "public",
       "site_admin": false
     },
     "html_url": "https://github.com/OWASP/www-project-dep-scan",
@@ -32563,6 +32863,7 @@
       "events_url": "https://api.github.com/users/OWASP/events{/privacy}",
       "received_events_url": "https://api.github.com/users/OWASP/received_events",
       "type": "Organization",
+      "user_view_type": "public",
       "site_admin": false
     },
     "html_url": "https://github.com/OWASP/www-project-untrust",
@@ -32676,6 +32977,7 @@
       "events_url": "https://api.github.com/users/OWASP/events{/privacy}",
       "received_events_url": "https://api.github.com/users/OWASP/received_events",
       "type": "Organization",
+      "user_view_type": "public",
       "site_admin": false
     },
     "html_url": "https://github.com/OWASP/www-project-memory-safety",
@@ -32789,6 +33091,7 @@
       "events_url": "https://api.github.com/users/OWASP/events{/privacy}",
       "received_events_url": "https://api.github.com/users/OWASP/received_events",
       "type": "Organization",
+      "user_view_type": "public",
       "site_admin": false
     },
     "html_url": "https://github.com/OWASP/www-project-ai-top-ten",
@@ -32902,6 +33205,7 @@
       "events_url": "https://api.github.com/users/OWASP/events{/privacy}",
       "received_events_url": "https://api.github.com/users/OWASP/received_events",
       "type": "Organization",
+      "user_view_type": "public",
       "site_admin": false
     },
     "html_url": "https://github.com/OWASP/www-project-chirps",
@@ -33009,6 +33313,7 @@
       "events_url": "https://api.github.com/users/OWASP/events{/privacy}",
       "received_events_url": "https://api.github.com/users/OWASP/received_events",
       "type": "Organization",
+      "user_view_type": "public",
       "site_admin": false
     },
     "html_url": "https://github.com/OWASP/www-project-top-10-infrastructure-security-risks",
@@ -33122,6 +33427,7 @@
       "events_url": "https://api.github.com/users/OWASP/events{/privacy}",
       "received_events_url": "https://api.github.com/users/OWASP/received_events",
       "type": "Organization",
+      "user_view_type": "public",
       "site_admin": false
     },
     "html_url": "https://github.com/OWASP/www-project-bullet-proof-react",
@@ -33239,6 +33545,7 @@
       "events_url": "https://api.github.com/users/OWASP/events{/privacy}",
       "received_events_url": "https://api.github.com/users/OWASP/received_events",
       "type": "Organization",
+      "user_view_type": "public",
       "site_admin": false
     },
     "html_url": "https://github.com/OWASP/www-project-sbom-forum",
@@ -33352,6 +33659,7 @@
       "events_url": "https://api.github.com/users/OWASP/events{/privacy}",
       "received_events_url": "https://api.github.com/users/OWASP/received_events",
       "type": "Organization",
+      "user_view_type": "public",
       "site_admin": false
     },
     "html_url": "https://github.com/OWASP/www-project-open-source-software-top-10",
@@ -33469,6 +33777,7 @@
       "events_url": "https://api.github.com/users/OWASP/events{/privacy}",
       "received_events_url": "https://api.github.com/users/OWASP/received_events",
       "type": "Organization",
+      "user_view_type": "public",
       "site_admin": false
     },
     "html_url": "https://github.com/OWASP/www-project-security-c4po",
@@ -33582,6 +33891,7 @@
       "events_url": "https://api.github.com/users/OWASP/events{/privacy}",
       "received_events_url": "https://api.github.com/users/OWASP/received_events",
       "type": "Organization",
+      "user_view_type": "public",
       "site_admin": false
     },
     "html_url": "https://github.com/OWASP/www-project-dragon-gpt",
@@ -33695,6 +34005,7 @@
       "events_url": "https://api.github.com/users/OWASP/events{/privacy}",
       "received_events_url": "https://api.github.com/users/OWASP/received_events",
       "type": "Organization",
+      "user_view_type": "public",
       "site_admin": false
     },
     "html_url": "https://github.com/OWASP/www-project-top-10-in-xr",
@@ -33808,6 +34119,7 @@
       "events_url": "https://api.github.com/users/OWASP/events{/privacy}",
       "received_events_url": "https://api.github.com/users/OWASP/received_events",
       "type": "Organization",
+      "user_view_type": "public",
       "site_admin": false
     },
     "html_url": "https://github.com/OWASP/www-project-antiforensics-project",
@@ -33921,6 +34233,7 @@
       "events_url": "https://api.github.com/users/OWASP/events{/privacy}",
       "received_events_url": "https://api.github.com/users/OWASP/received_events",
       "type": "Organization",
+      "user_view_type": "public",
       "site_admin": false
     },
     "html_url": "https://github.com/OWASP/www-project-consigliere---your-sast-fixing-advisor",
@@ -34034,6 +34347,7 @@
       "events_url": "https://api.github.com/users/OWASP/events{/privacy}",
       "received_events_url": "https://api.github.com/users/OWASP/received_events",
       "type": "Organization",
+      "user_view_type": "public",
       "site_admin": false
     },
     "html_url": "https://github.com/OWASP/www-project-product-security-capability-framework",
@@ -34147,6 +34461,7 @@
       "events_url": "https://api.github.com/users/OWASP/events{/privacy}",
       "received_events_url": "https://api.github.com/users/OWASP/received_events",
       "type": "Organization",
+      "user_view_type": "public",
       "site_admin": false
     },
     "html_url": "https://github.com/OWASP/www-project-thick-client-application-security-verification-standard",
@@ -34265,6 +34580,7 @@
       "events_url": "https://api.github.com/users/OWASP/events{/privacy}",
       "received_events_url": "https://api.github.com/users/OWASP/received_events",
       "type": "Organization",
+      "user_view_type": "public",
       "site_admin": false
     },
     "html_url": "https://github.com/OWASP/www-project-sapkiln",
@@ -34378,6 +34694,7 @@
       "events_url": "https://api.github.com/users/OWASP/events{/privacy}",
       "received_events_url": "https://api.github.com/users/OWASP/received_events",
       "type": "Organization",
+      "user_view_type": "public",
       "site_admin": false
     },
     "html_url": "https://github.com/OWASP/www-project-naivesystems-analyze",
@@ -34491,6 +34808,7 @@
       "events_url": "https://api.github.com/users/OWASP/events{/privacy}",
       "received_events_url": "https://api.github.com/users/OWASP/received_events",
       "type": "Organization",
+      "user_view_type": "public",
       "site_admin": false
     },
     "html_url": "https://github.com/OWASP/www-project-appsec-contract-builder",
@@ -34604,6 +34922,7 @@
       "events_url": "https://api.github.com/users/OWASP/events{/privacy}",
       "received_events_url": "https://api.github.com/users/OWASP/received_events",
       "type": "Organization",
+      "user_view_type": "public",
       "site_admin": false
     },
     "html_url": "https://github.com/OWASP/www-project-de-addiction",
@@ -34717,6 +35036,7 @@
       "events_url": "https://api.github.com/users/OWASP/events{/privacy}",
       "received_events_url": "https://api.github.com/users/OWASP/received_events",
       "type": "Organization",
+      "user_view_type": "public",
       "site_admin": false
     },
     "html_url": "https://github.com/OWASP/www-project-qraclib",
@@ -34830,6 +35150,7 @@
       "events_url": "https://api.github.com/users/OWASP/events{/privacy}",
       "received_events_url": "https://api.github.com/users/OWASP/received_events",
       "type": "Organization",
+      "user_view_type": "public",
       "site_admin": false
     },
     "html_url": "https://github.com/OWASP/www-project-pryingdeep",
@@ -34943,6 +35264,7 @@
       "events_url": "https://api.github.com/users/OWASP/events{/privacy}",
       "received_events_url": "https://api.github.com/users/OWASP/received_events",
       "type": "Organization",
+      "user_view_type": "public",
       "site_admin": false
     },
     "html_url": "https://github.com/OWASP/www-project-solana-programs-top-10",
@@ -35056,6 +35378,7 @@
       "events_url": "https://api.github.com/users/OWASP/events{/privacy}",
       "received_events_url": "https://api.github.com/users/OWASP/received_events",
       "type": "Organization",
+      "user_view_type": "public",
       "site_admin": false
     },
     "html_url": "https://github.com/OWASP/www-project-cybersecurity-certification-course",
@@ -35169,6 +35492,7 @@
       "events_url": "https://api.github.com/users/OWASP/events{/privacy}",
       "received_events_url": "https://api.github.com/users/OWASP/received_events",
       "type": "Organization",
+      "user_view_type": "public",
       "site_admin": false
     },
     "html_url": "https://github.com/OWASP/www-project-secure-pipeline-verification-standard--spvs-",
@@ -35288,6 +35612,7 @@
       "events_url": "https://api.github.com/users/OWASP/events{/privacy}",
       "received_events_url": "https://api.github.com/users/OWASP/received_events",
       "type": "Organization",
+      "user_view_type": "public",
       "site_admin": false
     },
     "html_url": "https://github.com/OWASP/www-project-modsecurity",
@@ -35401,6 +35726,7 @@
       "events_url": "https://api.github.com/users/OWASP/events{/privacy}",
       "received_events_url": "https://api.github.com/users/OWASP/received_events",
       "type": "Organization",
+      "user_view_type": "public",
       "site_admin": false
     },
     "html_url": "https://github.com/OWASP/www-project-common-lifecycle-enumeration",
@@ -35514,6 +35840,7 @@
       "events_url": "https://api.github.com/users/OWASP/events{/privacy}",
       "received_events_url": "https://api.github.com/users/OWASP/received_events",
       "type": "Organization",
+      "user_view_type": "public",
       "site_admin": false
     },
     "html_url": "https://github.com/OWASP/www-project-product-security-guide",
@@ -35627,6 +35954,7 @@
       "events_url": "https://api.github.com/users/OWASP/events{/privacy}",
       "received_events_url": "https://api.github.com/users/OWASP/received_events",
       "type": "Organization",
+      "user_view_type": "public",
       "site_admin": false
     },
     "html_url": "https://github.com/OWASP/www-project-devguard",
@@ -35740,6 +36068,7 @@
       "events_url": "https://api.github.com/users/OWASP/events{/privacy}",
       "received_events_url": "https://api.github.com/users/OWASP/received_events",
       "type": "Organization",
+      "user_view_type": "public",
       "site_admin": false
     },
     "html_url": "https://github.com/OWASP/www-project-secure-development-and-release-framework",
@@ -35853,6 +36182,7 @@
       "events_url": "https://api.github.com/users/OWASP/events{/privacy}",
       "received_events_url": "https://api.github.com/users/OWASP/received_events",
       "type": "Organization",
+      "user_view_type": "public",
       "site_admin": false
     },
     "html_url": "https://github.com/OWASP/www-project-devsecops-automation-matrix",
@@ -35966,6 +36296,7 @@
       "events_url": "https://api.github.com/users/OWASP/events{/privacy}",
       "received_events_url": "https://api.github.com/users/OWASP/received_events",
       "type": "Organization",
+      "user_view_type": "public",
       "site_admin": false
     },
     "html_url": "https://github.com/OWASP/www-project-skyshield",
@@ -36079,6 +36410,7 @@
       "events_url": "https://api.github.com/users/OWASP/events{/privacy}",
       "received_events_url": "https://api.github.com/users/OWASP/received_events",
       "type": "Organization",
+      "user_view_type": "public",
       "site_admin": false
     },
     "html_url": "https://github.com/OWASP/www-project-java-security-toolkit",
@@ -36192,6 +36524,7 @@
       "events_url": "https://api.github.com/users/OWASP/events{/privacy}",
       "received_events_url": "https://api.github.com/users/OWASP/received_events",
       "type": "Organization",
+      "user_view_type": "public",
       "site_admin": false
     },
     "html_url": "https://github.com/OWASP/www-project-privacy-toolkit",
@@ -36305,6 +36638,7 @@
       "events_url": "https://api.github.com/users/OWASP/events{/privacy}",
       "received_events_url": "https://api.github.com/users/OWASP/received_events",
       "type": "Organization",
+      "user_view_type": "public",
       "site_admin": false
     },
     "html_url": "https://github.com/OWASP/www-project-wi-fi-security-testing-guide",
@@ -36418,6 +36752,7 @@
       "events_url": "https://api.github.com/users/OWASP/events{/privacy}",
       "received_events_url": "https://api.github.com/users/OWASP/received_events",
       "type": "Organization",
+      "user_view_type": "public",
       "site_admin": false
     },
     "html_url": "https://github.com/OWASP/www-project-ai-threatmaster",
@@ -36531,6 +36866,7 @@
       "events_url": "https://api.github.com/users/OWASP/events{/privacy}",
       "received_events_url": "https://api.github.com/users/OWASP/received_events",
       "type": "Organization",
+      "user_view_type": "public",
       "site_admin": false
     },
     "html_url": "https://github.com/OWASP/www-project-netryx",
@@ -36644,6 +36980,7 @@
       "events_url": "https://api.github.com/users/OWASP/events{/privacy}",
       "received_events_url": "https://api.github.com/users/OWASP/received_events",
       "type": "Organization",
+      "user_view_type": "public",
       "site_admin": false
     },
     "html_url": "https://github.com/OWASP/www-project-sammwise",
@@ -36757,6 +37094,7 @@
       "events_url": "https://api.github.com/users/OWASP/events{/privacy}",
       "received_events_url": "https://api.github.com/users/OWASP/received_events",
       "type": "Organization",
+      "user_view_type": "public",
       "site_admin": false
     },
     "html_url": "https://github.com/OWASP/www-project-pentest-best-practices",
@@ -36870,6 +37208,7 @@
       "events_url": "https://api.github.com/users/OWASP/events{/privacy}",
       "received_events_url": "https://api.github.com/users/OWASP/received_events",
       "type": "Organization",
+      "user_view_type": "public",
       "site_admin": false
     },
     "html_url": "https://github.com/OWASP/www-project-top-10-for-maritime-security",
@@ -36983,6 +37322,7 @@
       "events_url": "https://api.github.com/users/OWASP/events{/privacy}",
       "received_events_url": "https://api.github.com/users/OWASP/received_events",
       "type": "Organization",
+      "user_view_type": "public",
       "site_admin": false
     },
     "html_url": "https://github.com/OWASP/www-project-noir",
@@ -37096,6 +37436,7 @@
       "events_url": "https://api.github.com/users/OWASP/events{/privacy}",
       "received_events_url": "https://api.github.com/users/OWASP/received_events",
       "type": "Organization",
+      "user_view_type": "public",
       "site_admin": false
     },
     "html_url": "https://github.com/OWASP/www-project-top-10-drone-security-risks",
@@ -37209,6 +37550,7 @@
       "events_url": "https://api.github.com/users/OWASP/events{/privacy}",
       "received_events_url": "https://api.github.com/users/OWASP/received_events",
       "type": "Organization",
+      "user_view_type": "public",
       "site_admin": false
     },
     "html_url": "https://github.com/OWASP/www-project-penetration-test-reporting-standard",
@@ -37322,6 +37664,7 @@
       "events_url": "https://api.github.com/users/OWASP/events{/privacy}",
       "received_events_url": "https://api.github.com/users/OWASP/received_events",
       "type": "Organization",
+      "user_view_type": "public",
       "site_admin": false
     },
     "html_url": "https://github.com/OWASP/www-project-operational-technology-top-10",
@@ -37365,14 +37708,14 @@
     "releases_url": "https://api.github.com/repos/OWASP/www-project-operational-technology-top-10/releases{/id}",
     "deployments_url": "https://api.github.com/repos/OWASP/www-project-operational-technology-top-10/deployments",
     "created_at": "2024-07-23T16:43:21Z",
-    "updated_at": "2024-09-05T10:48:18Z",
-    "pushed_at": "2024-09-05T10:48:38Z",
+    "updated_at": "2024-10-17T12:37:34Z",
+    "pushed_at": "2024-10-17T13:00:06Z",
     "git_url": "git://github.com/OWASP/www-project-operational-technology-top-10.git",
     "ssh_url": "git@github.com:OWASP/www-project-operational-technology-top-10.git",
     "clone_url": "https://github.com/OWASP/www-project-operational-technology-top-10.git",
     "svn_url": "https://github.com/OWASP/www-project-operational-technology-top-10",
-    "homepage": null,
-    "size": 1720,
+    "homepage": "",
+    "size": 1039,
     "stargazers_count": 5,
     "watchers_count": 5,
     "language": "HTML",
@@ -37435,6 +37778,7 @@
       "events_url": "https://api.github.com/users/OWASP/events{/privacy}",
       "received_events_url": "https://api.github.com/users/OWASP/received_events",
       "type": "Organization",
+      "user_view_type": "public",
       "site_admin": false
     },
     "html_url": "https://github.com/OWASP/www-project-sap-threat-modeling-builder",
@@ -37548,6 +37892,7 @@
       "events_url": "https://api.github.com/users/OWASP/events{/privacy}",
       "received_events_url": "https://api.github.com/users/OWASP/received_events",
       "type": "Organization",
+      "user_view_type": "public",
       "site_admin": false
     },
     "html_url": "https://github.com/OWASP/www-project-waf-a-mole",
@@ -37661,6 +38006,7 @@
       "events_url": "https://api.github.com/users/OWASP/events{/privacy}",
       "received_events_url": "https://api.github.com/users/OWASP/received_events",
       "type": "Organization",
+      "user_view_type": "public",
       "site_admin": false
     },
     "html_url": "https://github.com/OWASP/www-project--js",
@@ -37780,6 +38126,7 @@
       "events_url": "https://api.github.com/users/OWASP/events{/privacy}",
       "received_events_url": "https://api.github.com/users/OWASP/received_events",
       "type": "Organization",
+      "user_view_type": "public",
       "site_admin": false
     },
     "html_url": "https://github.com/OWASP/www-project-auto-devsecops",
@@ -37893,6 +38240,7 @@
       "events_url": "https://api.github.com/users/OWASP/events{/privacy}",
       "received_events_url": "https://api.github.com/users/OWASP/received_events",
       "type": "Organization",
+      "user_view_type": "public",
       "site_admin": false
     },
     "html_url": "https://github.com/OWASP/www-project-spvs",
@@ -38006,6 +38354,7 @@
       "events_url": "https://api.github.com/users/OWASP/events{/privacy}",
       "received_events_url": "https://api.github.com/users/OWASP/received_events",
       "type": "Organization",
+      "user_view_type": "public",
       "site_admin": false
     },
     "html_url": "https://github.com/OWASP/www-project-nest",
@@ -38119,6 +38468,7 @@
       "events_url": "https://api.github.com/users/OWASP/events{/privacy}",
       "received_events_url": "https://api.github.com/users/OWASP/received_events",
       "type": "Organization",
+      "user_view_type": "public",
       "site_admin": false
     },
     "html_url": "https://github.com/OWASP/www-project-rbtm",
@@ -38232,6 +38582,7 @@
       "events_url": "https://api.github.com/users/OWASP/events{/privacy}",
       "received_events_url": "https://api.github.com/users/OWASP/received_events",
       "type": "Organization",
+      "user_view_type": "public",
       "site_admin": false
     },
     "html_url": "https://github.com/OWASP/www-project-non-human-identities-top-10",
@@ -38345,6 +38696,7 @@
       "events_url": "https://api.github.com/users/OWASP/events{/privacy}",
       "received_events_url": "https://api.github.com/users/OWASP/received_events",
       "type": "Organization",
+      "user_view_type": "public",
       "site_admin": false
     },
     "html_url": "https://github.com/OWASP/www-project-waf-advanced-ruleset-management",
@@ -38458,6 +38810,7 @@
       "events_url": "https://api.github.com/users/OWASP/events{/privacy}",
       "received_events_url": "https://api.github.com/users/OWASP/received_events",
       "type": "Organization",
+      "user_view_type": "public",
       "site_admin": false
     },
     "html_url": "https://github.com/OWASP/www-project-smart-contract-security-verification-standard",
@@ -38571,6 +38924,7 @@
       "events_url": "https://api.github.com/users/OWASP/events{/privacy}",
       "received_events_url": "https://api.github.com/users/OWASP/received_events",
       "type": "Organization",
+      "user_view_type": "public",
       "site_admin": false
     },
     "html_url": "https://github.com/OWASP/www-project-certified-secure-developer",
