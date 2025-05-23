@@ -112,7 +112,8 @@
       "push": false,
       "triage": false,
       "pull": false
-    }
+    },
+    "custom_properties": {}
   },
   {
     "id": 199922298,
@@ -220,7 +221,8 @@
       "push": false,
       "triage": false,
       "pull": false
-    }
+    },
+    "custom_properties": {}
   },
   {
     "id": 208137191,
@@ -328,7 +330,8 @@
       "push": false,
       "triage": false,
       "pull": false
-    }
+    },
+    "custom_properties": {}
   },
   {
     "id": 208137223,
@@ -436,7 +439,8 @@
       "push": false,
       "triage": false,
       "pull": false
-    }
+    },
+    "custom_properties": {}
   },
   {
     "id": 208137248,
@@ -544,7 +548,8 @@
       "push": false,
       "triage": false,
       "pull": false
-    }
+    },
+    "custom_properties": {}
   },
   {
     "id": 208137289,
@@ -652,7 +657,8 @@
       "push": false,
       "triage": false,
       "pull": false
-    }
+    },
+    "custom_properties": {}
   },
   {
     "id": 208137314,
@@ -763,7 +769,8 @@
       "push": false,
       "triage": false,
       "pull": false
-    }
+    },
+    "custom_properties": {}
   },
   {
     "id": 208137334,
@@ -871,7 +878,8 @@
       "push": false,
       "triage": false,
       "pull": false
-    }
+    },
+    "custom_properties": {}
   },
   {
     "id": 208137356,
@@ -979,7 +987,8 @@
       "push": false,
       "triage": false,
       "pull": false
-    }
+    },
+    "custom_properties": {}
   },
   {
     "id": 208137380,
@@ -1087,7 +1096,8 @@
       "push": false,
       "triage": false,
       "pull": false
-    }
+    },
+    "custom_properties": {}
   },
   {
     "id": 208137402,
@@ -1195,7 +1205,8 @@
       "push": false,
       "triage": false,
       "pull": false
-    }
+    },
+    "custom_properties": {}
   },
   {
     "id": 208137420,
@@ -1303,7 +1314,8 @@
       "push": false,
       "triage": false,
       "pull": false
-    }
+    },
+    "custom_properties": {}
   },
   {
     "id": 208137449,
@@ -1411,7 +1423,8 @@
       "push": false,
       "triage": false,
       "pull": false
-    }
+    },
+    "custom_properties": {}
   },
   {
     "id": 208137470,
@@ -1519,7 +1532,8 @@
       "push": false,
       "triage": false,
       "pull": false
-    }
+    },
+    "custom_properties": {}
   },
   {
     "id": 208137500,
@@ -1627,7 +1641,8 @@
       "push": false,
       "triage": false,
       "pull": false
-    }
+    },
+    "custom_properties": {}
   },
   {
     "id": 208137523,
@@ -1735,7 +1750,8 @@
       "push": false,
       "triage": false,
       "pull": false
-    }
+    },
+    "custom_properties": {}
   },
   {
     "id": 208137551,
@@ -1843,7 +1859,8 @@
       "push": false,
       "triage": false,
       "pull": false
-    }
+    },
+    "custom_properties": {}
   },
   {
     "id": 208137573,
@@ -1957,7 +1974,8 @@
       "push": false,
       "triage": false,
       "pull": false
-    }
+    },
+    "custom_properties": {}
   },
   {
     "id": 208137597,
@@ -2065,7 +2083,8 @@
       "push": false,
       "triage": false,
       "pull": false
-    }
+    },
+    "custom_properties": {}
   },
   {
     "id": 208137620,
@@ -2173,7 +2192,8 @@
       "push": false,
       "triage": false,
       "pull": false
-    }
+    },
+    "custom_properties": {}
   },
   {
     "id": 208137644,
@@ -2281,7 +2301,8 @@
       "push": false,
       "triage": false,
       "pull": false
-    }
+    },
+    "custom_properties": {}
   },
   {
     "id": 208137673,
@@ -2389,7 +2410,8 @@
       "push": false,
       "triage": false,
       "pull": false
-    }
+    },
+    "custom_properties": {}
   },
   {
     "id": 208137700,
@@ -2497,7 +2519,8 @@
       "push": false,
       "triage": false,
       "pull": false
-    }
+    },
+    "custom_properties": {}
   },
   {
     "id": 208137730,
@@ -2605,7 +2628,8 @@
       "push": false,
       "triage": false,
       "pull": false
-    }
+    },
+    "custom_properties": {}
   },
   {
     "id": 208137753,
@@ -2713,7 +2737,8 @@
       "push": false,
       "triage": false,
       "pull": false
-    }
+    },
+    "custom_properties": {}
   },
   {
     "id": 208137777,
@@ -2821,7 +2846,8 @@
       "push": false,
       "triage": false,
       "pull": false
-    }
+    },
+    "custom_properties": {}
   },
   {
     "id": 208137808,
@@ -2929,7 +2955,8 @@
       "push": false,
       "triage": false,
       "pull": false
-    }
+    },
+    "custom_properties": {}
   },
   {
     "id": 208137836,
@@ -3037,7 +3064,8 @@
       "push": false,
       "triage": false,
       "pull": false
-    }
+    },
+    "custom_properties": {}
   },
   {
     "id": 208137869,
@@ -3145,7 +3173,8 @@
       "push": false,
       "triage": false,
       "pull": false
-    }
+    },
+    "custom_properties": {}
   },
   {
     "id": 208137900,
@@ -3253,7 +3282,8 @@
       "push": false,
       "triage": false,
       "pull": false
-    }
+    },
+    "custom_properties": {}
   },
   {
     "id": 208137925,
@@ -3361,7 +3391,8 @@
       "push": false,
       "triage": false,
       "pull": false
-    }
+    },
+    "custom_properties": {}
   },
   {
     "id": 208137946,
@@ -3469,7 +3500,8 @@
       "push": false,
       "triage": false,
       "pull": false
-    }
+    },
+    "custom_properties": {}
   },
   {
     "id": 208137972,
@@ -3577,7 +3609,8 @@
       "push": false,
       "triage": false,
       "pull": false
-    }
+    },
+    "custom_properties": {}
   },
   {
     "id": 208137998,
@@ -3685,7 +3718,8 @@
       "push": false,
       "triage": false,
       "pull": false
-    }
+    },
+    "custom_properties": {}
   },
   {
     "id": 208138025,
@@ -3793,7 +3827,8 @@
       "push": false,
       "triage": false,
       "pull": false
-    }
+    },
+    "custom_properties": {}
   },
   {
     "id": 208138055,
@@ -3901,7 +3936,8 @@
       "push": false,
       "triage": false,
       "pull": false
-    }
+    },
+    "custom_properties": {}
   },
   {
     "id": 208138071,
@@ -4009,7 +4045,8 @@
       "push": false,
       "triage": false,
       "pull": false
-    }
+    },
+    "custom_properties": {}
   },
   {
     "id": 208138099,
@@ -4117,7 +4154,8 @@
       "push": false,
       "triage": false,
       "pull": false
-    }
+    },
+    "custom_properties": {}
   },
   {
     "id": 208138117,
@@ -4225,7 +4263,8 @@
       "push": false,
       "triage": false,
       "pull": false
-    }
+    },
+    "custom_properties": {}
   },
   {
     "id": 208138136,
@@ -4333,7 +4372,8 @@
       "push": false,
       "triage": false,
       "pull": false
-    }
+    },
+    "custom_properties": {}
   },
   {
     "id": 208138157,
@@ -4459,7 +4499,8 @@
       "push": false,
       "triage": false,
       "pull": false
-    }
+    },
+    "custom_properties": {}
   },
   {
     "id": 208138181,
@@ -4567,7 +4608,8 @@
       "push": false,
       "triage": false,
       "pull": false
-    }
+    },
+    "custom_properties": {}
   },
   {
     "id": 208138204,
@@ -4675,7 +4717,8 @@
       "push": false,
       "triage": false,
       "pull": false
-    }
+    },
+    "custom_properties": {}
   },
   {
     "id": 208138219,
@@ -4783,7 +4826,8 @@
       "push": false,
       "triage": false,
       "pull": false
-    }
+    },
+    "custom_properties": {}
   },
   {
     "id": 208138235,
@@ -4891,7 +4935,8 @@
       "push": false,
       "triage": false,
       "pull": false
-    }
+    },
+    "custom_properties": {}
   },
   {
     "id": 208138259,
@@ -4999,7 +5044,8 @@
       "push": false,
       "triage": false,
       "pull": false
-    }
+    },
+    "custom_properties": {}
   },
   {
     "id": 208138283,
@@ -5107,7 +5153,8 @@
       "push": false,
       "triage": false,
       "pull": false
-    }
+    },
+    "custom_properties": {}
   },
   {
     "id": 208138303,
@@ -5215,7 +5262,8 @@
       "push": false,
       "triage": false,
       "pull": false
-    }
+    },
+    "custom_properties": {}
   },
   {
     "id": 208138326,
@@ -5326,7 +5374,8 @@
       "push": false,
       "triage": false,
       "pull": false
-    }
+    },
+    "custom_properties": {}
   },
   {
     "id": 208138361,
@@ -5434,7 +5483,8 @@
       "push": false,
       "triage": false,
       "pull": false
-    }
+    },
+    "custom_properties": {}
   },
   {
     "id": 208138387,
@@ -5542,7 +5592,8 @@
       "push": false,
       "triage": false,
       "pull": false
-    }
+    },
+    "custom_properties": {}
   },
   {
     "id": 208138417,
@@ -5650,7 +5701,8 @@
       "push": false,
       "triage": false,
       "pull": false
-    }
+    },
+    "custom_properties": {}
   },
   {
     "id": 208138434,
@@ -5758,7 +5810,8 @@
       "push": false,
       "triage": false,
       "pull": false
-    }
+    },
+    "custom_properties": {}
   },
   {
     "id": 208138465,
@@ -5866,7 +5919,8 @@
       "push": false,
       "triage": false,
       "pull": false
-    }
+    },
+    "custom_properties": {}
   },
   {
     "id": 208138478,
@@ -5974,7 +6028,8 @@
       "push": false,
       "triage": false,
       "pull": false
-    }
+    },
+    "custom_properties": {}
   },
   {
     "id": 208138502,
@@ -6082,7 +6137,8 @@
       "push": false,
       "triage": false,
       "pull": false
-    }
+    },
+    "custom_properties": {}
   },
   {
     "id": 208138523,
@@ -6190,7 +6246,8 @@
       "push": false,
       "triage": false,
       "pull": false
-    }
+    },
+    "custom_properties": {}
   },
   {
     "id": 208138550,
@@ -6298,7 +6355,8 @@
       "push": false,
       "triage": false,
       "pull": false
-    }
+    },
+    "custom_properties": {}
   },
   {
     "id": 208138585,
@@ -6406,7 +6464,8 @@
       "push": false,
       "triage": false,
       "pull": false
-    }
+    },
+    "custom_properties": {}
   },
   {
     "id": 208138609,
@@ -6514,7 +6573,8 @@
       "push": false,
       "triage": false,
       "pull": false
-    }
+    },
+    "custom_properties": {}
   },
   {
     "id": 208138636,
@@ -6635,7 +6695,8 @@
       "push": false,
       "triage": false,
       "pull": false
-    }
+    },
+    "custom_properties": {}
   },
   {
     "id": 208138667,
@@ -6743,7 +6804,8 @@
       "push": false,
       "triage": false,
       "pull": false
-    }
+    },
+    "custom_properties": {}
   },
   {
     "id": 208138692,
@@ -6851,7 +6913,8 @@
       "push": false,
       "triage": false,
       "pull": false
-    }
+    },
+    "custom_properties": {}
   },
   {
     "id": 208138732,
@@ -6974,7 +7037,8 @@
       "push": false,
       "triage": false,
       "pull": false
-    }
+    },
+    "custom_properties": {}
   },
   {
     "id": 208138771,
@@ -7082,7 +7146,8 @@
       "push": false,
       "triage": false,
       "pull": false
-    }
+    },
+    "custom_properties": {}
   },
   {
     "id": 208138794,
@@ -7196,7 +7261,8 @@
       "push": false,
       "triage": false,
       "pull": false
-    }
+    },
+    "custom_properties": {}
   },
   {
     "id": 208138824,
@@ -7283,7 +7349,7 @@
     "has_wiki": false,
     "has_pages": true,
     "has_discussions": false,
-    "forks_count": 219,
+    "forks_count": 220,
     "mirror_url": null,
     "archived": false,
     "disabled": false,
@@ -7298,7 +7364,7 @@
       "wstg"
     ],
     "visibility": "public",
-    "forks": 219,
+    "forks": 220,
     "open_issues": 0,
     "watchers": 500,
     "default_branch": "master",
@@ -7308,7 +7374,8 @@
       "push": false,
       "triage": false,
       "pull": false
-    }
+    },
+    "custom_properties": {}
   },
   {
     "id": 208138857,
@@ -7422,7 +7489,8 @@
       "push": false,
       "triage": false,
       "pull": false
-    }
+    },
+    "custom_properties": {}
   },
   {
     "id": 208138880,
@@ -7530,7 +7598,8 @@
       "push": false,
       "triage": false,
       "pull": false
-    }
+    },
+    "custom_properties": {}
   },
   {
     "id": 208138908,
@@ -7638,7 +7707,8 @@
       "push": false,
       "triage": false,
       "pull": false
-    }
+    },
+    "custom_properties": {}
   },
   {
     "id": 208138928,
@@ -7746,7 +7816,8 @@
       "push": false,
       "triage": false,
       "pull": false
-    }
+    },
+    "custom_properties": {}
   },
   {
     "id": 208138952,
@@ -7854,7 +7925,8 @@
       "push": false,
       "triage": false,
       "pull": false
-    }
+    },
+    "custom_properties": {}
   },
   {
     "id": 208138969,
@@ -7962,7 +8034,8 @@
       "push": false,
       "triage": false,
       "pull": false
-    }
+    },
+    "custom_properties": {}
   },
   {
     "id": 208138987,
@@ -8080,7 +8153,8 @@
       "push": false,
       "triage": false,
       "pull": false
-    }
+    },
+    "custom_properties": {}
   },
   {
     "id": 208139007,
@@ -8188,7 +8262,8 @@
       "push": false,
       "triage": false,
       "pull": false
-    }
+    },
+    "custom_properties": {}
   },
   {
     "id": 208139033,
@@ -8296,7 +8371,8 @@
       "push": false,
       "triage": false,
       "pull": false
-    }
+    },
+    "custom_properties": {}
   },
   {
     "id": 208139063,
@@ -8404,7 +8480,8 @@
       "push": false,
       "triage": false,
       "pull": false
-    }
+    },
+    "custom_properties": {}
   },
   {
     "id": 208139086,
@@ -8512,7 +8589,8 @@
       "push": false,
       "triage": false,
       "pull": false
-    }
+    },
+    "custom_properties": {}
   },
   {
     "id": 208139104,
@@ -8620,7 +8698,8 @@
       "push": false,
       "triage": false,
       "pull": false
-    }
+    },
+    "custom_properties": {}
   },
   {
     "id": 208139132,
@@ -8728,7 +8807,8 @@
       "push": false,
       "triage": false,
       "pull": false
-    }
+    },
+    "custom_properties": {}
   },
   {
     "id": 208139153,
@@ -8836,7 +8916,8 @@
       "push": false,
       "triage": false,
       "pull": false
-    }
+    },
+    "custom_properties": {}
   },
   {
     "id": 208139169,
@@ -8944,7 +9025,8 @@
       "push": false,
       "triage": false,
       "pull": false
-    }
+    },
+    "custom_properties": {}
   },
   {
     "id": 208139204,
@@ -9052,7 +9134,8 @@
       "push": false,
       "triage": false,
       "pull": false
-    }
+    },
+    "custom_properties": {}
   },
   {
     "id": 208139225,
@@ -9160,7 +9243,8 @@
       "push": false,
       "triage": false,
       "pull": false
-    }
+    },
+    "custom_properties": {}
   },
   {
     "id": 208139250,
@@ -9268,7 +9352,8 @@
       "push": false,
       "triage": false,
       "pull": false
-    }
+    },
+    "custom_properties": {}
   },
   {
     "id": 208139277,
@@ -9376,7 +9461,8 @@
       "push": false,
       "triage": false,
       "pull": false
-    }
+    },
+    "custom_properties": {}
   },
   {
     "id": 208139296,
@@ -9484,7 +9570,8 @@
       "push": false,
       "triage": false,
       "pull": false
-    }
+    },
+    "custom_properties": {}
   },
   {
     "id": 208139315,
@@ -9592,7 +9679,8 @@
       "push": false,
       "triage": false,
       "pull": false
-    }
+    },
+    "custom_properties": {}
   },
   {
     "id": 208139340,
@@ -9702,7 +9790,8 @@
       "push": false,
       "triage": false,
       "pull": false
-    }
+    },
+    "custom_properties": {}
   },
   {
     "id": 208139361,
@@ -9810,7 +9899,8 @@
       "push": false,
       "triage": false,
       "pull": false
-    }
+    },
+    "custom_properties": {}
   },
   {
     "id": 208139383,
@@ -9918,7 +10008,8 @@
       "push": false,
       "triage": false,
       "pull": false
-    }
+    },
+    "custom_properties": {}
   },
   {
     "id": 208139402,
@@ -10026,7 +10117,8 @@
       "push": false,
       "triage": false,
       "pull": false
-    }
+    },
+    "custom_properties": {}
   },
   {
     "id": 208139437,
@@ -10096,14 +10188,14 @@
     "releases_url": "https://api.github.com/repos/OWASP/www-project-vulnerable-web-applications-directory/releases{/id}",
     "deployments_url": "https://api.github.com/repos/OWASP/www-project-vulnerable-web-applications-directory/deployments",
     "created_at": "2019-09-12T20:20:09Z",
-    "updated_at": "2025-05-17T06:34:50Z",
-    "pushed_at": "2025-03-27T17:27:17Z",
+    "updated_at": "2025-05-22T13:33:21Z",
+    "pushed_at": "2025-05-22T13:33:17Z",
     "git_url": "git://github.com/OWASP/www-project-vulnerable-web-applications-directory.git",
     "ssh_url": "git@github.com:OWASP/www-project-vulnerable-web-applications-directory.git",
     "clone_url": "https://github.com/OWASP/www-project-vulnerable-web-applications-directory.git",
     "svn_url": "https://github.com/OWASP/www-project-vulnerable-web-applications-directory",
     "homepage": "https://owasp.org/www-project-vulnerable-web-applications-directory/",
-    "size": 1329,
+    "size": 1331,
     "stargazers_count": 45,
     "watchers_count": 45,
     "language": "HTML",
@@ -10117,7 +10209,7 @@
     "mirror_url": null,
     "archived": false,
     "disabled": false,
-    "open_issues_count": 10,
+    "open_issues_count": 11,
     "license": null,
     "allow_forking": true,
     "is_template": false,
@@ -10132,7 +10224,7 @@
     ],
     "visibility": "public",
     "forks": 27,
-    "open_issues": 10,
+    "open_issues": 11,
     "watchers": 45,
     "default_branch": "master",
     "permissions": {
@@ -10141,7 +10233,8 @@
       "push": false,
       "triage": false,
       "pull": false
-    }
+    },
+    "custom_properties": {}
   },
   {
     "id": 208139460,
@@ -10249,7 +10342,8 @@
       "push": false,
       "triage": false,
       "pull": false
-    }
+    },
+    "custom_properties": {}
   },
   {
     "id": 208139481,
@@ -10357,7 +10451,8 @@
       "push": false,
       "triage": false,
       "pull": false
-    }
+    },
+    "custom_properties": {}
   },
   {
     "id": 208139506,
@@ -10465,7 +10560,8 @@
       "push": false,
       "triage": false,
       "pull": false
-    }
+    },
+    "custom_properties": {}
   },
   {
     "id": 208139533,
@@ -10573,7 +10669,8 @@
       "push": false,
       "triage": false,
       "pull": false
-    }
+    },
+    "custom_properties": {}
   },
   {
     "id": 208139552,
@@ -10681,7 +10778,8 @@
       "push": false,
       "triage": false,
       "pull": false
-    }
+    },
+    "custom_properties": {}
   },
   {
     "id": 208139568,
@@ -10789,7 +10887,8 @@
       "push": false,
       "triage": false,
       "pull": false
-    }
+    },
+    "custom_properties": {}
   },
   {
     "id": 208139596,
@@ -10897,7 +10996,8 @@
       "push": false,
       "triage": false,
       "pull": false
-    }
+    },
+    "custom_properties": {}
   },
   {
     "id": 208139620,
@@ -11005,7 +11105,8 @@
       "push": false,
       "triage": false,
       "pull": false
-    }
+    },
+    "custom_properties": {}
   },
   {
     "id": 208139636,
@@ -11123,7 +11224,8 @@
       "push": false,
       "triage": false,
       "pull": false
-    }
+    },
+    "custom_properties": {}
   },
   {
     "id": 208139660,
@@ -11231,7 +11333,8 @@
       "push": false,
       "triage": false,
       "pull": false
-    }
+    },
+    "custom_properties": {}
   },
   {
     "id": 208139679,
@@ -11339,7 +11442,8 @@
       "push": false,
       "triage": false,
       "pull": false
-    }
+    },
+    "custom_properties": {}
   },
   {
     "id": 208139731,
@@ -11447,7 +11551,8 @@
       "push": false,
       "triage": false,
       "pull": false
-    }
+    },
+    "custom_properties": {}
   },
   {
     "id": 208139750,
@@ -11555,7 +11660,8 @@
       "push": false,
       "triage": false,
       "pull": false
-    }
+    },
+    "custom_properties": {}
   },
   {
     "id": 208139771,
@@ -11663,7 +11769,8 @@
       "push": false,
       "triage": false,
       "pull": false
-    }
+    },
+    "custom_properties": {}
   },
   {
     "id": 208139773,
@@ -11771,7 +11878,8 @@
       "push": false,
       "triage": false,
       "pull": false
-    }
+    },
+    "custom_properties": {}
   },
   {
     "id": 208139812,
@@ -11879,7 +11987,8 @@
       "push": false,
       "triage": false,
       "pull": false
-    }
+    },
+    "custom_properties": {}
   },
   {
     "id": 208139850,
@@ -11987,7 +12096,8 @@
       "push": false,
       "triage": false,
       "pull": false
-    }
+    },
+    "custom_properties": {}
   },
   {
     "id": 208139877,
@@ -12095,7 +12205,8 @@
       "push": false,
       "triage": false,
       "pull": false
-    }
+    },
+    "custom_properties": {}
   },
   {
     "id": 208139900,
@@ -12203,7 +12314,8 @@
       "push": false,
       "triage": false,
       "pull": false
-    }
+    },
+    "custom_properties": {}
   },
   {
     "id": 208139915,
@@ -12311,7 +12423,8 @@
       "push": false,
       "triage": false,
       "pull": false
-    }
+    },
+    "custom_properties": {}
   },
   {
     "id": 208139937,
@@ -12419,7 +12532,8 @@
       "push": false,
       "triage": false,
       "pull": false
-    }
+    },
+    "custom_properties": {}
   },
   {
     "id": 208139955,
@@ -12527,7 +12641,8 @@
       "push": false,
       "triage": false,
       "pull": false
-    }
+    },
+    "custom_properties": {}
   },
   {
     "id": 208139995,
@@ -12649,7 +12764,8 @@
       "push": false,
       "triage": false,
       "pull": false
-    }
+    },
+    "custom_properties": {}
   },
   {
     "id": 208140020,
@@ -12757,7 +12873,8 @@
       "push": false,
       "triage": false,
       "pull": false
-    }
+    },
+    "custom_properties": {}
   },
   {
     "id": 208140044,
@@ -12865,7 +12982,8 @@
       "push": false,
       "triage": false,
       "pull": false
-    }
+    },
+    "custom_properties": {}
   },
   {
     "id": 208140074,
@@ -12973,7 +13091,8 @@
       "push": false,
       "triage": false,
       "pull": false
-    }
+    },
+    "custom_properties": {}
   },
   {
     "id": 208140099,
@@ -13081,7 +13200,8 @@
       "push": false,
       "triage": false,
       "pull": false
-    }
+    },
+    "custom_properties": {}
   },
   {
     "id": 208140120,
@@ -13189,7 +13309,8 @@
       "push": false,
       "triage": false,
       "pull": false
-    }
+    },
+    "custom_properties": {}
   },
   {
     "id": 208140140,
@@ -13297,7 +13418,8 @@
       "push": false,
       "triage": false,
       "pull": false
-    }
+    },
+    "custom_properties": {}
   },
   {
     "id": 208140153,
@@ -13405,7 +13527,8 @@
       "push": false,
       "triage": false,
       "pull": false
-    }
+    },
+    "custom_properties": {}
   },
   {
     "id": 208140178,
@@ -13513,7 +13636,8 @@
       "push": false,
       "triage": false,
       "pull": false
-    }
+    },
+    "custom_properties": {}
   },
   {
     "id": 208140215,
@@ -13621,7 +13745,8 @@
       "push": false,
       "triage": false,
       "pull": false
-    }
+    },
+    "custom_properties": {}
   },
   {
     "id": 208140241,
@@ -13729,7 +13854,8 @@
       "push": false,
       "triage": false,
       "pull": false
-    }
+    },
+    "custom_properties": {}
   },
   {
     "id": 208140283,
@@ -13837,7 +13963,8 @@
       "push": false,
       "triage": false,
       "pull": false
-    }
+    },
+    "custom_properties": {}
   },
   {
     "id": 208140307,
@@ -13945,7 +14072,8 @@
       "push": false,
       "triage": false,
       "pull": false
-    }
+    },
+    "custom_properties": {}
   },
   {
     "id": 208140330,
@@ -14053,7 +14181,8 @@
       "push": false,
       "triage": false,
       "pull": false
-    }
+    },
+    "custom_properties": {}
   },
   {
     "id": 208140349,
@@ -14161,7 +14290,8 @@
       "push": false,
       "triage": false,
       "pull": false
-    }
+    },
+    "custom_properties": {}
   },
   {
     "id": 208140372,
@@ -14269,7 +14399,8 @@
       "push": false,
       "triage": false,
       "pull": false
-    }
+    },
+    "custom_properties": {}
   },
   {
     "id": 208140396,
@@ -14377,7 +14508,8 @@
       "push": false,
       "triage": false,
       "pull": false
-    }
+    },
+    "custom_properties": {}
   },
   {
     "id": 208140420,
@@ -14485,7 +14617,8 @@
       "push": false,
       "triage": false,
       "pull": false
-    }
+    },
+    "custom_properties": {}
   },
   {
     "id": 208140446,
@@ -14593,7 +14726,8 @@
       "push": false,
       "triage": false,
       "pull": false
-    }
+    },
+    "custom_properties": {}
   },
   {
     "id": 208140473,
@@ -14701,7 +14835,8 @@
       "push": false,
       "triage": false,
       "pull": false
-    }
+    },
+    "custom_properties": {}
   },
   {
     "id": 208140503,
@@ -14809,7 +14944,8 @@
       "push": false,
       "triage": false,
       "pull": false
-    }
+    },
+    "custom_properties": {}
   },
   {
     "id": 208140530,
@@ -14917,7 +15053,8 @@
       "push": false,
       "triage": false,
       "pull": false
-    }
+    },
+    "custom_properties": {}
   },
   {
     "id": 208140551,
@@ -15025,7 +15162,8 @@
       "push": false,
       "triage": false,
       "pull": false
-    }
+    },
+    "custom_properties": {}
   },
   {
     "id": 208140567,
@@ -15133,7 +15271,8 @@
       "push": false,
       "triage": false,
       "pull": false
-    }
+    },
+    "custom_properties": {}
   },
   {
     "id": 208140589,
@@ -15241,7 +15380,8 @@
       "push": false,
       "triage": false,
       "pull": false
-    }
+    },
+    "custom_properties": {}
   },
   {
     "id": 208140609,
@@ -15349,7 +15489,8 @@
       "push": false,
       "triage": false,
       "pull": false
-    }
+    },
+    "custom_properties": {}
   },
   {
     "id": 209405109,
@@ -15457,7 +15598,8 @@
       "push": false,
       "triage": false,
       "pull": false
-    }
+    },
+    "custom_properties": {}
   },
   {
     "id": 214008541,
@@ -15565,7 +15707,8 @@
       "push": false,
       "triage": false,
       "pull": false
-    }
+    },
+    "custom_properties": {}
   },
   {
     "id": 214012826,
@@ -15673,7 +15816,8 @@
       "push": false,
       "triage": false,
       "pull": false
-    }
+    },
+    "custom_properties": {}
   },
   {
     "id": 216084519,
@@ -15781,7 +15925,8 @@
       "push": false,
       "triage": false,
       "pull": false
-    }
+    },
+    "custom_properties": {}
   },
   {
     "id": 216086480,
@@ -15889,7 +16034,8 @@
       "push": false,
       "triage": false,
       "pull": false
-    }
+    },
+    "custom_properties": {}
   },
   {
     "id": 218347872,
@@ -15997,7 +16143,8 @@
       "push": false,
       "triage": false,
       "pull": false
-    }
+    },
+    "custom_properties": {}
   },
   {
     "id": 218991144,
@@ -16108,7 +16255,8 @@
       "push": false,
       "triage": false,
       "pull": false
-    }
+    },
+    "custom_properties": {}
   },
   {
     "id": 220513079,
@@ -16216,7 +16364,8 @@
       "push": false,
       "triage": false,
       "pull": false
-    }
+    },
+    "custom_properties": {}
   },
   {
     "id": 222790346,
@@ -16324,7 +16473,8 @@
       "push": false,
       "triage": false,
       "pull": false
-    }
+    },
+    "custom_properties": {}
   },
   {
     "id": 223088297,
@@ -16432,7 +16582,8 @@
       "push": false,
       "triage": false,
       "pull": false
-    }
+    },
+    "custom_properties": {}
   },
   {
     "id": 223089389,
@@ -16540,7 +16691,8 @@
       "push": false,
       "triage": false,
       "pull": false
-    }
+    },
+    "custom_properties": {}
   },
   {
     "id": 230483220,
@@ -16648,7 +16800,8 @@
       "push": false,
       "triage": false,
       "pull": false
-    }
+    },
+    "custom_properties": {}
   },
   {
     "id": 231630996,
@@ -16761,7 +16914,8 @@
       "push": false,
       "triage": false,
       "pull": false
-    }
+    },
+    "custom_properties": {}
   },
   {
     "id": 232370257,
@@ -16875,7 +17029,8 @@
       "push": false,
       "triage": false,
       "pull": false
-    }
+    },
+    "custom_properties": {}
   },
   {
     "id": 236350704,
@@ -16946,13 +17101,13 @@
     "deployments_url": "https://api.github.com/repos/OWASP/www-project-developer-guide/deployments",
     "created_at": "2020-01-26T17:45:08Z",
     "updated_at": "2025-05-19T06:10:44Z",
-    "pushed_at": "2025-05-19T06:10:40Z",
+    "pushed_at": "2025-05-22T19:03:35Z",
     "git_url": "git://github.com/OWASP/www-project-developer-guide.git",
     "ssh_url": "git@github.com:OWASP/www-project-developer-guide.git",
     "clone_url": "https://github.com/OWASP/www-project-developer-guide.git",
     "svn_url": "https://github.com/OWASP/www-project-developer-guide",
     "homepage": "https://owasp.org/www-project-developer-guide/",
-    "size": 51193,
+    "size": 51196,
     "stargazers_count": 112,
     "watchers_count": 112,
     "language": "HTML",
@@ -16966,7 +17121,7 @@
     "mirror_url": null,
     "archived": false,
     "disabled": false,
-    "open_issues_count": 1,
+    "open_issues_count": 2,
     "license": {
       "key": "cc-by-sa-4.0",
       "name": "Creative Commons Attribution Share Alike 4.0 International",
@@ -16983,7 +17138,7 @@
     ],
     "visibility": "public",
     "forks": 28,
-    "open_issues": 1,
+    "open_issues": 2,
     "watchers": 112,
     "default_branch": "main",
     "permissions": {
@@ -16992,7 +17147,8 @@
       "push": false,
       "triage": false,
       "pull": false
-    }
+    },
+    "custom_properties": {}
   },
   {
     "id": 238740228,
@@ -17100,7 +17256,8 @@
       "push": false,
       "triage": false,
       "pull": false
-    }
+    },
+    "custom_properties": {}
   },
   {
     "id": 239531575,
@@ -17208,7 +17365,8 @@
       "push": false,
       "triage": false,
       "pull": false
-    }
+    },
+    "custom_properties": {}
   },
   {
     "id": 243041362,
@@ -17316,7 +17474,8 @@
       "push": false,
       "triage": false,
       "pull": false
-    }
+    },
+    "custom_properties": {}
   },
   {
     "id": 245194486,
@@ -17424,7 +17583,8 @@
       "push": false,
       "triage": false,
       "pull": false
-    }
+    },
+    "custom_properties": {}
   },
   {
     "id": 250064838,
@@ -17532,7 +17692,8 @@
       "push": false,
       "triage": false,
       "pull": false
-    }
+    },
+    "custom_properties": {}
   },
   {
     "id": 261817885,
@@ -17640,7 +17801,8 @@
       "push": false,
       "triage": false,
       "pull": false
-    }
+    },
+    "custom_properties": {}
   },
   {
     "id": 261822019,
@@ -17748,7 +17910,8 @@
       "push": false,
       "triage": false,
       "pull": false
-    }
+    },
+    "custom_properties": {}
   },
   {
     "id": 261824424,
@@ -17856,7 +18019,8 @@
       "push": false,
       "triage": false,
       "pull": false
-    }
+    },
+    "custom_properties": {}
   },
   {
     "id": 261848706,
@@ -17969,7 +18133,8 @@
       "push": false,
       "triage": false,
       "pull": false
-    }
+    },
+    "custom_properties": {}
   },
   {
     "id": 261853234,
@@ -18077,7 +18242,8 @@
       "push": false,
       "triage": false,
       "pull": false
-    }
+    },
+    "custom_properties": {}
   },
   {
     "id": 261859560,
@@ -18191,7 +18357,8 @@
       "push": false,
       "triage": false,
       "pull": false
-    }
+    },
+    "custom_properties": {}
   },
   {
     "id": 262370054,
@@ -18305,7 +18472,8 @@
       "push": false,
       "triage": false,
       "pull": false
-    }
+    },
+    "custom_properties": {}
   },
   {
     "id": 262554239,
@@ -18419,7 +18587,8 @@
       "push": false,
       "triage": false,
       "pull": false
-    }
+    },
+    "custom_properties": {}
   },
   {
     "id": 263347245,
@@ -18533,7 +18702,8 @@
       "push": false,
       "triage": false,
       "pull": false
-    }
+    },
+    "custom_properties": {}
   },
   {
     "id": 263664558,
@@ -18641,7 +18811,8 @@
       "push": false,
       "triage": false,
       "pull": false
-    }
+    },
+    "custom_properties": {}
   },
   {
     "id": 263667550,
@@ -18749,7 +18920,8 @@
       "push": false,
       "triage": false,
       "pull": false
-    }
+    },
+    "custom_properties": {}
   },
   {
     "id": 263669123,
@@ -18857,7 +19029,8 @@
       "push": false,
       "triage": false,
       "pull": false
-    }
+    },
+    "custom_properties": {}
   },
   {
     "id": 267608155,
@@ -18965,7 +19138,8 @@
       "push": false,
       "triage": false,
       "pull": false
-    }
+    },
+    "custom_properties": {}
   },
   {
     "id": 267614957,
@@ -19073,7 +19247,8 @@
       "push": false,
       "triage": false,
       "pull": false
-    }
+    },
+    "custom_properties": {}
   },
   {
     "id": 267619313,
@@ -19181,7 +19356,8 @@
       "push": false,
       "triage": false,
       "pull": false
-    }
+    },
+    "custom_properties": {}
   },
   {
     "id": 271541036,
@@ -19289,7 +19465,8 @@
       "push": false,
       "triage": false,
       "pull": false
-    }
+    },
+    "custom_properties": {}
   },
   {
     "id": 276653030,
@@ -19397,7 +19574,8 @@
       "push": false,
       "triage": false,
       "pull": false
-    }
+    },
+    "custom_properties": {}
   },
   {
     "id": 276661218,
@@ -19505,7 +19683,8 @@
       "push": false,
       "triage": false,
       "pull": false
-    }
+    },
+    "custom_properties": {}
   },
   {
     "id": 276665263,
@@ -19613,7 +19792,8 @@
       "push": false,
       "triage": false,
       "pull": false
-    }
+    },
+    "custom_properties": {}
   },
   {
     "id": 278361671,
@@ -19721,7 +19901,8 @@
       "push": false,
       "triage": false,
       "pull": false
-    }
+    },
+    "custom_properties": {}
   },
   {
     "id": 281155096,
@@ -19835,7 +20016,8 @@
       "push": false,
       "triage": false,
       "pull": false
-    }
+    },
+    "custom_properties": {}
   },
   {
     "id": 284700937,
@@ -19943,7 +20125,8 @@
       "push": false,
       "triage": false,
       "pull": false
-    }
+    },
+    "custom_properties": {}
   },
   {
     "id": 290797476,
@@ -20051,7 +20234,8 @@
       "push": false,
       "triage": false,
       "pull": false
-    }
+    },
+    "custom_properties": {}
   },
   {
     "id": 290800092,
@@ -20159,7 +20343,8 @@
       "push": false,
       "triage": false,
       "pull": false
-    }
+    },
+    "custom_properties": {}
   },
   {
     "id": 290801223,
@@ -20267,7 +20452,8 @@
       "push": false,
       "triage": false,
       "pull": false
-    }
+    },
+    "custom_properties": {}
   },
   {
     "id": 290803219,
@@ -20375,7 +20561,8 @@
       "push": false,
       "triage": false,
       "pull": false
-    }
+    },
+    "custom_properties": {}
   },
   {
     "id": 290804430,
@@ -20483,7 +20670,8 @@
       "push": false,
       "triage": false,
       "pull": false
-    }
+    },
+    "custom_properties": {}
   },
   {
     "id": 290805583,
@@ -20591,7 +20779,8 @@
       "push": false,
       "triage": false,
       "pull": false
-    }
+    },
+    "custom_properties": {}
   },
   {
     "id": 291081289,
@@ -20699,7 +20888,8 @@
       "push": false,
       "triage": false,
       "pull": false
-    }
+    },
+    "custom_properties": {}
   },
   {
     "id": 291082652,
@@ -20807,7 +20997,8 @@
       "push": false,
       "triage": false,
       "pull": false
-    }
+    },
+    "custom_properties": {}
   },
   {
     "id": 291084060,
@@ -20915,7 +21106,8 @@
       "push": false,
       "triage": false,
       "pull": false
-    }
+    },
+    "custom_properties": {}
   },
   {
     "id": 294165024,
@@ -21023,7 +21215,8 @@
       "push": false,
       "triage": false,
       "pull": false
-    }
+    },
+    "custom_properties": {}
   },
   {
     "id": 299385358,
@@ -21131,7 +21324,8 @@
       "push": false,
       "triage": false,
       "pull": false
-    }
+    },
+    "custom_properties": {}
   },
   {
     "id": 299435669,
@@ -21239,7 +21433,8 @@
       "push": false,
       "triage": false,
       "pull": false
-    }
+    },
+    "custom_properties": {}
   },
   {
     "id": 299970198,
@@ -21347,7 +21542,8 @@
       "push": false,
       "triage": false,
       "pull": false
-    }
+    },
+    "custom_properties": {}
   },
   {
     "id": 299973109,
@@ -21455,7 +21651,8 @@
       "push": false,
       "triage": false,
       "pull": false
-    }
+    },
+    "custom_properties": {}
   },
   {
     "id": 300058198,
@@ -21563,7 +21760,8 @@
       "push": false,
       "triage": false,
       "pull": false
-    }
+    },
+    "custom_properties": {}
   },
   {
     "id": 303465645,
@@ -21677,7 +21875,8 @@
       "push": false,
       "triage": false,
       "pull": false
-    }
+    },
+    "custom_properties": {}
   },
   {
     "id": 307750619,
@@ -21785,7 +21984,8 @@
       "push": false,
       "triage": false,
       "pull": false
-    }
+    },
+    "custom_properties": {}
   },
   {
     "id": 316053055,
@@ -21893,7 +22093,8 @@
       "push": false,
       "triage": false,
       "pull": false
-    }
+    },
+    "custom_properties": {}
   },
   {
     "id": 327080488,
@@ -22001,7 +22202,8 @@
       "push": false,
       "triage": false,
       "pull": false
-    }
+    },
+    "custom_properties": {}
   },
   {
     "id": 330718884,
@@ -22109,7 +22311,8 @@
       "push": false,
       "triage": false,
       "pull": false
-    }
+    },
+    "custom_properties": {}
   },
   {
     "id": 330721010,
@@ -22217,7 +22420,8 @@
       "push": false,
       "triage": false,
       "pull": false
-    }
+    },
+    "custom_properties": {}
   },
   {
     "id": 330724809,
@@ -22325,7 +22529,8 @@
       "push": false,
       "triage": false,
       "pull": false
-    }
+    },
+    "custom_properties": {}
   },
   {
     "id": 330730408,
@@ -22433,7 +22638,8 @@
       "push": false,
       "triage": false,
       "pull": false
-    }
+    },
+    "custom_properties": {}
   },
   {
     "id": 330731837,
@@ -22541,7 +22747,8 @@
       "push": false,
       "triage": false,
       "pull": false
-    }
+    },
+    "custom_properties": {}
   },
   {
     "id": 330736530,
@@ -22649,7 +22856,8 @@
       "push": false,
       "triage": false,
       "pull": false
-    }
+    },
+    "custom_properties": {}
   },
   {
     "id": 330738622,
@@ -22757,7 +22965,8 @@
       "push": false,
       "triage": false,
       "pull": false
-    }
+    },
+    "custom_properties": {}
   },
   {
     "id": 330744456,
@@ -22865,7 +23074,8 @@
       "push": false,
       "triage": false,
       "pull": false
-    }
+    },
+    "custom_properties": {}
   },
   {
     "id": 334323465,
@@ -22973,7 +23183,8 @@
       "push": false,
       "triage": false,
       "pull": false
-    }
+    },
+    "custom_properties": {}
   },
   {
     "id": 336003018,
@@ -23081,7 +23292,8 @@
       "push": false,
       "triage": false,
       "pull": false
-    }
+    },
+    "custom_properties": {}
   },
   {
     "id": 347674912,
@@ -23189,7 +23401,8 @@
       "push": false,
       "triage": false,
       "pull": false
-    }
+    },
+    "custom_properties": {}
   },
   {
     "id": 347676117,
@@ -23297,7 +23510,8 @@
       "push": false,
       "triage": false,
       "pull": false
-    }
+    },
+    "custom_properties": {}
   },
   {
     "id": 347677196,
@@ -23405,7 +23619,8 @@
       "push": false,
       "triage": false,
       "pull": false
-    }
+    },
+    "custom_properties": {}
   },
   {
     "id": 347679677,
@@ -23519,7 +23734,8 @@
       "push": false,
       "triage": false,
       "pull": false
-    }
+    },
+    "custom_properties": {}
   },
   {
     "id": 350831239,
@@ -23627,7 +23843,8 @@
       "push": false,
       "triage": false,
       "pull": false
-    }
+    },
+    "custom_properties": {}
   },
   {
     "id": 350832628,
@@ -23735,7 +23952,8 @@
       "push": false,
       "triage": false,
       "pull": false
-    }
+    },
+    "custom_properties": {}
   },
   {
     "id": 350833710,
@@ -23843,7 +24061,8 @@
       "push": false,
       "triage": false,
       "pull": false
-    }
+    },
+    "custom_properties": {}
   },
   {
     "id": 350835938,
@@ -23951,7 +24170,8 @@
       "push": false,
       "triage": false,
       "pull": false
-    }
+    },
+    "custom_properties": {}
   },
   {
     "id": 369316291,
@@ -24059,7 +24279,8 @@
       "push": false,
       "triage": false,
       "pull": false
-    }
+    },
+    "custom_properties": {}
   },
   {
     "id": 369317728,
@@ -24167,7 +24388,8 @@
       "push": false,
       "triage": false,
       "pull": false
-    }
+    },
+    "custom_properties": {}
   },
   {
     "id": 369318971,
@@ -24275,7 +24497,8 @@
       "push": false,
       "triage": false,
       "pull": false
-    }
+    },
+    "custom_properties": {}
   },
   {
     "id": 369320126,
@@ -24383,7 +24606,8 @@
       "push": false,
       "triage": false,
       "pull": false
-    }
+    },
+    "custom_properties": {}
   },
   {
     "id": 369321358,
@@ -24497,7 +24721,8 @@
       "push": false,
       "triage": false,
       "pull": false
-    }
+    },
+    "custom_properties": {}
   },
   {
     "id": 369322313,
@@ -24611,7 +24836,8 @@
       "push": false,
       "triage": false,
       "pull": false
-    }
+    },
+    "custom_properties": {}
   },
   {
     "id": 369323722,
@@ -24719,7 +24945,8 @@
       "push": false,
       "triage": false,
       "pull": false
-    }
+    },
+    "custom_properties": {}
   },
   {
     "id": 369324603,
@@ -24833,7 +25060,8 @@
       "push": false,
       "triage": false,
       "pull": false
-    }
+    },
+    "custom_properties": {}
   },
   {
     "id": 373899344,
@@ -24941,7 +25169,8 @@
       "push": false,
       "triage": false,
       "pull": false
-    }
+    },
+    "custom_properties": {}
   },
   {
     "id": 379959725,
@@ -25049,7 +25278,8 @@
       "push": false,
       "triage": false,
       "pull": false
-    }
+    },
+    "custom_properties": {}
   },
   {
     "id": 379967669,
@@ -25157,7 +25387,8 @@
       "push": false,
       "triage": false,
       "pull": false
-    }
+    },
+    "custom_properties": {}
   },
   {
     "id": 380248992,
@@ -25265,7 +25496,8 @@
       "push": false,
       "triage": false,
       "pull": false
-    }
+    },
+    "custom_properties": {}
   },
   {
     "id": 380251020,
@@ -25373,7 +25605,8 @@
       "push": false,
       "triage": false,
       "pull": false
-    }
+    },
+    "custom_properties": {}
   },
   {
     "id": 390468761,
@@ -25481,7 +25714,8 @@
       "push": false,
       "triage": false,
       "pull": false
-    }
+    },
+    "custom_properties": {}
   },
   {
     "id": 399148857,
@@ -25604,7 +25838,8 @@
       "push": false,
       "triage": false,
       "pull": false
-    }
+    },
+    "custom_properties": {}
   },
   {
     "id": 399249762,
@@ -25712,7 +25947,8 @@
       "push": false,
       "triage": false,
       "pull": false
-    }
+    },
+    "custom_properties": {}
   },
   {
     "id": 399898395,
@@ -25829,7 +26065,8 @@
       "push": false,
       "triage": false,
       "pull": false
-    }
+    },
+    "custom_properties": {}
   },
   {
     "id": 404354012,
@@ -25937,7 +26174,8 @@
       "push": false,
       "triage": false,
       "pull": false
-    }
+    },
+    "custom_properties": {}
   },
   {
     "id": 404355712,
@@ -26045,7 +26283,8 @@
       "push": false,
       "triage": false,
       "pull": false
-    }
+    },
+    "custom_properties": {}
   },
   {
     "id": 413568559,
@@ -26153,7 +26392,8 @@
       "push": false,
       "triage": false,
       "pull": false
-    }
+    },
+    "custom_properties": {}
   },
   {
     "id": 413570060,
@@ -26261,7 +26501,8 @@
       "push": false,
       "triage": false,
       "pull": false
-    }
+    },
+    "custom_properties": {}
   },
   {
     "id": 427023034,
@@ -26331,8 +26572,8 @@
     "releases_url": "https://api.github.com/repos/OWASP/www-project-wrongsecrets/releases{/id}",
     "deployments_url": "https://api.github.com/repos/OWASP/www-project-wrongsecrets/deployments",
     "created_at": "2021-11-11T14:05:33Z",
-    "updated_at": "2025-03-13T08:41:58Z",
-    "pushed_at": "2025-03-13T08:41:57Z",
+    "updated_at": "2025-05-22T07:01:23Z",
+    "pushed_at": "2025-05-22T07:01:19Z",
     "git_url": "git://github.com/OWASP/www-project-wrongsecrets.git",
     "ssh_url": "git@github.com:OWASP/www-project-wrongsecrets.git",
     "clone_url": "https://github.com/OWASP/www-project-wrongsecrets.git",
@@ -26369,7 +26610,8 @@
       "push": false,
       "triage": false,
       "pull": false
-    }
+    },
+    "custom_properties": {}
   },
   {
     "id": 427025766,
@@ -26477,7 +26719,8 @@
       "push": false,
       "triage": false,
       "pull": false
-    }
+    },
+    "custom_properties": {}
   },
   {
     "id": 427027491,
@@ -26585,7 +26828,8 @@
       "push": false,
       "triage": false,
       "pull": false
-    }
+    },
+    "custom_properties": {}
   },
   {
     "id": 427406738,
@@ -26693,7 +26937,8 @@
       "push": false,
       "triage": false,
       "pull": false
-    }
+    },
+    "custom_properties": {}
   },
   {
     "id": 429080834,
@@ -26801,7 +27046,8 @@
       "push": false,
       "triage": false,
       "pull": false
-    }
+    },
+    "custom_properties": {}
   },
   {
     "id": 433864978,
@@ -26909,7 +27155,8 @@
       "push": false,
       "triage": false,
       "pull": false
-    }
+    },
+    "custom_properties": {}
   },
   {
     "id": 445675494,
@@ -27017,7 +27264,8 @@
       "push": false,
       "triage": false,
       "pull": false
-    }
+    },
+    "custom_properties": {}
   },
   {
     "id": 453120264,
@@ -27131,7 +27379,8 @@
       "push": false,
       "triage": false,
       "pull": false
-    }
+    },
+    "custom_properties": {}
   },
   {
     "id": 453125490,
@@ -27239,7 +27488,8 @@
       "push": false,
       "triage": false,
       "pull": false
-    }
+    },
+    "custom_properties": {}
   },
   {
     "id": 459625879,
@@ -27347,7 +27597,8 @@
       "push": false,
       "triage": false,
       "pull": false
-    }
+    },
+    "custom_properties": {}
   },
   {
     "id": 463190241,
@@ -27455,7 +27706,8 @@
       "push": false,
       "triage": false,
       "pull": false
-    }
+    },
+    "custom_properties": {}
   },
   {
     "id": 467979371,
@@ -27563,7 +27815,8 @@
       "push": false,
       "triage": false,
       "pull": false
-    }
+    },
+    "custom_properties": {}
   },
   {
     "id": 476310231,
@@ -27671,7 +27924,8 @@
       "push": false,
       "triage": false,
       "pull": false
-    }
+    },
+    "custom_properties": {}
   },
   {
     "id": 476359663,
@@ -27779,7 +28033,8 @@
       "push": false,
       "triage": false,
       "pull": false
-    }
+    },
+    "custom_properties": {}
   },
   {
     "id": 476388431,
@@ -27897,7 +28152,8 @@
       "push": false,
       "triage": false,
       "pull": false
-    }
+    },
+    "custom_properties": {}
   },
   {
     "id": 494176671,
@@ -28011,7 +28267,8 @@
       "push": false,
       "triage": false,
       "pull": false
-    }
+    },
+    "custom_properties": {}
   },
   {
     "id": 506270882,
@@ -28125,7 +28382,8 @@
       "push": false,
       "triage": false,
       "pull": false
-    }
+    },
+    "custom_properties": {}
   },
   {
     "id": 513190025,
@@ -28233,7 +28491,8 @@
       "push": false,
       "triage": false,
       "pull": false
-    }
+    },
+    "custom_properties": {}
   },
   {
     "id": 515337129,
@@ -28341,7 +28600,8 @@
       "push": false,
       "triage": false,
       "pull": false
-    }
+    },
+    "custom_properties": {}
   },
   {
     "id": 516049781,
@@ -28455,7 +28715,8 @@
       "push": false,
       "triage": false,
       "pull": false
-    }
+    },
+    "custom_properties": {}
   },
   {
     "id": 516053764,
@@ -28569,7 +28830,8 @@
       "push": false,
       "triage": false,
       "pull": false
-    }
+    },
+    "custom_properties": {}
   },
   {
     "id": 518476274,
@@ -28677,7 +28939,8 @@
       "push": false,
       "triage": false,
       "pull": false
-    }
+    },
+    "custom_properties": {}
   },
   {
     "id": 528952568,
@@ -28785,7 +29048,8 @@
       "push": false,
       "triage": false,
       "pull": false
-    }
+    },
+    "custom_properties": {}
   },
   {
     "id": 557350445,
@@ -28912,7 +29176,8 @@
       "push": false,
       "triage": false,
       "pull": false
-    }
+    },
+    "custom_properties": {}
   },
   {
     "id": 564454793,
@@ -29025,7 +29290,8 @@
       "push": false,
       "triage": false,
       "pull": false
-    }
+    },
+    "custom_properties": {}
   },
   {
     "id": 565889073,
@@ -29133,7 +29399,8 @@
       "push": false,
       "triage": false,
       "pull": false
-    }
+    },
+    "custom_properties": {}
   },
   {
     "id": 565906557,
@@ -29241,7 +29508,8 @@
       "push": false,
       "triage": false,
       "pull": false
-    }
+    },
+    "custom_properties": {}
   },
   {
     "id": 565911620,
@@ -29349,7 +29617,8 @@
       "push": false,
       "triage": false,
       "pull": false
-    }
+    },
+    "custom_properties": {}
   },
   {
     "id": 593285023,
@@ -29457,7 +29726,8 @@
       "push": false,
       "triage": false,
       "pull": false
-    }
+    },
+    "custom_properties": {}
   },
   {
     "id": 595710903,
@@ -29565,7 +29835,8 @@
       "push": false,
       "triage": false,
       "pull": false
-    }
+    },
+    "custom_properties": {}
   },
   {
     "id": 595736783,
@@ -29679,7 +29950,8 @@
       "push": false,
       "triage": false,
       "pull": false
-    }
+    },
+    "custom_properties": {}
   },
   {
     "id": 600825588,
@@ -29787,7 +30059,8 @@
       "push": false,
       "triage": false,
       "pull": false
-    }
+    },
+    "custom_properties": {}
   },
   {
     "id": 600828858,
@@ -29907,7 +30180,8 @@
       "push": false,
       "triage": false,
       "pull": false
-    }
+    },
+    "custom_properties": {}
   },
   {
     "id": 600834408,
@@ -30015,7 +30289,8 @@
       "push": false,
       "triage": false,
       "pull": false
-    }
+    },
+    "custom_properties": {}
   },
   {
     "id": 600842651,
@@ -30129,7 +30404,8 @@
       "push": false,
       "triage": false,
       "pull": false
-    }
+    },
+    "custom_properties": {}
   },
   {
     "id": 613483648,
@@ -30237,7 +30513,8 @@
       "push": false,
       "triage": false,
       "pull": false
-    }
+    },
+    "custom_properties": {}
   },
   {
     "id": 613493800,
@@ -30355,7 +30632,8 @@
       "push": false,
       "triage": false,
       "pull": false
-    }
+    },
+    "custom_properties": {}
   },
   {
     "id": 614907652,
@@ -30463,7 +30741,8 @@
       "push": false,
       "triage": false,
       "pull": false
-    }
+    },
+    "custom_properties": {}
   },
   {
     "id": 617645075,
@@ -30571,7 +30850,8 @@
       "push": false,
       "triage": false,
       "pull": false
-    }
+    },
+    "custom_properties": {}
   },
   {
     "id": 621418230,
@@ -30679,7 +30959,8 @@
       "push": false,
       "triage": false,
       "pull": false
-    }
+    },
+    "custom_properties": {}
   },
   {
     "id": 622984569,
@@ -30802,7 +31083,8 @@
       "push": false,
       "triage": false,
       "pull": false
-    }
+    },
+    "custom_properties": {}
   },
   {
     "id": 624020592,
@@ -30910,7 +31192,8 @@
       "push": false,
       "triage": false,
       "pull": false
-    }
+    },
+    "custom_properties": {}
   },
   {
     "id": 624023903,
@@ -31028,7 +31311,8 @@
       "push": false,
       "triage": false,
       "pull": false
-    }
+    },
+    "custom_properties": {}
   },
   {
     "id": 624026638,
@@ -31136,7 +31420,8 @@
       "push": false,
       "triage": false,
       "pull": false
-    }
+    },
+    "custom_properties": {}
   },
   {
     "id": 624037191,
@@ -31244,7 +31529,8 @@
       "push": false,
       "triage": false,
       "pull": false
-    }
+    },
+    "custom_properties": {}
   },
   {
     "id": 630582842,
@@ -31358,7 +31644,8 @@
       "push": false,
       "triage": false,
       "pull": false
-    }
+    },
+    "custom_properties": {}
   },
   {
     "id": 635808819,
@@ -31472,7 +31759,8 @@
       "push": false,
       "triage": false,
       "pull": false
-    }
+    },
+    "custom_properties": {}
   },
   {
     "id": 641487831,
@@ -31542,16 +31830,16 @@
     "releases_url": "https://api.github.com/repos/OWASP/www-project-top-10-for-large-language-model-applications/releases{/id}",
     "deployments_url": "https://api.github.com/repos/OWASP/www-project-top-10-for-large-language-model-applications/deployments",
     "created_at": "2023-05-16T15:12:44Z",
-    "updated_at": "2025-05-21T15:13:02Z",
-    "pushed_at": "2025-05-12T00:26:33Z",
+    "updated_at": "2025-05-22T14:43:15Z",
+    "pushed_at": "2025-05-22T11:25:55Z",
     "git_url": "git://github.com/OWASP/www-project-top-10-for-large-language-model-applications.git",
     "ssh_url": "git@github.com:OWASP/www-project-top-10-for-large-language-model-applications.git",
     "clone_url": "https://github.com/OWASP/www-project-top-10-for-large-language-model-applications.git",
     "svn_url": "https://github.com/OWASP/www-project-top-10-for-large-language-model-applications",
     "homepage": null,
-    "size": 377638,
-    "stargazers_count": 744,
-    "watchers_count": 744,
+    "size": 377651,
+    "stargazers_count": 745,
+    "watchers_count": 745,
     "language": "TeX",
     "has_issues": true,
     "has_projects": true,
@@ -31578,7 +31866,7 @@
     "visibility": "public",
     "forks": 192,
     "open_issues": 17,
-    "watchers": 744,
+    "watchers": 745,
     "default_branch": "main",
     "permissions": {
       "admin": false,
@@ -31586,7 +31874,8 @@
       "push": false,
       "triage": false,
       "pull": false
-    }
+    },
+    "custom_properties": {}
   },
   {
     "id": 650177748,
@@ -31700,7 +31989,8 @@
       "push": false,
       "triage": false,
       "pull": false
-    }
+    },
+    "custom_properties": {}
   },
   {
     "id": 650242394,
@@ -31814,7 +32104,8 @@
       "push": false,
       "triage": false,
       "pull": false
-    }
+    },
+    "custom_properties": {}
   },
   {
     "id": 656401130,
@@ -31928,7 +32219,8 @@
       "push": false,
       "triage": false,
       "pull": false
-    }
+    },
+    "custom_properties": {}
   },
   {
     "id": 659862947,
@@ -32042,7 +32334,8 @@
       "push": false,
       "triage": false,
       "pull": false
-    }
+    },
+    "custom_properties": {}
   },
   {
     "id": 659922109,
@@ -32156,7 +32449,8 @@
       "push": false,
       "triage": false,
       "pull": false
-    }
+    },
+    "custom_properties": {}
   },
   {
     "id": 667923022,
@@ -32270,7 +32564,8 @@
       "push": false,
       "triage": false,
       "pull": false
-    }
+    },
+    "custom_properties": {}
   },
   {
     "id": 670331453,
@@ -32384,7 +32679,8 @@
       "push": false,
       "triage": false,
       "pull": false
-    }
+    },
+    "custom_properties": {}
   },
   {
     "id": 670334866,
@@ -32498,7 +32794,8 @@
       "push": false,
       "triage": false,
       "pull": false
-    }
+    },
+    "custom_properties": {}
   },
   {
     "id": 676280285,
@@ -32612,7 +32909,8 @@
       "push": false,
       "triage": false,
       "pull": false
-    }
+    },
+    "custom_properties": {}
   },
   {
     "id": 678933310,
@@ -32726,7 +33024,8 @@
       "push": false,
       "triage": false,
       "pull": false
-    }
+    },
+    "custom_properties": {}
   },
   {
     "id": 678993794,
@@ -32840,7 +33139,8 @@
       "push": false,
       "triage": false,
       "pull": false
-    }
+    },
+    "custom_properties": {}
   },
   {
     "id": 678998278,
@@ -32954,7 +33254,8 @@
       "push": false,
       "triage": false,
       "pull": false
-    }
+    },
+    "custom_properties": {}
   },
   {
     "id": 682663571,
@@ -33068,7 +33369,8 @@
       "push": false,
       "triage": false,
       "pull": false
-    }
+    },
+    "custom_properties": {}
   },
   {
     "id": 690198179,
@@ -33182,7 +33484,8 @@
       "push": false,
       "triage": false,
       "pull": false
-    }
+    },
+    "custom_properties": {}
   },
   {
     "id": 690203908,
@@ -33290,7 +33593,8 @@
       "push": false,
       "triage": false,
       "pull": false
-    }
+    },
+    "custom_properties": {}
   },
   {
     "id": 690210341,
@@ -33407,7 +33711,8 @@
       "push": false,
       "triage": false,
       "pull": false
-    }
+    },
+    "custom_properties": {}
   },
   {
     "id": 696484722,
@@ -33525,7 +33830,8 @@
       "push": false,
       "triage": false,
       "pull": false
-    }
+    },
+    "custom_properties": {}
   },
   {
     "id": 696814494,
@@ -33639,7 +33945,8 @@
       "push": false,
       "triage": false,
       "pull": false
-    }
+    },
+    "custom_properties": {}
   },
   {
     "id": 709384584,
@@ -33757,7 +34064,8 @@
       "push": false,
       "triage": false,
       "pull": false
-    }
+    },
+    "custom_properties": {}
   },
   {
     "id": 716684516,
@@ -33871,7 +34179,8 @@
       "push": false,
       "triage": false,
       "pull": false
-    }
+    },
+    "custom_properties": {}
   },
   {
     "id": 716698782,
@@ -33985,7 +34294,8 @@
       "push": false,
       "triage": false,
       "pull": false
-    }
+    },
+    "custom_properties": {}
   },
   {
     "id": 716706649,
@@ -34099,7 +34409,8 @@
       "push": false,
       "triage": false,
       "pull": false
-    }
+    },
+    "custom_properties": {}
   },
   {
     "id": 716718669,
@@ -34213,7 +34524,8 @@
       "push": false,
       "triage": false,
       "pull": false
-    }
+    },
+    "custom_properties": {}
   },
   {
     "id": 716722473,
@@ -34327,7 +34639,8 @@
       "push": false,
       "triage": false,
       "pull": false
-    }
+    },
+    "custom_properties": {}
   },
   {
     "id": 716732761,
@@ -34441,7 +34754,8 @@
       "push": false,
       "triage": false,
       "pull": false
-    }
+    },
+    "custom_properties": {}
   },
   {
     "id": 741671574,
@@ -34560,7 +34874,8 @@
       "push": false,
       "triage": false,
       "pull": false
-    }
+    },
+    "custom_properties": {}
   },
   {
     "id": 741674002,
@@ -34674,7 +34989,8 @@
       "push": false,
       "triage": false,
       "pull": false
-    }
+    },
+    "custom_properties": {}
   },
   {
     "id": 741674135,
@@ -34788,7 +35104,8 @@
       "push": false,
       "triage": false,
       "pull": false
-    }
+    },
+    "custom_properties": {}
   },
   {
     "id": 741677680,
@@ -34902,7 +35219,8 @@
       "push": false,
       "triage": false,
       "pull": false
-    }
+    },
+    "custom_properties": {}
   },
   {
     "id": 741681642,
@@ -35016,7 +35334,8 @@
       "push": false,
       "triage": false,
       "pull": false
-    }
+    },
+    "custom_properties": {}
   },
   {
     "id": 741683345,
@@ -35130,7 +35449,8 @@
       "push": false,
       "triage": false,
       "pull": false
-    }
+    },
+    "custom_properties": {}
   },
   {
     "id": 742199148,
@@ -35244,7 +35564,8 @@
       "push": false,
       "triage": false,
       "pull": false
-    }
+    },
+    "custom_properties": {}
   },
   {
     "id": 742202471,
@@ -35358,7 +35679,8 @@
       "push": false,
       "triage": false,
       "pull": false
-    }
+    },
+    "custom_properties": {}
   },
   {
     "id": 742204855,
@@ -35472,7 +35794,8 @@
       "push": false,
       "triage": false,
       "pull": false
-    }
+    },
+    "custom_properties": {}
   },
   {
     "id": 742207968,
@@ -35592,7 +35915,8 @@
       "push": false,
       "triage": false,
       "pull": false
-    }
+    },
+    "custom_properties": {}
   },
   {
     "id": 746929621,
@@ -35706,7 +36030,8 @@
       "push": false,
       "triage": false,
       "pull": false
-    }
+    },
+    "custom_properties": {}
   },
   {
     "id": 750033775,
@@ -35820,7 +36145,8 @@
       "push": false,
       "triage": false,
       "pull": false
-    }
+    },
+    "custom_properties": {}
   },
   {
     "id": 750036238,
@@ -35934,7 +36260,8 @@
       "push": false,
       "triage": false,
       "pull": false
-    }
+    },
+    "custom_properties": {}
   },
   {
     "id": 750037995,
@@ -36048,7 +36375,8 @@
       "push": false,
       "triage": false,
       "pull": false
-    }
+    },
+    "custom_properties": {}
   },
   {
     "id": 763779805,
@@ -36162,7 +36490,8 @@
       "push": false,
       "triage": false,
       "pull": false
-    }
+    },
+    "custom_properties": {}
   },
   {
     "id": 764202431,
@@ -36276,7 +36605,8 @@
       "push": false,
       "triage": false,
       "pull": false
-    }
+    },
+    "custom_properties": {}
   },
   {
     "id": 764208923,
@@ -36390,7 +36720,8 @@
       "push": false,
       "triage": false,
       "pull": false
-    }
+    },
+    "custom_properties": {}
   },
   {
     "id": 764797368,
@@ -36504,7 +36835,8 @@
       "push": false,
       "triage": false,
       "pull": false
-    }
+    },
+    "custom_properties": {}
   },
   {
     "id": 768704316,
@@ -36618,7 +36950,8 @@
       "push": false,
       "triage": false,
       "pull": false
-    }
+    },
+    "custom_properties": {}
   },
   {
     "id": 771492575,
@@ -36732,7 +37065,8 @@
       "push": false,
       "triage": false,
       "pull": false
-    }
+    },
+    "custom_properties": {}
   },
   {
     "id": 771494818,
@@ -36846,7 +37180,8 @@
       "push": false,
       "triage": false,
       "pull": false
-    }
+    },
+    "custom_properties": {}
   },
   {
     "id": 772083082,
@@ -36960,7 +37295,8 @@
       "push": false,
       "triage": false,
       "pull": false
-    }
+    },
+    "custom_properties": {}
   },
   {
     "id": 777363632,
@@ -37074,7 +37410,8 @@
       "push": false,
       "triage": false,
       "pull": false
-    }
+    },
+    "custom_properties": {}
   },
   {
     "id": 778509358,
@@ -37188,7 +37525,8 @@
       "push": false,
       "triage": false,
       "pull": false
-    }
+    },
+    "custom_properties": {}
   },
   {
     "id": 811361360,
@@ -37302,7 +37640,8 @@
       "push": false,
       "triage": false,
       "pull": false
-    }
+    },
+    "custom_properties": {}
   },
   {
     "id": 814686598,
@@ -37372,14 +37711,14 @@
     "releases_url": "https://api.github.com/repos/OWASP/www-project-noir/releases{/id}",
     "deployments_url": "https://api.github.com/repos/OWASP/www-project-noir/deployments",
     "created_at": "2024-06-13T13:50:25Z",
-    "updated_at": "2025-04-07T13:49:13Z",
-    "pushed_at": "2025-04-07T13:49:09Z",
+    "updated_at": "2025-05-22T14:06:56Z",
+    "pushed_at": "2025-05-22T14:06:52Z",
     "git_url": "git://github.com/OWASP/www-project-noir.git",
     "ssh_url": "git@github.com:OWASP/www-project-noir.git",
     "clone_url": "https://github.com/OWASP/www-project-noir.git",
     "svn_url": "https://github.com/OWASP/www-project-noir",
     "homepage": "http://owasp.org/www-project-noir/",
-    "size": 803,
+    "size": 800,
     "stargazers_count": 5,
     "watchers_count": 5,
     "language": "HTML",
@@ -37416,7 +37755,8 @@
       "push": false,
       "triage": false,
       "pull": false
-    }
+    },
+    "custom_properties": {}
   },
   {
     "id": 817066703,
@@ -37530,7 +37870,8 @@
       "push": false,
       "triage": false,
       "pull": false
-    }
+    },
+    "custom_properties": {}
   },
   {
     "id": 817787492,
@@ -37600,7 +37941,7 @@
     "releases_url": "https://api.github.com/repos/OWASP/www-project-penetration-test-reporting-standard/releases{/id}",
     "deployments_url": "https://api.github.com/repos/OWASP/www-project-penetration-test-reporting-standard/deployments",
     "created_at": "2024-06-20T12:46:28Z",
-    "updated_at": "2025-04-06T15:48:45Z",
+    "updated_at": "2025-05-22T01:26:44Z",
     "pushed_at": "2025-02-09T11:38:57Z",
     "git_url": "git://github.com/OWASP/www-project-penetration-test-reporting-standard.git",
     "ssh_url": "git@github.com:OWASP/www-project-penetration-test-reporting-standard.git",
@@ -37608,8 +37949,8 @@
     "svn_url": "https://github.com/OWASP/www-project-penetration-test-reporting-standard",
     "homepage": null,
     "size": 641,
-    "stargazers_count": 32,
-    "watchers_count": 32,
+    "stargazers_count": 33,
+    "watchers_count": 33,
     "language": "HTML",
     "has_issues": true,
     "has_projects": true,
@@ -37636,7 +37977,7 @@
     "visibility": "public",
     "forks": 1,
     "open_issues": 0,
-    "watchers": 32,
+    "watchers": 33,
     "default_branch": "main",
     "permissions": {
       "admin": false,
@@ -37644,7 +37985,8 @@
       "push": false,
       "triage": false,
       "pull": false
-    }
+    },
+    "custom_properties": {}
   },
   {
     "id": 832750963,
@@ -37714,14 +38056,14 @@
     "releases_url": "https://api.github.com/repos/OWASP/www-project-operational-technology-top-10/releases{/id}",
     "deployments_url": "https://api.github.com/repos/OWASP/www-project-operational-technology-top-10/deployments",
     "created_at": "2024-07-23T16:43:21Z",
-    "updated_at": "2025-05-21T14:07:02Z",
-    "pushed_at": "2025-05-21T15:00:48Z",
+    "updated_at": "2025-05-22T07:09:16Z",
+    "pushed_at": "2025-05-22T07:09:12Z",
     "git_url": "git://github.com/OWASP/www-project-operational-technology-top-10.git",
     "ssh_url": "git@github.com:OWASP/www-project-operational-technology-top-10.git",
     "clone_url": "https://github.com/OWASP/www-project-operational-technology-top-10.git",
     "svn_url": "https://github.com/OWASP/www-project-operational-technology-top-10",
     "homepage": "",
-    "size": 2275,
+    "size": 2276,
     "stargazers_count": 10,
     "watchers_count": 10,
     "language": "HTML",
@@ -37735,7 +38077,7 @@
     "mirror_url": null,
     "archived": false,
     "disabled": false,
-    "open_issues_count": 6,
+    "open_issues_count": 5,
     "license": {
       "key": "cc-by-sa-4.0",
       "name": "Creative Commons Attribution Share Alike 4.0 International",
@@ -37749,7 +38091,7 @@
     "topics": [],
     "visibility": "public",
     "forks": 7,
-    "open_issues": 6,
+    "open_issues": 5,
     "watchers": 10,
     "default_branch": "main",
     "permissions": {
@@ -37758,7 +38100,8 @@
       "push": false,
       "triage": false,
       "pull": false
-    }
+    },
+    "custom_properties": {}
   },
   {
     "id": 836238557,
@@ -37872,7 +38215,8 @@
       "push": false,
       "triage": false,
       "pull": false
-    }
+    },
+    "custom_properties": {}
   },
   {
     "id": 836241633,
@@ -37986,7 +38330,8 @@
       "push": false,
       "triage": false,
       "pull": false
-    }
+    },
+    "custom_properties": {}
   },
   {
     "id": 837714385,
@@ -38106,7 +38451,8 @@
       "push": false,
       "triage": false,
       "pull": false
-    }
+    },
+    "custom_properties": {}
   },
   {
     "id": 837733903,
@@ -38220,7 +38566,8 @@
       "push": false,
       "triage": false,
       "pull": false
-    }
+    },
+    "custom_properties": {}
   },
   {
     "id": 837737548,
@@ -38334,7 +38681,8 @@
       "push": false,
       "triage": false,
       "pull": false
-    }
+    },
+    "custom_properties": {}
   },
   {
     "id": 837739237,
@@ -38448,7 +38796,8 @@
       "push": false,
       "triage": false,
       "pull": false
-    }
+    },
+    "custom_properties": {}
   },
   {
     "id": 845057084,
@@ -38562,7 +38911,8 @@
       "push": false,
       "triage": false,
       "pull": false
-    }
+    },
+    "custom_properties": {}
   },
   {
     "id": 853036525,
@@ -38676,7 +39026,8 @@
       "push": false,
       "triage": false,
       "pull": false
-    }
+    },
+    "custom_properties": {}
   },
   {
     "id": 858928378,
@@ -38790,7 +39141,8 @@
       "push": false,
       "triage": false,
       "pull": false
-    }
+    },
+    "custom_properties": {}
   },
   {
     "id": 859349247,
@@ -38904,7 +39256,8 @@
       "push": false,
       "triage": false,
       "pull": false
-    }
+    },
+    "custom_properties": {}
   },
   {
     "id": 870322145,
@@ -38974,14 +39327,14 @@
     "releases_url": "https://api.github.com/repos/OWASP/www-project-certified-secure-developer/releases{/id}",
     "deployments_url": "https://api.github.com/repos/OWASP/www-project-certified-secure-developer/deployments",
     "created_at": "2024-10-09T20:36:26Z",
-    "updated_at": "2025-05-20T17:40:39Z",
-    "pushed_at": "2025-05-20T17:40:35Z",
+    "updated_at": "2025-05-22T15:53:30Z",
+    "pushed_at": "2025-05-22T15:53:26Z",
     "git_url": "git://github.com/OWASP/www-project-certified-secure-developer.git",
     "ssh_url": "git@github.com:OWASP/www-project-certified-secure-developer.git",
     "clone_url": "https://github.com/OWASP/www-project-certified-secure-developer.git",
     "svn_url": "https://github.com/OWASP/www-project-certified-secure-developer",
     "homepage": null,
-    "size": 27,
+    "size": 28,
     "stargazers_count": 2,
     "watchers_count": 2,
     "language": "HTML",
@@ -39018,7 +39371,8 @@
       "push": false,
       "triage": false,
       "pull": false
-    }
+    },
+    "custom_properties": {}
   },
   {
     "id": 876144676,
@@ -39132,7 +39486,8 @@
       "push": false,
       "triage": false,
       "pull": false
-    }
+    },
+    "custom_properties": {}
   },
   {
     "id": 876148262,
@@ -39240,7 +39595,8 @@
       "push": false,
       "triage": false,
       "pull": false
-    }
+    },
+    "custom_properties": {}
   },
   {
     "id": 876148735,
@@ -39354,7 +39710,8 @@
       "push": false,
       "triage": false,
       "pull": false
-    }
+    },
+    "custom_properties": {}
   },
   {
     "id": 878687805,
@@ -39468,7 +39825,8 @@
       "push": false,
       "triage": false,
       "pull": false
-    }
+    },
+    "custom_properties": {}
   },
   {
     "id": 892318772,
@@ -39582,7 +39940,8 @@
       "push": false,
       "triage": false,
       "pull": false
-    }
+    },
+    "custom_properties": {}
   },
   {
     "id": 892319796,
@@ -39696,7 +40055,8 @@
       "push": false,
       "triage": false,
       "pull": false
-    }
+    },
+    "custom_properties": {}
   },
   {
     "id": 893260204,
@@ -39810,7 +40170,8 @@
       "push": false,
       "triage": false,
       "pull": false
-    }
+    },
+    "custom_properties": {}
   },
   {
     "id": 893260726,
@@ -39924,7 +40285,8 @@
       "push": false,
       "triage": false,
       "pull": false
-    }
+    },
+    "custom_properties": {}
   },
   {
     "id": 895073093,
@@ -40032,7 +40394,8 @@
       "push": false,
       "triage": false,
       "pull": false
-    }
+    },
+    "custom_properties": {}
   },
   {
     "id": 895074126,
@@ -40146,7 +40509,8 @@
       "push": false,
       "triage": false,
       "pull": false
-    }
+    },
+    "custom_properties": {}
   },
   {
     "id": 896903633,
@@ -40260,7 +40624,8 @@
       "push": false,
       "triage": false,
       "pull": false
-    }
+    },
+    "custom_properties": {}
   },
   {
     "id": 899706325,
@@ -40378,7 +40743,8 @@
       "push": false,
       "triage": false,
       "pull": false
-    }
+    },
+    "custom_properties": {}
   },
   {
     "id": 921156156,
@@ -40492,7 +40858,8 @@
       "push": false,
       "triage": false,
       "pull": false
-    }
+    },
+    "custom_properties": {}
   },
   {
     "id": 921264970,
@@ -40606,7 +40973,8 @@
       "push": false,
       "triage": false,
       "pull": false
-    }
+    },
+    "custom_properties": {}
   },
   {
     "id": 927787180,
@@ -40720,7 +41088,8 @@
       "push": false,
       "triage": false,
       "pull": false
-    }
+    },
+    "custom_properties": {}
   },
   {
     "id": 927989910,
@@ -40834,7 +41203,8 @@
       "push": false,
       "triage": false,
       "pull": false
-    }
+    },
+    "custom_properties": {}
   },
   {
     "id": 929044070,
@@ -40948,7 +41318,8 @@
       "push": false,
       "triage": false,
       "pull": false
-    }
+    },
+    "custom_properties": {}
   },
   {
     "id": 940877931,
@@ -41062,7 +41433,8 @@
       "push": false,
       "triage": false,
       "pull": false
-    }
+    },
+    "custom_properties": {}
   },
   {
     "id": 940879067,
@@ -41176,7 +41548,8 @@
       "push": false,
       "triage": false,
       "pull": false
-    }
+    },
+    "custom_properties": {}
   },
   {
     "id": 941657702,
@@ -41290,7 +41663,8 @@
       "push": false,
       "triage": false,
       "pull": false
-    }
+    },
+    "custom_properties": {}
   },
   {
     "id": 941697884,
@@ -41404,7 +41778,8 @@
       "push": false,
       "triage": false,
       "pull": false
-    }
+    },
+    "custom_properties": {}
   },
   {
     "id": 942135963,
@@ -41518,7 +41893,8 @@
       "push": false,
       "triage": false,
       "pull": false
-    }
+    },
+    "custom_properties": {}
   },
   {
     "id": 943302542,
@@ -41588,7 +41964,7 @@
     "releases_url": "https://api.github.com/repos/OWASP/www-project-eks-goat/releases{/id}",
     "deployments_url": "https://api.github.com/repos/OWASP/www-project-eks-goat/deployments",
     "created_at": "2025-03-05T13:45:28Z",
-    "updated_at": "2025-05-21T04:35:19Z",
+    "updated_at": "2025-05-22T19:09:44Z",
     "pushed_at": "2025-04-27T14:46:58Z",
     "git_url": "git://github.com/OWASP/www-project-eks-goat.git",
     "ssh_url": "git@github.com:OWASP/www-project-eks-goat.git",
@@ -41596,8 +41972,8 @@
     "svn_url": "https://github.com/OWASP/www-project-eks-goat",
     "homepage": "",
     "size": 365,
-    "stargazers_count": 12,
-    "watchers_count": 12,
+    "stargazers_count": 13,
+    "watchers_count": 13,
     "language": "Shell",
     "has_issues": true,
     "has_projects": true,
@@ -41605,7 +41981,7 @@
     "has_wiki": true,
     "has_pages": true,
     "has_discussions": false,
-    "forks_count": 3,
+    "forks_count": 4,
     "mirror_url": null,
     "archived": false,
     "disabled": false,
@@ -41622,9 +41998,9 @@
     "web_commit_signoff_required": false,
     "topics": [],
     "visibility": "public",
-    "forks": 3,
+    "forks": 4,
     "open_issues": 0,
-    "watchers": 12,
+    "watchers": 13,
     "default_branch": "main",
     "permissions": {
       "admin": false,
@@ -41632,7 +42008,8 @@
       "push": false,
       "triage": false,
       "pull": false
-    }
+    },
+    "custom_properties": {}
   },
   {
     "id": 943304526,
@@ -41746,7 +42123,8 @@
       "push": false,
       "triage": false,
       "pull": false
-    }
+    },
+    "custom_properties": {}
   },
   {
     "id": 973669386,
@@ -41860,7 +42238,8 @@
       "push": false,
       "triage": false,
       "pull": false
-    }
+    },
+    "custom_properties": {}
   },
   {
     "id": 973673036,
@@ -41974,7 +42353,8 @@
       "push": false,
       "triage": false,
       "pull": false
-    }
+    },
+    "custom_properties": {}
   },
   {
     "id": 973691398,
@@ -42088,7 +42468,8 @@
       "push": false,
       "triage": false,
       "pull": false
-    }
+    },
+    "custom_properties": {}
   },
   {
     "id": 973694616,
@@ -42202,7 +42583,8 @@
       "push": false,
       "triage": false,
       "pull": false
-    }
+    },
+    "custom_properties": {}
   },
   {
     "id": 973697807,
@@ -42316,7 +42698,8 @@
       "push": false,
       "triage": false,
       "pull": false
-    }
+    },
+    "custom_properties": {}
   },
   {
     "id": 973710455,
@@ -42386,14 +42769,14 @@
     "releases_url": "https://api.github.com/repos/OWASP/www-project-cheat-code-series/releases{/id}",
     "deployments_url": "https://api.github.com/repos/OWASP/www-project-cheat-code-series/deployments",
     "created_at": "2025-04-27T15:21:24Z",
-    "updated_at": "2025-05-21T10:02:21Z",
-    "pushed_at": "2025-05-21T10:02:18Z",
+    "updated_at": "2025-05-22T11:56:30Z",
+    "pushed_at": "2025-05-22T11:56:26Z",
     "git_url": "git://github.com/OWASP/www-project-cheat-code-series.git",
     "ssh_url": "git@github.com:OWASP/www-project-cheat-code-series.git",
     "clone_url": "https://github.com/OWASP/www-project-cheat-code-series.git",
     "svn_url": "https://github.com/OWASP/www-project-cheat-code-series",
     "homepage": null,
-    "size": 420,
+    "size": 428,
     "stargazers_count": 0,
     "watchers_count": 0,
     "language": "Java",
@@ -42430,7 +42813,8 @@
       "push": false,
       "triage": false,
       "pull": false
-    }
+    },
+    "custom_properties": {}
   },
   {
     "id": 973712913,
@@ -42544,7 +42928,8 @@
       "push": false,
       "triage": false,
       "pull": false
-    }
+    },
+    "custom_properties": {}
   },
   {
     "id": 982306706,
@@ -42614,14 +42999,14 @@
     "releases_url": "https://api.github.com/repos/OWASP/www-project-vxdf/releases{/id}",
     "deployments_url": "https://api.github.com/repos/OWASP/www-project-vxdf/deployments",
     "created_at": "2025-05-12T17:23:04Z",
-    "updated_at": "2025-05-12T17:23:16Z",
-    "pushed_at": "2025-05-12T17:23:12Z",
+    "updated_at": "2025-05-22T04:27:02Z",
+    "pushed_at": "2025-05-22T04:26:59Z",
     "git_url": "git://github.com/OWASP/www-project-vxdf.git",
     "ssh_url": "git@github.com:OWASP/www-project-vxdf.git",
     "clone_url": "https://github.com/OWASP/www-project-vxdf.git",
     "svn_url": "https://github.com/OWASP/www-project-vxdf",
     "homepage": null,
-    "size": 8,
+    "size": 21,
     "stargazers_count": 0,
     "watchers_count": 0,
     "language": "HTML",
@@ -42637,11 +43022,11 @@
     "disabled": false,
     "open_issues_count": 0,
     "license": {
-      "key": "other",
-      "name": "Other",
-      "spdx_id": "NOASSERTION",
-      "url": null,
-      "node_id": "MDc6TGljZW5zZTA="
+      "key": "cc-by-sa-4.0",
+      "name": "Creative Commons Attribution Share Alike 4.0 International",
+      "spdx_id": "CC-BY-SA-4.0",
+      "url": "https://api.github.com/licenses/cc-by-sa-4.0",
+      "node_id": "MDc6TGljZW5zZTI2"
     },
     "allow_forking": true,
     "is_template": false,
@@ -42658,6 +43043,7 @@
       "push": false,
       "triage": false,
       "pull": false
-    }
+    },
+    "custom_properties": {}
   }
 ]
