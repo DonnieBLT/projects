@@ -5,14 +5,76 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="stylesheet" href="https://cdn.datatables.net/1.10.25/css/jquery.dataTables.min.css">
+    <link rel="stylesheet" href="https://cdn.datatables.net/responsive/2.2.9/css/responsive.dataTables.min.css">
     <style>
+        body {
+            margin: 0;
+            padding: 10px;
+            font-family: Arial, sans-serif;
+        }
+        
         th {
             position: sticky;
             top: 0;
             background-color: #f1f1f1;
         }
+        
         .dataTables_wrapper .dataTables_length {
             margin-bottom: 10px;
+        }
+        
+        /* Mobile responsive styles */
+        @media screen and (max-width: 768px) {
+            body {
+                padding: 5px;
+            }
+            
+            table.dataTable {
+                font-size: 12px;
+            }
+            
+            table.dataTable thead th,
+            table.dataTable thead td {
+                padding: 8px 4px;
+                font-size: 11px;
+            }
+            
+            table.dataTable tbody td {
+                padding: 6px 4px;
+            }
+            
+            .dataTables_wrapper .dataTables_length,
+            .dataTables_wrapper .dataTables_filter,
+            .dataTables_wrapper .dataTables_info,
+            .dataTables_wrapper .dataTables_paginate {
+                font-size: 12px;
+            }
+            
+            .dataTables_wrapper .dataTables_filter input {
+                width: 100px;
+            }
+            
+            /* Stack pagination buttons vertically on very small screens */
+            @media screen and (max-width: 480px) {
+                .dataTables_wrapper .dataTables_paginate .paginate_button {
+                    padding: 4px 8px;
+                    margin: 2px;
+                }
+            }
+        }
+        
+        /* Better handling of long text in cells */
+        table.dataTable td {
+            word-wrap: break-word;
+            word-break: break-word;
+        }
+        
+        /* Make links more touch-friendly on mobile */
+        @media screen and (max-width: 768px) {
+            a {
+                padding: 4px;
+                display: inline-block;
+            }
         }
     </style>
 </head>
@@ -33,6 +95,7 @@
 
     <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
     <script src="https://cdn.datatables.net/1.10.25/js/jquery.dataTables.min.js"></script>
+    <script src="https://cdn.datatables.net/responsive/2.2.9/js/dataTables.responsive.min.js"></script>
     <script>
         function getColor(minDate, maxDate, date) {
             const range = maxDate - minDate;
@@ -101,6 +164,7 @@
                 $('#projects').DataTable({
                     "data": projectsData,
                     "pageLength": 300,
+                    "responsive": true,
                     "columns": [
                         { "data": "project_name" },
                         {
@@ -134,7 +198,7 @@
                         { "data": "forks" },
                         { "data": "issues" },
                     ],
-                    "order": [[1, "desc"]]
+                    "order": [[2, "desc"]]
                 });
             });
         })();
