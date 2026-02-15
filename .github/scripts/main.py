@@ -11,11 +11,10 @@ SLACK_WEBHOOK_URL = os.environ["SLACK_WEBHOOK_URL"]
 def get_repos():
     all_repos = []
     page = 1
-    max_pages = 20
 
     headers = {"Authorization": f"token {os.environ['GITHUB_TOKEN']}"}
 
-    while page <= max_pages:
+    while True:
         url = f"{GITHUB_API_URL}/orgs/{ORG_NAME}/repos?per_page=100&page={page}"
         response = requests.get(url, headers=headers)
         response.raise_for_status()
